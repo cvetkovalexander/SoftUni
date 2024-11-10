@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\04.WordFilter\bin\Debug\net8.0\04.WordFilter.exe
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\04.WordFilter\bin\Debug\net8.0\04.WordFilter.deps.json
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\04.WordFilter\bin\Debug\net8.0\04.WordFilter.runtimeconfig.json
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\04.WordFilter\bin\Debug\net8.0\04.WordFilter.dll
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\04.WordFilter\bin\Debug\net8.0\04.WordFilter.pdb
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\04.WordFilter\obj\Debug\net8.0\04.WordFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\04.WordFilter\obj\Debug\net8.0\04.WordFilter.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\04.WordFilter\obj\Debug\net8.0\04.WordFilter.AssemblyInfo.cs
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\04.WordFilter\obj\Debug\net8.0\04.WordFilter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\04.WordFilter\obj\Debug\net8.0\04.WordFilter.dll
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\04.WordFilter\obj\Debug\net8.0\refint\04.WordFilter.dll
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\04.WordFilter\obj\Debug\net8.0\04.WordFilter.pdb
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\04.WordFilter\obj\Debug\net8.0\04.WordFilter.genruntimeconfig.cache
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\04.WordFilter\obj\Debug\net8.0\ref\04.WordFilter.dll

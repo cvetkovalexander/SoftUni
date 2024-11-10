@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\AssociativeArrays-Exercise\04.SoftUniParking\bin\Debug\net8.0\04.SoftUniParking.exe
+C:\Users\Admin\source\repos\AssociativeArrays-Exercise\04.SoftUniParking\bin\Debug\net8.0\04.SoftUniParking.deps.json
+C:\Users\Admin\source\repos\AssociativeArrays-Exercise\04.SoftUniParking\bin\Debug\net8.0\04.SoftUniParking.runtimeconfig.json
+C:\Users\Admin\source\repos\AssociativeArrays-Exercise\04.SoftUniParking\bin\Debug\net8.0\04.SoftUniParking.dll
+C:\Users\Admin\source\repos\AssociativeArrays-Exercise\04.SoftUniParking\bin\Debug\net8.0\04.SoftUniParking.pdb
+C:\Users\Admin\source\repos\AssociativeArrays-Exercise\04.SoftUniParking\obj\Debug\net8.0\04.SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\AssociativeArrays-Exercise\04.SoftUniParking\obj\Debug\net8.0\04.SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\AssociativeArrays-Exercise\04.SoftUniParking\obj\Debug\net8.0\04.SoftUniParking.AssemblyInfo.cs
+C:\Users\Admin\source\repos\AssociativeArrays-Exercise\04.SoftUniParking\obj\Debug\net8.0\04.SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AssociativeArrays-Exercise\04.SoftUniParking\obj\Debug\net8.0\04.SoftUniParking.dll
+C:\Users\Admin\source\repos\AssociativeArrays-Exercise\04.SoftUniParking\obj\Debug\net8.0\refint\04.SoftUniParking.dll
+C:\Users\Admin\source\repos\AssociativeArrays-Exercise\04.SoftUniParking\obj\Debug\net8.0\04.SoftUniParking.pdb
+C:\Users\Admin\source\repos\AssociativeArrays-Exercise\04.SoftUniParking\obj\Debug\net8.0\04.SoftUniParking.genruntimeconfig.cache
+C:\Users\Admin\source\repos\AssociativeArrays-Exercise\04.SoftUniParking\obj\Debug\net8.0\ref\04.SoftUniParking.dll

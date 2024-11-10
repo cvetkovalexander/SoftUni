@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\01.CountRealNumbers\bin\Debug\net8.0\01.CountRealNumbers.exe
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\01.CountRealNumbers\bin\Debug\net8.0\01.CountRealNumbers.deps.json
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\01.CountRealNumbers\bin\Debug\net8.0\01.CountRealNumbers.runtimeconfig.json
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\01.CountRealNumbers\bin\Debug\net8.0\01.CountRealNumbers.dll
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\01.CountRealNumbers\bin\Debug\net8.0\01.CountRealNumbers.pdb
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\01.CountRealNumbers\obj\Debug\net8.0\01.CountRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\01.CountRealNumbers\obj\Debug\net8.0\01.CountRealNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\01.CountRealNumbers\obj\Debug\net8.0\01.CountRealNumbers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\01.CountRealNumbers\obj\Debug\net8.0\01.CountRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\01.CountRealNumbers\obj\Debug\net8.0\01.CountRealNumbers.dll
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\01.CountRealNumbers\obj\Debug\net8.0\refint\01.CountRealNumbers.dll
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\01.CountRealNumbers\obj\Debug\net8.0\01.CountRealNumbers.pdb
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\01.CountRealNumbers\obj\Debug\net8.0\01.CountRealNumbers.genruntimeconfig.cache
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\01.CountRealNumbers\obj\Debug\net8.0\ref\01.CountRealNumbers.dll

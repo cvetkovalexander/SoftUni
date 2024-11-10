@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\02.OddOccurrences\bin\Debug\net8.0\02.OddOccurrences.exe
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\02.OddOccurrences\bin\Debug\net8.0\02.OddOccurrences.deps.json
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\02.OddOccurrences\bin\Debug\net8.0\02.OddOccurrences.runtimeconfig.json
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\02.OddOccurrences\bin\Debug\net8.0\02.OddOccurrences.dll
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\02.OddOccurrences\bin\Debug\net8.0\02.OddOccurrences.pdb
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\02.OddOccurrences\obj\Debug\net8.0\02.OddOccurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\02.OddOccurrences\obj\Debug\net8.0\02.OddOccurrences.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\02.OddOccurrences\obj\Debug\net8.0\02.OddOccurrences.AssemblyInfo.cs
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\02.OddOccurrences\obj\Debug\net8.0\02.OddOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\02.OddOccurrences\obj\Debug\net8.0\02.OddOccurrences.dll
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\02.OddOccurrences\obj\Debug\net8.0\refint\02.OddOccurrences.dll
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\02.OddOccurrences\obj\Debug\net8.0\02.OddOccurrences.pdb
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\02.OddOccurrences\obj\Debug\net8.0\02.OddOccurrences.genruntimeconfig.cache
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\02.OddOccurrences\obj\Debug\net8.0\ref\02.OddOccurrences.dll
