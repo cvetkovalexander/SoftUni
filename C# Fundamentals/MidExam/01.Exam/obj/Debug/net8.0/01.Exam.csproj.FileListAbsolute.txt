@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01.Exam\bin\Debug\net8.0\01.Exam.exe
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01.Exam\bin\Debug\net8.0\01.Exam.deps.json
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01.Exam\bin\Debug\net8.0\01.Exam.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01.Exam\bin\Debug\net8.0\01.Exam.dll
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01.Exam\bin\Debug\net8.0\01.Exam.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01.Exam\obj\Debug\net8.0\01.Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01.Exam\obj\Debug\net8.0\01.Exam.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01.Exam\obj\Debug\net8.0\01.Exam.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01.Exam\obj\Debug\net8.0\01.Exam.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01.Exam\obj\Debug\net8.0\01.Exam.dll
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01.Exam\obj\Debug\net8.0\refint\01.Exam.dll
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01.Exam\obj\Debug\net8.0\01.Exam.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01.Exam\obj\Debug\net8.0\01.Exam.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01.Exam\obj\Debug\net8.0\ref\01.Exam.dll

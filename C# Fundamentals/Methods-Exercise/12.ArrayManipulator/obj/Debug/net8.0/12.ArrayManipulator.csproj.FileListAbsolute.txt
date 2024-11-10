@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Fundamentals\Methods-Exercise\12.ArrayManipulator\bin\Debug\net8.0\12.ArrayManipulator.exe
+C:\Users\Admin\Desktop\C# Fundamentals\Methods-Exercise\12.ArrayManipulator\bin\Debug\net8.0\12.ArrayManipulator.deps.json
+C:\Users\Admin\Desktop\C# Fundamentals\Methods-Exercise\12.ArrayManipulator\bin\Debug\net8.0\12.ArrayManipulator.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Fundamentals\Methods-Exercise\12.ArrayManipulator\bin\Debug\net8.0\12.ArrayManipulator.dll
+C:\Users\Admin\Desktop\C# Fundamentals\Methods-Exercise\12.ArrayManipulator\bin\Debug\net8.0\12.ArrayManipulator.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\Methods-Exercise\12.ArrayManipulator\obj\Debug\net8.0\12.ArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Fundamentals\Methods-Exercise\12.ArrayManipulator\obj\Debug\net8.0\12.ArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\Methods-Exercise\12.ArrayManipulator\obj\Debug\net8.0\12.ArrayManipulator.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Fundamentals\Methods-Exercise\12.ArrayManipulator\obj\Debug\net8.0\12.ArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\Methods-Exercise\12.ArrayManipulator\obj\Debug\net8.0\12.ArrayManipulator.dll
+C:\Users\Admin\Desktop\C# Fundamentals\Methods-Exercise\12.ArrayManipulator\obj\Debug\net8.0\refint\12.ArrayManipulator.dll
+C:\Users\Admin\Desktop\C# Fundamentals\Methods-Exercise\12.ArrayManipulator\obj\Debug\net8.0\12.ArrayManipulator.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\Methods-Exercise\12.ArrayManipulator\obj\Debug\net8.0\12.ArrayManipulator.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Fundamentals\Methods-Exercise\12.ArrayManipulator\obj\Debug\net8.0\ref\12.ArrayManipulator.dll

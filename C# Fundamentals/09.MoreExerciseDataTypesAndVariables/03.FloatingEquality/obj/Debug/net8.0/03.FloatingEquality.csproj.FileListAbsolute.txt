@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Fundamentals\09.MoreExerciseDataTypesAndVariables\03.FloatingEquality\bin\Debug\net8.0\03.FloatingEquality.exe
+C:\Users\Admin\Desktop\C# Fundamentals\09.MoreExerciseDataTypesAndVariables\03.FloatingEquality\bin\Debug\net8.0\03.FloatingEquality.deps.json
+C:\Users\Admin\Desktop\C# Fundamentals\09.MoreExerciseDataTypesAndVariables\03.FloatingEquality\bin\Debug\net8.0\03.FloatingEquality.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Fundamentals\09.MoreExerciseDataTypesAndVariables\03.FloatingEquality\bin\Debug\net8.0\03.FloatingEquality.dll
+C:\Users\Admin\Desktop\C# Fundamentals\09.MoreExerciseDataTypesAndVariables\03.FloatingEquality\bin\Debug\net8.0\03.FloatingEquality.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\09.MoreExerciseDataTypesAndVariables\03.FloatingEquality\obj\Debug\net8.0\03.FloatingEquality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Fundamentals\09.MoreExerciseDataTypesAndVariables\03.FloatingEquality\obj\Debug\net8.0\03.FloatingEquality.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\09.MoreExerciseDataTypesAndVariables\03.FloatingEquality\obj\Debug\net8.0\03.FloatingEquality.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Fundamentals\09.MoreExerciseDataTypesAndVariables\03.FloatingEquality\obj\Debug\net8.0\03.FloatingEquality.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\09.MoreExerciseDataTypesAndVariables\03.FloatingEquality\obj\Debug\net8.0\03.FloatingEquality.dll
+C:\Users\Admin\Desktop\C# Fundamentals\09.MoreExerciseDataTypesAndVariables\03.FloatingEquality\obj\Debug\net8.0\refint\03.FloatingEquality.dll
+C:\Users\Admin\Desktop\C# Fundamentals\09.MoreExerciseDataTypesAndVariables\03.FloatingEquality\obj\Debug\net8.0\03.FloatingEquality.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\09.MoreExerciseDataTypesAndVariables\03.FloatingEquality\obj\Debug\net8.0\03.FloatingEquality.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Fundamentals\09.MoreExerciseDataTypesAndVariables\03.FloatingEquality\obj\Debug\net8.0\ref\03.FloatingEquality.dll

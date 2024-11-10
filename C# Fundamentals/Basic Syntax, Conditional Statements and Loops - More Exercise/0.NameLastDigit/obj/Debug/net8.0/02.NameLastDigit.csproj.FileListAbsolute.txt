@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\0.NameLastDigit\bin\Debug\net8.0\02.NameLastDigit.exe
+C:\Users\Admin\Desktop\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\0.NameLastDigit\bin\Debug\net8.0\02.NameLastDigit.deps.json
+C:\Users\Admin\Desktop\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\0.NameLastDigit\bin\Debug\net8.0\02.NameLastDigit.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\0.NameLastDigit\bin\Debug\net8.0\02.NameLastDigit.dll
+C:\Users\Admin\Desktop\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\0.NameLastDigit\bin\Debug\net8.0\02.NameLastDigit.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\0.NameLastDigit\obj\Debug\net8.0\02.NameLastDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\0.NameLastDigit\obj\Debug\net8.0\02.NameLastDigit.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\0.NameLastDigit\obj\Debug\net8.0\02.NameLastDigit.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\0.NameLastDigit\obj\Debug\net8.0\02.NameLastDigit.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\0.NameLastDigit\obj\Debug\net8.0\02.NameLastDigit.dll
+C:\Users\Admin\Desktop\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\0.NameLastDigit\obj\Debug\net8.0\refint\02.NameLastDigit.dll
+C:\Users\Admin\Desktop\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\0.NameLastDigit\obj\Debug\net8.0\02.NameLastDigit.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\0.NameLastDigit\obj\Debug\net8.0\02.NameLastDigit.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\0.NameLastDigit\obj\Debug\net8.0\ref\02.NameLastDigit.dll

@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01\bin\Debug\net8.0\01.burger.exe
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01\bin\Debug\net8.0\01.burger.deps.json
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01\bin\Debug\net8.0\01.burger.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01\bin\Debug\net8.0\01.burger.dll
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01\bin\Debug\net8.0\01.burger.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01\obj\Debug\net8.0\01.burger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01\obj\Debug\net8.0\01.burger.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01\obj\Debug\net8.0\01.burger.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01\obj\Debug\net8.0\01.burger.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01\obj\Debug\net8.0\01.burger.dll
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01\obj\Debug\net8.0\refint\01.burger.dll
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01\obj\Debug\net8.0\01.burger.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01\obj\Debug\net8.0\01.burger.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01\obj\Debug\net8.0\ref\01.burger.dll

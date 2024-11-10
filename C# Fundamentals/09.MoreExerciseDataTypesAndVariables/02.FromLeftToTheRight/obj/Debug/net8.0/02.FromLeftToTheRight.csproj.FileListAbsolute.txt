@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Fundamentals\09.MoreExerciseDataTypesAndVariables\02.FromLeftToTheRight\bin\Debug\net8.0\02.FromLeftToTheRight.exe
+C:\Users\Admin\Desktop\C# Fundamentals\09.MoreExerciseDataTypesAndVariables\02.FromLeftToTheRight\bin\Debug\net8.0\02.FromLeftToTheRight.deps.json
+C:\Users\Admin\Desktop\C# Fundamentals\09.MoreExerciseDataTypesAndVariables\02.FromLeftToTheRight\bin\Debug\net8.0\02.FromLeftToTheRight.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Fundamentals\09.MoreExerciseDataTypesAndVariables\02.FromLeftToTheRight\bin\Debug\net8.0\02.FromLeftToTheRight.dll
+C:\Users\Admin\Desktop\C# Fundamentals\09.MoreExerciseDataTypesAndVariables\02.FromLeftToTheRight\bin\Debug\net8.0\02.FromLeftToTheRight.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\09.MoreExerciseDataTypesAndVariables\02.FromLeftToTheRight\obj\Debug\net8.0\02.FromLeftToTheRight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Fundamentals\09.MoreExerciseDataTypesAndVariables\02.FromLeftToTheRight\obj\Debug\net8.0\02.FromLeftToTheRight.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\09.MoreExerciseDataTypesAndVariables\02.FromLeftToTheRight\obj\Debug\net8.0\02.FromLeftToTheRight.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Fundamentals\09.MoreExerciseDataTypesAndVariables\02.FromLeftToTheRight\obj\Debug\net8.0\02.FromLeftToTheRight.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\09.MoreExerciseDataTypesAndVariables\02.FromLeftToTheRight\obj\Debug\net8.0\02.FromLeftToTheRight.dll
+C:\Users\Admin\Desktop\C# Fundamentals\09.MoreExerciseDataTypesAndVariables\02.FromLeftToTheRight\obj\Debug\net8.0\refint\02.FromLeftToTheRight.dll
+C:\Users\Admin\Desktop\C# Fundamentals\09.MoreExerciseDataTypesAndVariables\02.FromLeftToTheRight\obj\Debug\net8.0\02.FromLeftToTheRight.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\09.MoreExerciseDataTypesAndVariables\02.FromLeftToTheRight\obj\Debug\net8.0\02.FromLeftToTheRight.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Fundamentals\09.MoreExerciseDataTypesAndVariables\02.FromLeftToTheRight\obj\Debug\net8.0\ref\02.FromLeftToTheRight.dll

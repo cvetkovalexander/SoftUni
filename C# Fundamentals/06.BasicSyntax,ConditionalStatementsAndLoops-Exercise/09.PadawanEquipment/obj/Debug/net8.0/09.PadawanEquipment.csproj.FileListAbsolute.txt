@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Fundamentals\06.BasicSyntax,ConditionalStatementsAndLoops-Exercise\09.PadawanEquipment\bin\Debug\net8.0\09.PadawanEquipment.exe
+C:\Users\Admin\Desktop\C# Fundamentals\06.BasicSyntax,ConditionalStatementsAndLoops-Exercise\09.PadawanEquipment\bin\Debug\net8.0\09.PadawanEquipment.deps.json
+C:\Users\Admin\Desktop\C# Fundamentals\06.BasicSyntax,ConditionalStatementsAndLoops-Exercise\09.PadawanEquipment\bin\Debug\net8.0\09.PadawanEquipment.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Fundamentals\06.BasicSyntax,ConditionalStatementsAndLoops-Exercise\09.PadawanEquipment\bin\Debug\net8.0\09.PadawanEquipment.dll
+C:\Users\Admin\Desktop\C# Fundamentals\06.BasicSyntax,ConditionalStatementsAndLoops-Exercise\09.PadawanEquipment\bin\Debug\net8.0\09.PadawanEquipment.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\06.BasicSyntax,ConditionalStatementsAndLoops-Exercise\09.PadawanEquipment\obj\Debug\net8.0\09.PadawanEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Fundamentals\06.BasicSyntax,ConditionalStatementsAndLoops-Exercise\09.PadawanEquipment\obj\Debug\net8.0\09.PadawanEquipment.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\06.BasicSyntax,ConditionalStatementsAndLoops-Exercise\09.PadawanEquipment\obj\Debug\net8.0\09.PadawanEquipment.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Fundamentals\06.BasicSyntax,ConditionalStatementsAndLoops-Exercise\09.PadawanEquipment\obj\Debug\net8.0\09.PadawanEquipment.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\06.BasicSyntax,ConditionalStatementsAndLoops-Exercise\09.PadawanEquipment\obj\Debug\net8.0\09.PadawanEquipment.dll
+C:\Users\Admin\Desktop\C# Fundamentals\06.BasicSyntax,ConditionalStatementsAndLoops-Exercise\09.PadawanEquipment\obj\Debug\net8.0\refint\09.PadawanEquipment.dll
+C:\Users\Admin\Desktop\C# Fundamentals\06.BasicSyntax,ConditionalStatementsAndLoops-Exercise\09.PadawanEquipment\obj\Debug\net8.0\09.PadawanEquipment.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\06.BasicSyntax,ConditionalStatementsAndLoops-Exercise\09.PadawanEquipment\obj\Debug\net8.0\09.PadawanEquipment.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Fundamentals\06.BasicSyntax,ConditionalStatementsAndLoops-Exercise\09.PadawanEquipment\obj\Debug\net8.0\ref\09.PadawanEquipment.dll

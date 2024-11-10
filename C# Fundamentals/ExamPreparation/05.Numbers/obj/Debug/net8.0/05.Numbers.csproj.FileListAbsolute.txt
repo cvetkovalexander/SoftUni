@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ExamPreparation\05.Numbers\bin\Debug\net8.0\05.Numbers.exe
+C:\Users\Admin\source\repos\ExamPreparation\05.Numbers\bin\Debug\net8.0\05.Numbers.deps.json
+C:\Users\Admin\source\repos\ExamPreparation\05.Numbers\bin\Debug\net8.0\05.Numbers.runtimeconfig.json
+C:\Users\Admin\source\repos\ExamPreparation\05.Numbers\bin\Debug\net8.0\05.Numbers.dll
+C:\Users\Admin\source\repos\ExamPreparation\05.Numbers\bin\Debug\net8.0\05.Numbers.pdb
+C:\Users\Admin\source\repos\ExamPreparation\05.Numbers\obj\Debug\net8.0\05.Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ExamPreparation\05.Numbers\obj\Debug\net8.0\05.Numbers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExamPreparation\05.Numbers\obj\Debug\net8.0\05.Numbers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExamPreparation\05.Numbers\obj\Debug\net8.0\05.Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExamPreparation\05.Numbers\obj\Debug\net8.0\05.Numbers.dll
+C:\Users\Admin\source\repos\ExamPreparation\05.Numbers\obj\Debug\net8.0\refint\05.Numbers.dll
+C:\Users\Admin\source\repos\ExamPreparation\05.Numbers\obj\Debug\net8.0\05.Numbers.pdb
+C:\Users\Admin\source\repos\ExamPreparation\05.Numbers\obj\Debug\net8.0\05.Numbers.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ExamPreparation\05.Numbers\obj\Debug\net8.0\ref\05.Numbers.dll

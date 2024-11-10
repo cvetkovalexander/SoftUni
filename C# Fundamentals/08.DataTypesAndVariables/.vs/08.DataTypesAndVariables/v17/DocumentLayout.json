@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\08.DataTypesAndVariables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A44957E4-98AE-4DAB-9FB1-F045A5BF621D}|12.RefactorSpecialNumbers\\12.RefactorSpecialNumbers.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\08.datatypesandvariables\\12.refactorspecialnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44957E4-98AE-4DAB-9FB1-F045A5BF621D}|12.RefactorSpecialNumbers\\12.RefactorSpecialNumbers.csproj|solutionrelative:12.refactorspecialnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BF32BE-AE90-42E7-913B-50602DEF7772}|05.SpecialNumbers\\05.SpecialNumbers.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\08.datatypesandvariables\\05.specialnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35BF32BE-AE90-42E7-913B-50602DEF7772}|05.SpecialNumbers\\05.SpecialNumbers.csproj|solutionrelative:05.specialnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044E55DC-B2EE-440B-BE03-CAB908ABFC43}|11.RefactorVolumeOfPyramid\\11.RefactorVolumeOfPyramid.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\08.datatypesandvariables\\11.refactorvolumeofpyramid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044E55DC-B2EE-440B-BE03-CAB908ABFC43}|11.RefactorVolumeOfPyramid\\11.RefactorVolumeOfPyramid.csproj|solutionrelative:11.refactorvolumeofpyramid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C48A19-5172-47DB-86FF-C8114D534A50}|10.LowerOrUpper\\10.LowerOrUpper.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\08.datatypesandvariables\\10.lowerorupper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C48A19-5172-47DB-86FF-C8114D534A50}|10.LowerOrUpper\\10.LowerOrUpper.csproj|solutionrelative:10.lowerorupper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A2C476-225E-4E9F-889F-5B00234F9FDD}|09.CharsToString\\09.CharsToString.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\08.datatypesandvariables\\09.charstostring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A2C476-225E-4E9F-889F-5B00234F9FDD}|09.CharsToString\\09.CharsToString.csproj|solutionrelative:09.charstostring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2959CF6-AE17-457D-B91F-A43EFC169FED}|08.TownInfo\\08.TownInfo.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\08.datatypesandvariables\\08.towninfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2959CF6-AE17-457D-B91F-A43EFC169FED}|08.TownInfo\\08.TownInfo.csproj|solutionrelative:08.towninfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B7E7CA4-5139-4CE1-9707-E4B115598F21}|07.ConcatNames\\07.ConcatNames.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\08.datatypesandvariables\\07.concatnames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B7E7CA4-5139-4CE1-9707-E4B115598F21}|07.ConcatNames\\07.ConcatNames.csproj|solutionrelative:07.concatnames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C881861-F994-4C39-BB34-7AFD763642B1}|06.ReversedChars\\06.ReversedChars.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\08.datatypesandvariables\\06.reversedchars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C881861-F994-4C39-BB34-7AFD763642B1}|06.ReversedChars\\06.ReversedChars.csproj|solutionrelative:06.reversedchars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14372A1F-78B7-4617-B2E2-25F1A23A87F8}|04.CenturiesToMinutes\\04.CenturiesToMinutes.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\08.datatypesandvariables\\04.centuriestominutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14372A1F-78B7-4617-B2E2-25F1A23A87F8}|04.CenturiesToMinutes\\04.CenturiesToMinutes.csproj|solutionrelative:04.centuriestominutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96D3CF3-A167-496C-9570-14B9EE4371A7}|03.ExactSumOfRealNumbers\\03.ExactSumOfRealNumbers.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\08.datatypesandvariables\\03.exactsumofrealnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96D3CF3-A167-496C-9570-14B9EE4371A7}|03.ExactSumOfRealNumbers\\03.ExactSumOfRealNumbers.csproj|solutionrelative:03.exactsumofrealnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EDCB65F-8515-476A-96EF-9BCC417597DF}|02.PoundsToDollar\\02.PoundsToDollar.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\08.datatypesandvariables\\02.poundstodollar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EDCB65F-8515-476A-96EF-9BCC417597DF}|02.PoundsToDollar\\02.PoundsToDollar.csproj|solutionrelative:02.poundstodollar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440CE413-3E11-427A-AE91-507AD4EBE3C9}|01.ConvertMetersToKilometers\\01.ConvertMetersToKilometers.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\08.datatypesandvariables\\01.convertmeterstokilometers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440CE413-3E11-427A-AE91-507AD4EBE3C9}|01.ConvertMetersToKilometers\\01.ConvertMetersToKilometers.csproj|solutionrelative:01.convertmeterstokilometers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\08.DataTypesAndVariables\\12.RefactorSpecialNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "12.RefactorSpecialNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\08.DataTypesAndVariables\\12.RefactorSpecialNumbers\\Program.cs",
+              "RelativeToolTip": "12.RefactorSpecialNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:06:07.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\08.DataTypesAndVariables\\11.RefactorVolumeOfPyramid\\Program.cs",
+              "RelativeDocumentMoniker": "11.RefactorVolumeOfPyramid\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\08.DataTypesAndVariables\\11.RefactorVolumeOfPyramid\\Program.cs",
+              "RelativeToolTip": "11.RefactorVolumeOfPyramid\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:54:34.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\08.DataTypesAndVariables\\10.LowerOrUpper\\Program.cs",
+              "RelativeDocumentMoniker": "10.LowerOrUpper\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\08.DataTypesAndVariables\\10.LowerOrUpper\\Program.cs",
+              "RelativeToolTip": "10.LowerOrUpper\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:48:11.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\08.DataTypesAndVariables\\09.CharsToString\\Program.cs",
+              "RelativeDocumentMoniker": "09.CharsToString\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\08.DataTypesAndVariables\\09.CharsToString\\Program.cs",
+              "RelativeToolTip": "09.CharsToString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:45:26.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\08.DataTypesAndVariables\\08.TownInfo\\Program.cs",
+              "RelativeDocumentMoniker": "08.TownInfo\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\08.DataTypesAndVariables\\08.TownInfo\\Program.cs",
+              "RelativeToolTip": "08.TownInfo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:44:46.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\08.DataTypesAndVariables\\07.ConcatNames\\Program.cs",
+              "RelativeDocumentMoniker": "07.ConcatNames\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\08.DataTypesAndVariables\\07.ConcatNames\\Program.cs",
+              "RelativeToolTip": "07.ConcatNames\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:42:10.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\08.DataTypesAndVariables\\06.ReversedChars\\Program.cs",
+              "RelativeDocumentMoniker": "06.ReversedChars\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\08.DataTypesAndVariables\\06.ReversedChars\\Program.cs",
+              "RelativeToolTip": "06.ReversedChars\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:28:01.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\08.DataTypesAndVariables\\05.SpecialNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "05.SpecialNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\08.DataTypesAndVariables\\05.SpecialNumbers\\Program.cs",
+              "RelativeToolTip": "05.SpecialNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:54:38.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\08.DataTypesAndVariables\\04.CenturiesToMinutes\\Program.cs",
+              "RelativeDocumentMoniker": "04.CenturiesToMinutes\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\08.DataTypesAndVariables\\04.CenturiesToMinutes\\Program.cs",
+              "RelativeToolTip": "04.CenturiesToMinutes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:35:05.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\08.DataTypesAndVariables\\03.ExactSumOfRealNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "03.ExactSumOfRealNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\08.DataTypesAndVariables\\03.ExactSumOfRealNumbers\\Program.cs",
+              "RelativeToolTip": "03.ExactSumOfRealNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:07:59.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\08.DataTypesAndVariables\\02.PoundsToDollar\\Program.cs",
+              "RelativeDocumentMoniker": "02.PoundsToDollar\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\08.DataTypesAndVariables\\02.PoundsToDollar\\Program.cs",
+              "RelativeToolTip": "02.PoundsToDollar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:06:21.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\08.DataTypesAndVariables\\01.ConvertMetersToKilometers\\Program.cs",
+              "RelativeDocumentMoniker": "01.ConvertMetersToKilometers\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\08.DataTypesAndVariables\\01.ConvertMetersToKilometers\\Program.cs",
+              "RelativeToolTip": "01.ConvertMetersToKilometers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:00:58.273Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

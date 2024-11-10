@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01.musicplaylit\bin\Debug\net8.0\02.musicplaylit.exe
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01.musicplaylit\bin\Debug\net8.0\02.musicplaylit.deps.json
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01.musicplaylit\bin\Debug\net8.0\02.musicplaylit.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01.musicplaylit\bin\Debug\net8.0\02.musicplaylit.dll
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01.musicplaylit\bin\Debug\net8.0\02.musicplaylit.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01.musicplaylit\obj\Debug\net8.0\02.musicplaylit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01.musicplaylit\obj\Debug\net8.0\02.musicplaylit.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01.musicplaylit\obj\Debug\net8.0\02.musicplaylit.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01.musicplaylit\obj\Debug\net8.0\02.musicplaylit.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01.musicplaylit\obj\Debug\net8.0\02.musicplaylit.dll
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01.musicplaylit\obj\Debug\net8.0\refint\02.musicplaylit.dll
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01.musicplaylit\obj\Debug\net8.0\02.musicplaylit.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01.musicplaylit\obj\Debug\net8.0\02.musicplaylit.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Fundamentals\MidExam\01.musicplaylit\obj\Debug\net8.0\ref\02.musicplaylit.dll

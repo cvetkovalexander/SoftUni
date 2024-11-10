@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Objects\u0410ndClasses-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8559E25-42B2-441A-B609-0322ACED4708}|07.VehicleCatalogue\\07.VehicleCatalogue.csproj|c:\\users\\admin\\source\\repos\\objects\u0430ndclasses-lab\\07.vehiclecatalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8559E25-42B2-441A-B609-0322ACED4708}|07.VehicleCatalogue\\07.VehicleCatalogue.csproj|solutionrelative:07.vehiclecatalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88BB5BE-AA34-4E15-9BE6-E93B57B3CCC9}|06.StoreBoxes\\06.StoreBoxes.csproj|c:\\users\\admin\\source\\repos\\objects\u0430ndclasses-lab\\06.storeboxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88BB5BE-AA34-4E15-9BE6-E93B57B3CCC9}|06.StoreBoxes\\06.StoreBoxes.csproj|solutionrelative:06.storeboxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4AA310-1E76-4F0C-85B6-DAFE81BDD811}|04.Students\\04.Students.csproj|c:\\users\\admin\\source\\repos\\objects\u0430ndclasses-lab\\04.students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4AA310-1E76-4F0C-85B6-DAFE81BDD811}|04.Students\\04.Students.csproj|solutionrelative:04.students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2713951-59E2-40DE-80CE-37B06CB63FAE}|03.Songs\\03.Songs.csproj|c:\\users\\admin\\source\\repos\\objects\u0430ndclasses-lab\\03.songs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2713951-59E2-40DE-80CE-37B06CB63FAE}|03.Songs\\03.Songs.csproj|solutionrelative:03.songs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4AA310-1E76-4F0C-85B6-DAFE81BDD811}|04.Students\\04.Students.csproj|c:\\users\\admin\\source\\repos\\objects\u0430ndclasses-lab\\04.students\\04.students.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D4AA310-1E76-4F0C-85B6-DAFE81BDD811}|04.Students\\04.Students.csproj|solutionrelative:04.students\\04.students.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA943C5-64D1-492B-80D3-D970389111FC}|02.BigFactorial\\02.BigFactorial.csproj|c:\\users\\admin\\source\\repos\\objects\u0430ndclasses-lab\\02.bigfactorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA943C5-64D1-492B-80D3-D970389111FC}|02.BigFactorial\\02.BigFactorial.csproj|solutionrelative:02.bigfactorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B13A7A1E-F08D-4A09-BA3D-5011E443A974}|01.RandomizeWords\\01.RandomizeWords.csproj|c:\\users\\admin\\source\\repos\\objects\u0430ndclasses-lab\\01.randomizewords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B13A7A1E-F08D-4A09-BA3D-5011E443A974}|01.RandomizeWords\\01.RandomizeWords.csproj|solutionrelative:01.randomizewords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "04.Students",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Objects\u0410ndClasses-Lab\\04.Students\\04.Students.csproj",
+              "RelativeDocumentMoniker": "04.Students\\04.Students.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Objects\u0410ndClasses-Lab\\04.Students\\04.Students.csproj",
+              "RelativeToolTip": "04.Students\\04.Students.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-25T15:01:26.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Objects\u0410ndClasses-Lab\\06.StoreBoxes\\Program.cs",
+              "RelativeDocumentMoniker": "06.StoreBoxes\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Objects\u0410ndClasses-Lab\\06.StoreBoxes\\Program.cs",
+              "RelativeToolTip": "06.StoreBoxes\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAswD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:06:21.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Objects\u0410ndClasses-Lab\\04.Students\\Program.cs",
+              "RelativeDocumentMoniker": "04.Students\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Objects\u0410ndClasses-Lab\\04.Students\\Program.cs",
+              "RelativeToolTip": "04.Students\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:05:44.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Objects\u0410ndClasses-Lab\\01.RandomizeWords\\Program.cs",
+              "RelativeDocumentMoniker": "01.RandomizeWords\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Objects\u0410ndClasses-Lab\\01.RandomizeWords\\Program.cs",
+              "RelativeToolTip": "01.RandomizeWords\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA2wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:04:22.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Objects\u0410ndClasses-Lab\\07.VehicleCatalogue\\Program.cs",
+              "RelativeDocumentMoniker": "07.VehicleCatalogue\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Objects\u0410ndClasses-Lab\\07.VehicleCatalogue\\Program.cs",
+              "RelativeToolTip": "07.VehicleCatalogue\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:06:34.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Objects\u0410ndClasses-Lab\\03.Songs\\Program.cs",
+              "RelativeDocumentMoniker": "03.Songs\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Objects\u0410ndClasses-Lab\\03.Songs\\Program.cs",
+              "RelativeToolTip": "03.Songs\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswB8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:05:12.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Objects\u0410ndClasses-Lab\\02.BigFactorial\\Program.cs",
+              "RelativeDocumentMoniker": "02.BigFactorial\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Objects\u0410ndClasses-Lab\\02.BigFactorial\\Program.cs",
+              "RelativeToolTip": "02.BigFactorial\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:04:58.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

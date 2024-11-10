@@ -1,0 +1,2 @@
+int[] numbers = Console.ReadLine().Split().Select(int.Parse).ToArray();
+if (index >= 0 && index < array.Length)
