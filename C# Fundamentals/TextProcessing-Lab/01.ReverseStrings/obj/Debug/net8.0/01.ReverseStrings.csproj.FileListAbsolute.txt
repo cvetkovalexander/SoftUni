@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Fundamentals\TextProcessing-Lab\01.ReverseStrings\bin\Debug\net8.0\01.ReverseStrings.exe
+C:\Users\Admin\Desktop\C# Fundamentals\TextProcessing-Lab\01.ReverseStrings\bin\Debug\net8.0\01.ReverseStrings.deps.json
+C:\Users\Admin\Desktop\C# Fundamentals\TextProcessing-Lab\01.ReverseStrings\bin\Debug\net8.0\01.ReverseStrings.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Fundamentals\TextProcessing-Lab\01.ReverseStrings\bin\Debug\net8.0\01.ReverseStrings.dll
+C:\Users\Admin\Desktop\C# Fundamentals\TextProcessing-Lab\01.ReverseStrings\bin\Debug\net8.0\01.ReverseStrings.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\TextProcessing-Lab\01.ReverseStrings\obj\Debug\net8.0\01.ReverseStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Fundamentals\TextProcessing-Lab\01.ReverseStrings\obj\Debug\net8.0\01.ReverseStrings.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\TextProcessing-Lab\01.ReverseStrings\obj\Debug\net8.0\01.ReverseStrings.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Fundamentals\TextProcessing-Lab\01.ReverseStrings\obj\Debug\net8.0\01.ReverseStrings.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\TextProcessing-Lab\01.ReverseStrings\obj\Debug\net8.0\01.ReverseStrings.dll
+C:\Users\Admin\Desktop\C# Fundamentals\TextProcessing-Lab\01.ReverseStrings\obj\Debug\net8.0\refint\01.ReverseStrings.dll
+C:\Users\Admin\Desktop\C# Fundamentals\TextProcessing-Lab\01.ReverseStrings\obj\Debug\net8.0\01.ReverseStrings.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\TextProcessing-Lab\01.ReverseStrings\obj\Debug\net8.0\01.ReverseStrings.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Fundamentals\TextProcessing-Lab\01.ReverseStrings\obj\Debug\net8.0\ref\01.ReverseStrings.dll

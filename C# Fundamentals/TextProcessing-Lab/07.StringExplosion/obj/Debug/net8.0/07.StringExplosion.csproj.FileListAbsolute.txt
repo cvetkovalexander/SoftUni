@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Fundamentals\TextProcessing-Lab\07.StringExplosion\bin\Debug\net8.0\07.StringExplosion.exe
+C:\Users\Admin\Desktop\C# Fundamentals\TextProcessing-Lab\07.StringExplosion\bin\Debug\net8.0\07.StringExplosion.deps.json
+C:\Users\Admin\Desktop\C# Fundamentals\TextProcessing-Lab\07.StringExplosion\bin\Debug\net8.0\07.StringExplosion.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Fundamentals\TextProcessing-Lab\07.StringExplosion\bin\Debug\net8.0\07.StringExplosion.dll
+C:\Users\Admin\Desktop\C# Fundamentals\TextProcessing-Lab\07.StringExplosion\bin\Debug\net8.0\07.StringExplosion.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\TextProcessing-Lab\07.StringExplosion\obj\Debug\net8.0\07.StringExplosion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Fundamentals\TextProcessing-Lab\07.StringExplosion\obj\Debug\net8.0\07.StringExplosion.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\TextProcessing-Lab\07.StringExplosion\obj\Debug\net8.0\07.StringExplosion.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Fundamentals\TextProcessing-Lab\07.StringExplosion\obj\Debug\net8.0\07.StringExplosion.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\TextProcessing-Lab\07.StringExplosion\obj\Debug\net8.0\07.StringExplosion.dll
+C:\Users\Admin\Desktop\C# Fundamentals\TextProcessing-Lab\07.StringExplosion\obj\Debug\net8.0\refint\07.StringExplosion.dll
+C:\Users\Admin\Desktop\C# Fundamentals\TextProcessing-Lab\07.StringExplosion\obj\Debug\net8.0\07.StringExplosion.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\TextProcessing-Lab\07.StringExplosion\obj\Debug\net8.0\07.StringExplosion.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Fundamentals\TextProcessing-Lab\07.StringExplosion\obj\Debug\net8.0\ref\07.StringExplosion.dll

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Basic Syntax, Conditional Statements and Loops - More Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73D5AD68-2746-40D7-9A03-C5F12FA02080}|05.Messages\\05.Messages.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\basic syntax, conditional statements and loops - more exercise\\05.messages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D5AD68-2746-40D7-9A03-C5F12FA02080}|05.Messages\\05.Messages.csproj|solutionrelative:05.messages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906F4DBE-86E6-4132-904A-7ECBF7DBB15B}|04.ReverseString\\04.ReverseString.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\basic syntax, conditional statements and loops - more exercise\\04.reversestring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906F4DBE-86E6-4132-904A-7ECBF7DBB15B}|04.ReverseString\\04.ReverseString.csproj|solutionrelative:04.reversestring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D0FFE2-8853-4EC4-B444-59FCC5F20EFA}|03.GamingStore\\03.GamingStore.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\basic syntax, conditional statements and loops - more exercise\\03.gamingstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D0FFE2-8853-4EC4-B444-59FCC5F20EFA}|03.GamingStore\\03.GamingStore.csproj|solutionrelative:03.gamingstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953089C7-B85C-41EE-9736-5BB4E3A761D1}|0.NameLastDigit\\0.NameLastDigit.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\basic syntax, conditional statements and loops - more exercise\\0.namelastdigit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953089C7-B85C-41EE-9736-5BB4E3A761D1}|0.NameLastDigit\\0.NameLastDigit.csproj|solutionrelative:0.namelastdigit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A668F0BC-3EE4-49C6-9E36-30E8D2E95713}|01.SortNumbers\\01.SortNumbers.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\basic syntax, conditional statements and loops - more exercise\\01.sortnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A668F0BC-3EE4-49C6-9E36-30E8D2E95713}|01.SortNumbers\\01.SortNumbers.csproj|solutionrelative:01.sortnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Basic Syntax, Conditional Statements and Loops - More Exercise\\05.Messages\\Program.cs",
+              "RelativeDocumentMoniker": "05.Messages\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Basic Syntax, Conditional Statements and Loops - More Exercise\\05.Messages\\Program.cs",
+              "RelativeToolTip": "05.Messages\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:45:54.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Basic Syntax, Conditional Statements and Loops - More Exercise\\04.ReverseString\\Program.cs",
+              "RelativeDocumentMoniker": "04.ReverseString\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Basic Syntax, Conditional Statements and Loops - More Exercise\\04.ReverseString\\Program.cs",
+              "RelativeToolTip": "04.ReverseString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:43:49.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Basic Syntax, Conditional Statements and Loops - More Exercise\\03.GamingStore\\Program.cs",
+              "RelativeDocumentMoniker": "03.GamingStore\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Basic Syntax, Conditional Statements and Loops - More Exercise\\03.GamingStore\\Program.cs",
+              "RelativeToolTip": "03.GamingStore\\Program.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAmwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T13:35:40.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Basic Syntax, Conditional Statements and Loops - More Exercise\\0.NameLastDigit\\Program.cs",
+              "RelativeDocumentMoniker": "0.NameLastDigit\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Basic Syntax, Conditional Statements and Loops - More Exercise\\0.NameLastDigit\\Program.cs",
+              "RelativeToolTip": "0.NameLastDigit\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T13:29:04.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Basic Syntax, Conditional Statements and Loops - More Exercise\\01.SortNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "01.SortNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Basic Syntax, Conditional Statements and Loops - More Exercise\\01.SortNumbers\\Program.cs",
+              "RelativeToolTip": "01.SortNumbers\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T13:15:17.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

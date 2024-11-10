@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ExamPreparation\01.BonusScoringSystem\bin\Debug\net8.0\04.BlackFlag.exe
+C:\Users\Admin\source\repos\ExamPreparation\01.BonusScoringSystem\bin\Debug\net8.0\04.BlackFlag.deps.json
+C:\Users\Admin\source\repos\ExamPreparation\01.BonusScoringSystem\bin\Debug\net8.0\04.BlackFlag.runtimeconfig.json
+C:\Users\Admin\source\repos\ExamPreparation\01.BonusScoringSystem\bin\Debug\net8.0\04.BlackFlag.dll
+C:\Users\Admin\source\repos\ExamPreparation\01.BonusScoringSystem\bin\Debug\net8.0\04.BlackFlag.pdb
+C:\Users\Admin\source\repos\ExamPreparation\01.BonusScoringSystem\obj\Debug\net8.0\04.BlackFlag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ExamPreparation\01.BonusScoringSystem\obj\Debug\net8.0\04.BlackFlag.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExamPreparation\01.BonusScoringSystem\obj\Debug\net8.0\04.BlackFlag.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExamPreparation\01.BonusScoringSystem\obj\Debug\net8.0\04.BlackFlag.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExamPreparation\01.BonusScoringSystem\obj\Debug\net8.0\04.BlackFlag.dll
+C:\Users\Admin\source\repos\ExamPreparation\01.BonusScoringSystem\obj\Debug\net8.0\refint\04.BlackFlag.dll
+C:\Users\Admin\source\repos\ExamPreparation\01.BonusScoringSystem\obj\Debug\net8.0\04.BlackFlag.pdb
+C:\Users\Admin\source\repos\ExamPreparation\01.BonusScoringSystem\obj\Debug\net8.0\04.BlackFlag.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ExamPreparation\01.BonusScoringSystem\obj\Debug\net8.0\ref\04.BlackFlag.dll

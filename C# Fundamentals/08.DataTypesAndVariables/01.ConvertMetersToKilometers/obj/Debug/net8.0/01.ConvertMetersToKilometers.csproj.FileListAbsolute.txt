@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\01.ConvertMetersToKilometers\bin\Debug\net8.0\01.ConvertMetersToKilometers.exe
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\01.ConvertMetersToKilometers\bin\Debug\net8.0\01.ConvertMetersToKilometers.deps.json
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\01.ConvertMetersToKilometers\bin\Debug\net8.0\01.ConvertMetersToKilometers.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\01.ConvertMetersToKilometers\bin\Debug\net8.0\01.ConvertMetersToKilometers.dll
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\01.ConvertMetersToKilometers\bin\Debug\net8.0\01.ConvertMetersToKilometers.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\01.ConvertMetersToKilometers\obj\Debug\net8.0\01.ConvertMetersToKilometers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\01.ConvertMetersToKilometers\obj\Debug\net8.0\01.ConvertMetersToKilometers.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\01.ConvertMetersToKilometers\obj\Debug\net8.0\01.ConvertMetersToKilometers.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\01.ConvertMetersToKilometers\obj\Debug\net8.0\01.ConvertMetersToKilometers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\01.ConvertMetersToKilometers\obj\Debug\net8.0\01.ConvertMetersToKilometers.dll
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\01.ConvertMetersToKilometers\obj\Debug\net8.0\refint\01.ConvertMetersToKilometers.dll
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\01.ConvertMetersToKilometers\obj\Debug\net8.0\01.ConvertMetersToKilometers.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\01.ConvertMetersToKilometers\obj\Debug\net8.0\01.ConvertMetersToKilometers.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\01.ConvertMetersToKilometers\obj\Debug\net8.0\ref\01.ConvertMetersToKilometers.dll

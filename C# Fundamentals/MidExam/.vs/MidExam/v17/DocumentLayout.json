@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\MidExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E130C14-C1FF-43B7-9FB6-28CF4D3D3392}|03.Exam\\03.Exam.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\midexam\\03.exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E130C14-C1FF-43B7-9FB6-28CF4D3D3392}|03.Exam\\03.Exam.csproj|solutionrelative:03.exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3AB5B4-13D8-44B8-9936-343E2CD810B8}|01.Exam\\01.Exam.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\midexam\\01.exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3AB5B4-13D8-44B8-9936-343E2CD810B8}|01.Exam\\01.Exam.csproj|solutionrelative:01.exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42449B1-4C91-4AD1-819C-D842F20C0C7D}|123123\\123123.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\midexam\\123123\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42449B1-4C91-4AD1-819C-D842F20C0C7D}|123123\\123123.csproj|solutionrelative:123123\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\MidExam\\123123\\Program.cs",
+              "RelativeDocumentMoniker": "123123\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\MidExam\\123123\\Program.cs",
+              "RelativeToolTip": "123123\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:45:20.326Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\MidExam\\01.Exam\\Program.cs",
+              "RelativeDocumentMoniker": "01.Exam\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\MidExam\\01.Exam\\Program.cs",
+              "RelativeToolTip": "01.Exam\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwEAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:12:48.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\MidExam\\03.Exam\\Program.cs",
+              "RelativeDocumentMoniker": "03.Exam\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\MidExam\\03.Exam\\Program.cs",
+              "RelativeToolTip": "03.Exam\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:12:44.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

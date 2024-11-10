@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Lists-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9460B43-6934-4F4C-8B41-81B345321578}|07.ListManipulationAdvanced\\07.ListManipulationAdvanced.csproj|c:\\users\\admin\\source\\repos\\lists-lab\\07.listmanipulationadvanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9460B43-6934-4F4C-8B41-81B345321578}|07.ListManipulationAdvanced\\07.ListManipulationAdvanced.csproj|solutionrelative:07.listmanipulationadvanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\Lists-Lab\\09.ListManipulationAdvanced\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:09.ListManipulationAdvanced\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD96CEF-FCB7-4409-BB3F-CD0AAD82EFF0}|06.ListManipulationBasics\\06.ListManipulationBasics.csproj|c:\\users\\admin\\source\\repos\\lists-lab\\06.listmanipulationbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD96CEF-FCB7-4409-BB3F-CD0AAD82EFF0}|06.ListManipulationBasics\\06.ListManipulationBasics.csproj|solutionrelative:06.listmanipulationbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5275F72-E139-42C1-BE42-4B0052024C56}|00.Test\\00.Test.csproj|c:\\users\\admin\\source\\repos\\lists-lab\\00.test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5275F72-E139-42C1-BE42-4B0052024C56}|00.Test\\00.Test.csproj|solutionrelative:00.test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88D2310-2C92-452B-8F78-833E485D8C2F}|05.RemoveNegativesAndReverse\\05.RemoveNegativesAndReverse.csproj|c:\\users\\admin\\source\\repos\\lists-lab\\05.removenegativesandreverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88D2310-2C92-452B-8F78-833E485D8C2F}|05.RemoveNegativesAndReverse\\05.RemoveNegativesAndReverse.csproj|solutionrelative:05.removenegativesandreverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED24E808-9D76-4CA5-B376-F27596BE7EAF}|03.MergingLists\\03.MergingLists.csproj|c:\\users\\admin\\source\\repos\\lists-lab\\03.merginglists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED24E808-9D76-4CA5-B376-F27596BE7EAF}|03.MergingLists\\03.MergingLists.csproj|solutionrelative:03.merginglists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEBD288-143D-437B-99B0-BA1E6C808E32}|04.ListOfProducts\\04.ListOfProducts.csproj|c:\\users\\admin\\source\\repos\\lists-lab\\04.listofproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BEBD288-143D-437B-99B0-BA1E6C808E32}|04.ListOfProducts\\04.ListOfProducts.csproj|solutionrelative:04.listofproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1102A1F9-3215-4D9F-9E18-6B954B850556}|02.Gauss\u0027Trick\\02.Gauss\u0027Trick.csproj|c:\\users\\admin\\source\\repos\\lists-lab\\02.gauss\u0027trick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1102A1F9-3215-4D9F-9E18-6B954B850556}|02.Gauss\u0027Trick\\02.Gauss\u0027Trick.csproj|solutionrelative:02.gauss\u0027trick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251BB94A-F221-47D4-A996-E266B6360B35}|01.SumAdjacentEqualNumbers\\01.SumAdjacentEqualNumbers.csproj|c:\\users\\admin\\source\\repos\\lists-lab\\01.sumadjacentequalnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251BB94A-F221-47D4-A996-E266B6360B35}|01.SumAdjacentEqualNumbers\\01.SumAdjacentEqualNumbers.csproj|solutionrelative:01.sumadjacentequalnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lists-Lab\\09.ListManipulationAdvanced\\Program.cs",
+              "RelativeDocumentMoniker": "09.ListManipulationAdvanced\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lists-Lab\\09.ListManipulationAdvanced\\Program.cs",
+              "RelativeToolTip": "09.ListManipulationAdvanced\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:15:47.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lists-Lab\\07.ListManipulationAdvanced\\Program.cs",
+              "RelativeDocumentMoniker": "07.ListManipulationAdvanced\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lists-Lab\\07.ListManipulationAdvanced\\Program.cs",
+              "RelativeToolTip": "07.ListManipulationAdvanced\\Program.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAAAMcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T11:13:48.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lists-Lab\\00.Test\\Program.cs",
+              "RelativeDocumentMoniker": "00.Test\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lists-Lab\\00.Test\\Program.cs",
+              "RelativeToolTip": "00.Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T11:05:27.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lists-Lab\\06.ListManipulationBasics\\Program.cs",
+              "RelativeDocumentMoniker": "06.ListManipulationBasics\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lists-Lab\\06.ListManipulationBasics\\Program.cs",
+              "RelativeToolTip": "06.ListManipulationBasics\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:58:10.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lists-Lab\\05.RemoveNegativesAndReverse\\Program.cs",
+              "RelativeDocumentMoniker": "05.RemoveNegativesAndReverse\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lists-Lab\\05.RemoveNegativesAndReverse\\Program.cs",
+              "RelativeToolTip": "05.RemoveNegativesAndReverse\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:48:24.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lists-Lab\\04.ListOfProducts\\Program.cs",
+              "RelativeDocumentMoniker": "04.ListOfProducts\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lists-Lab\\04.ListOfProducts\\Program.cs",
+              "RelativeToolTip": "04.ListOfProducts\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:42:41.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lists-Lab\\03.MergingLists\\Program.cs",
+              "RelativeDocumentMoniker": "03.MergingLists\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lists-Lab\\03.MergingLists\\Program.cs",
+              "RelativeToolTip": "03.MergingLists\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:12:23.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lists-Lab\\02.Gauss\u0027Trick\\Program.cs",
+              "RelativeDocumentMoniker": "02.Gauss\u0027Trick\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lists-Lab\\02.Gauss\u0027Trick\\Program.cs",
+              "RelativeToolTip": "02.Gauss\u0027Trick\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:58:45.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lists-Lab\\01.SumAdjacentEqualNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "01.SumAdjacentEqualNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lists-Lab\\01.SumAdjacentEqualNumbers\\Program.cs",
+              "RelativeToolTip": "01.SumAdjacentEqualNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:50:12.01Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

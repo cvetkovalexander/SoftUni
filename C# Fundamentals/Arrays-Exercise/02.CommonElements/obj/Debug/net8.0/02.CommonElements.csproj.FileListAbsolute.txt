@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Fundamentals\Arrays-Exercise\02.CommonElements\bin\Debug\net8.0\02.CommonElements.exe
+C:\Users\Admin\Desktop\C# Fundamentals\Arrays-Exercise\02.CommonElements\bin\Debug\net8.0\02.CommonElements.deps.json
+C:\Users\Admin\Desktop\C# Fundamentals\Arrays-Exercise\02.CommonElements\bin\Debug\net8.0\02.CommonElements.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Fundamentals\Arrays-Exercise\02.CommonElements\bin\Debug\net8.0\02.CommonElements.dll
+C:\Users\Admin\Desktop\C# Fundamentals\Arrays-Exercise\02.CommonElements\bin\Debug\net8.0\02.CommonElements.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\Arrays-Exercise\02.CommonElements\obj\Debug\net8.0\02.CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Fundamentals\Arrays-Exercise\02.CommonElements\obj\Debug\net8.0\02.CommonElements.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\Arrays-Exercise\02.CommonElements\obj\Debug\net8.0\02.CommonElements.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Fundamentals\Arrays-Exercise\02.CommonElements\obj\Debug\net8.0\02.CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\Arrays-Exercise\02.CommonElements\obj\Debug\net8.0\02.CommonElements.dll
+C:\Users\Admin\Desktop\C# Fundamentals\Arrays-Exercise\02.CommonElements\obj\Debug\net8.0\refint\02.CommonElements.dll
+C:\Users\Admin\Desktop\C# Fundamentals\Arrays-Exercise\02.CommonElements\obj\Debug\net8.0\02.CommonElements.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\Arrays-Exercise\02.CommonElements\obj\Debug\net8.0\02.CommonElements.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Fundamentals\Arrays-Exercise\02.CommonElements\obj\Debug\net8.0\ref\02.CommonElements.dll

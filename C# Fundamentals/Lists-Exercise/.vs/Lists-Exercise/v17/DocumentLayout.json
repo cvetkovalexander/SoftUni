@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Lists-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E5B4DB-4A05-4875-AD00-16833FEEE0A7}|08.AnonymousThreat\\08.AnonymousThreat.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\lists-exercise\\08.anonymousthreat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E5B4DB-4A05-4875-AD00-16833FEEE0A7}|08.AnonymousThreat\\08.AnonymousThreat.csproj|solutionrelative:08.anonymousthreat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578460A5-9778-4DA2-A5C6-A56DCC249AF1}|10.SoftUniCoursePlanning\\10.SoftUniCoursePlanning.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\lists-exercise\\10.softunicourseplanning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578460A5-9778-4DA2-A5C6-A56DCC249AF1}|10.SoftUniCoursePlanning\\10.SoftUniCoursePlanning.csproj|solutionrelative:10.softunicourseplanning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8A552F-1A52-4529-A6A6-2561E2B752EA}|03.HouseParty\\03.HouseParty.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\lists-exercise\\03.houseparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8A552F-1A52-4529-A6A6-2561E2B752EA}|03.HouseParty\\03.HouseParty.csproj|solutionrelative:03.houseparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77694044-BCD0-4BF9-B808-0ECBA58980AB}|09.PokemonDon\u0027tGo\\09.PokemonDon\u0027tGo.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\lists-exercise\\09.pokemondon\u0027tgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77694044-BCD0-4BF9-B808-0ECBA58980AB}|09.PokemonDon\u0027tGo\\09.PokemonDon\u0027tGo.csproj|solutionrelative:09.pokemondon\u0027tgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C7A427-82AC-4E11-B8B5-0E8EF2963C17}|06.CardsGame\\06.CardsGame.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\lists-exercise\\06.cardsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C7A427-82AC-4E11-B8B5-0E8EF2963C17}|06.CardsGame\\06.CardsGame.csproj|solutionrelative:06.cardsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CECDC70-AC40-412A-A958-02701FFC9C20}|07.AppendArrays\\07.AppendArrays.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\lists-exercise\\07.appendarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CECDC70-AC40-412A-A958-02701FFC9C20}|07.AppendArrays\\07.AppendArrays.csproj|solutionrelative:07.appendarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506CA2F0-A77E-48DE-BAA2-E7A399953B49}|05.BombNumbers\\05.BombNumbers.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\lists-exercise\\05.bombnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{506CA2F0-A77E-48DE-BAA2-E7A399953B49}|05.BombNumbers\\05.BombNumbers.csproj|solutionrelative:05.bombnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BDCA687-EF4E-4530-990C-DB3ADFA2484E}|04.ListOperations\\04.ListOperations.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\lists-exercise\\04.listoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BDCA687-EF4E-4530-990C-DB3ADFA2484E}|04.ListOperations\\04.ListOperations.csproj|solutionrelative:04.listoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C939D9-8FD2-48F3-B3E9-B068DDEA9D5E}|02.ChangeList\\02.ChangeList.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\lists-exercise\\02.changelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C939D9-8FD2-48F3-B3E9-B068DDEA9D5E}|02.ChangeList\\02.ChangeList.csproj|solutionrelative:02.changelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A701F76-33C8-4410-AFE8-24F40611C954}|01.Train\\01.Train.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\lists-exercise\\01.train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A701F76-33C8-4410-AFE8-24F40611C954}|01.Train\\01.Train.csproj|solutionrelative:01.train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Lists-Exercise\\10.SoftUniCoursePlanning\\Program.cs",
+              "RelativeDocumentMoniker": "10.SoftUniCoursePlanning\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Lists-Exercise\\10.SoftUniCoursePlanning\\Program.cs",
+              "RelativeToolTip": "10.SoftUniCoursePlanning\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:36:03.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Lists-Exercise\\08.AnonymousThreat\\Program.cs",
+              "RelativeDocumentMoniker": "08.AnonymousThreat\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Lists-Exercise\\08.AnonymousThreat\\Program.cs",
+              "RelativeToolTip": "08.AnonymousThreat\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswEoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:38:43.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Lists-Exercise\\07.AppendArrays\\Program.cs",
+              "RelativeDocumentMoniker": "07.AppendArrays\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Lists-Exercise\\07.AppendArrays\\Program.cs",
+              "RelativeToolTip": "07.AppendArrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:09:09.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Lists-Exercise\\06.CardsGame\\Program.cs",
+              "RelativeDocumentMoniker": "06.CardsGame\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Lists-Exercise\\06.CardsGame\\Program.cs",
+              "RelativeToolTip": "06.CardsGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T17:56:29.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Lists-Exercise\\05.BombNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "05.BombNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Lists-Exercise\\05.BombNumbers\\Program.cs",
+              "RelativeToolTip": "05.BombNumbers\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T17:50:49.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Lists-Exercise\\03.HouseParty\\Program.cs",
+              "RelativeDocumentMoniker": "03.HouseParty\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Lists-Exercise\\03.HouseParty\\Program.cs",
+              "RelativeToolTip": "03.HouseParty\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:25:32.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Lists-Exercise\\09.PokemonDon\u0027tGo\\Program.cs",
+              "RelativeDocumentMoniker": "09.PokemonDon\u0027tGo\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Lists-Exercise\\09.PokemonDon\u0027tGo\\Program.cs",
+              "RelativeToolTip": "09.PokemonDon\u0027tGo\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:59:34.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Lists-Exercise\\04.ListOperations\\Program.cs",
+              "RelativeDocumentMoniker": "04.ListOperations\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Lists-Exercise\\04.ListOperations\\Program.cs",
+              "RelativeToolTip": "04.ListOperations\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T17:08:24.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Lists-Exercise\\02.ChangeList\\Program.cs",
+              "RelativeDocumentMoniker": "02.ChangeList\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Lists-Exercise\\02.ChangeList\\Program.cs",
+              "RelativeToolTip": "02.ChangeList\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:17:32.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Lists-Exercise\\01.Train\\Program.cs",
+              "RelativeDocumentMoniker": "01.Train\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Lists-Exercise\\01.Train\\Program.cs",
+              "RelativeToolTip": "01.Train\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA5wBUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:51:49.818Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

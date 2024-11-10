@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\06.ReversedChars\bin\Debug\net8.0\06.ReversedChars.exe
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\06.ReversedChars\bin\Debug\net8.0\06.ReversedChars.deps.json
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\06.ReversedChars\bin\Debug\net8.0\06.ReversedChars.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\06.ReversedChars\bin\Debug\net8.0\06.ReversedChars.dll
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\06.ReversedChars\bin\Debug\net8.0\06.ReversedChars.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\06.ReversedChars\obj\Debug\net8.0\06.ReversedChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\06.ReversedChars\obj\Debug\net8.0\06.ReversedChars.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\06.ReversedChars\obj\Debug\net8.0\06.ReversedChars.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\06.ReversedChars\obj\Debug\net8.0\06.ReversedChars.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\06.ReversedChars\obj\Debug\net8.0\06.ReversedChars.dll
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\06.ReversedChars\obj\Debug\net8.0\refint\06.ReversedChars.dll
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\06.ReversedChars\obj\Debug\net8.0\06.ReversedChars.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\06.ReversedChars\obj\Debug\net8.0\06.ReversedChars.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\06.ReversedChars\obj\Debug\net8.0\ref\06.ReversedChars.dll

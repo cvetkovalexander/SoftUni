@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Arrays-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E38B59F2-3C92-4303-999F-8590FD8E0AFA}|04.ReverseArrayOfStrings\\04.ReverseArrayOfStrings.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\arrays-lab\\04.reversearrayofstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38B59F2-3C92-4303-999F-8590FD8E0AFA}|04.ReverseArrayOfStrings\\04.ReverseArrayOfStrings.csproj|solutionrelative:04.reversearrayofstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55A54DC-CDB1-4EF7-BB24-9BBFEEE42C01}|03.RoundingNumbers\\03.RoundingNumbers.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\arrays-lab\\03.roundingnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A55A54DC-CDB1-4EF7-BB24-9BBFEEE42C01}|03.RoundingNumbers\\03.RoundingNumbers.csproj|solutionrelative:03.roundingnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F027E1-2671-464B-B64A-59158C6BBF8D}|02.PrintNumbersInReverseOrder\\02.PrintNumbersInReverseOrder.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\arrays-lab\\02.printnumbersinreverseorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F027E1-2671-464B-B64A-59158C6BBF8D}|02.PrintNumbersInReverseOrder\\02.PrintNumbersInReverseOrder.csproj|solutionrelative:02.printnumbersinreverseorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8243E51A-362E-4DAF-B25F-E0503B8B6739}|08.CondenseArrayToNumber\\08.CondenseArrayToNumber.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\arrays-lab\\08.condensearraytonumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8243E51A-362E-4DAF-B25F-E0503B8B6739}|08.CondenseArrayToNumber\\08.CondenseArrayToNumber.csproj|solutionrelative:08.condensearraytonumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFF493A-F80C-4B21-84E6-0B766B239C63}|07.EqualArrays\\07.EqualArrays.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\arrays-lab\\07.equalarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFF493A-F80C-4B21-84E6-0B766B239C63}|07.EqualArrays\\07.EqualArrays.csproj|solutionrelative:07.equalarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC9A48A-470D-4288-A424-B513A15D62FA}|06.EvenAndOddSubtraction\\06.EvenAndOddSubtraction.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\arrays-lab\\06.evenandoddsubtraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC9A48A-470D-4288-A424-B513A15D62FA}|06.EvenAndOddSubtraction\\06.EvenAndOddSubtraction.csproj|solutionrelative:06.evenandoddsubtraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5CAAC3-D1B0-4CF0-AD53-55C8015A35B4}|05.SumEvenNumbers\\05.SumEvenNumbers.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\arrays-lab\\05.sumevennumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5CAAC3-D1B0-4CF0-AD53-55C8015A35B4}|05.SumEvenNumbers\\05.SumEvenNumbers.csproj|solutionrelative:05.sumevennumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1B334A-731F-4AC5-9E62-F47347B6A9A0}|01.DayOfWeek\\01.DayOfWeek.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\arrays-lab\\01.dayofweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF1B334A-731F-4AC5-9E62-F47347B6A9A0}|01.DayOfWeek\\01.DayOfWeek.csproj|solutionrelative:01.dayofweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55A54DC-CDB1-4EF7-BB24-9BBFEEE42C01}|03.RoundingNumbers\\03.RoundingNumbers.csproj|c:\\users\\admin\\desktop\\c# fundamentals\\arrays-lab\\03.roundingnumbers\\03.roundingnumbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A55A54DC-CDB1-4EF7-BB24-9BBFEEE42C01}|03.RoundingNumbers\\03.RoundingNumbers.csproj|solutionrelative:03.roundingnumbers\\03.roundingnumbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "03.RoundingNumbers.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Arrays-Lab\\03.RoundingNumbers\\03.RoundingNumbers.csproj",
+              "RelativeDocumentMoniker": "03.RoundingNumbers\\03.RoundingNumbers.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Arrays-Lab\\03.RoundingNumbers\\03.RoundingNumbers.csproj",
+              "RelativeToolTip": "03.RoundingNumbers\\03.RoundingNumbers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-02T14:34:25.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Arrays-Lab\\08.CondenseArrayToNumber\\Program.cs",
+              "RelativeDocumentMoniker": "08.CondenseArrayToNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Arrays-Lab\\08.CondenseArrayToNumber\\Program.cs",
+              "RelativeToolTip": "08.CondenseArrayToNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T11:31:00.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Arrays-Lab\\07.EqualArrays\\Program.cs",
+              "RelativeDocumentMoniker": "07.EqualArrays\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Arrays-Lab\\07.EqualArrays\\Program.cs",
+              "RelativeToolTip": "07.EqualArrays\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T11:22:37.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Arrays-Lab\\06.EvenAndOddSubtraction\\Program.cs",
+              "RelativeDocumentMoniker": "06.EvenAndOddSubtraction\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Arrays-Lab\\06.EvenAndOddSubtraction\\Program.cs",
+              "RelativeToolTip": "06.EvenAndOddSubtraction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T11:18:19.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Arrays-Lab\\05.SumEvenNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "05.SumEvenNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Arrays-Lab\\05.SumEvenNumbers\\Program.cs",
+              "RelativeToolTip": "05.SumEvenNumbers\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA1wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T11:15:17.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Arrays-Lab\\04.ReverseArrayOfStrings\\Program.cs",
+              "RelativeDocumentMoniker": "04.ReverseArrayOfStrings\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Arrays-Lab\\04.ReverseArrayOfStrings\\Program.cs",
+              "RelativeToolTip": "04.ReverseArrayOfStrings\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T10:54:31.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Arrays-Lab\\03.RoundingNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "03.RoundingNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Arrays-Lab\\03.RoundingNumbers\\Program.cs",
+              "RelativeToolTip": "03.RoundingNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T10:44:08.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Arrays-Lab\\02.PrintNumbersInReverseOrder\\Program.cs",
+              "RelativeDocumentMoniker": "02.PrintNumbersInReverseOrder\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Arrays-Lab\\02.PrintNumbersInReverseOrder\\Program.cs",
+              "RelativeToolTip": "02.PrintNumbersInReverseOrder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T10:38:11.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Arrays-Lab\\01.DayOfWeek\\Program.cs",
+              "RelativeDocumentMoniker": "01.DayOfWeek\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Fundamentals\\Arrays-Lab\\01.DayOfWeek\\Program.cs",
+              "RelativeToolTip": "01.DayOfWeek\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T10:33:16.254Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

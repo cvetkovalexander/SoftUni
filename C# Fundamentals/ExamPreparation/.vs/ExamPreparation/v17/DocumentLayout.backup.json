@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\ExamPreparation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6045F682-B025-43A8-9DB1-6C3F8ED47EFA}|05.Numbers\\05.Numbers.csproj|c:\\users\\admin\\source\\repos\\exampreparation\\05.numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6045F682-B025-43A8-9DB1-6C3F8ED47EFA}|05.Numbers\\05.Numbers.csproj|solutionrelative:05.numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5BA94D-1B99-44FD-BBB5-76FB4708061C}|01.BonusScoringSystem\\04.BlackFlag.csproj|c:\\users\\admin\\source\\repos\\exampreparation\\01.bonusscoringsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5BA94D-1B99-44FD-BBB5-76FB4708061C}|01.BonusScoringSystem\\04.BlackFlag.csproj|solutionrelative:01.bonusscoringsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB375A1-5E82-4C07-99FA-522E47EF7B3A}|03.MemoryGame\\03.MemoryGame.csproj|c:\\users\\admin\\source\\repos\\exampreparation\\03.memorygame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB375A1-5E82-4C07-99FA-522E47EF7B3A}|03.MemoryGame\\03.MemoryGame.csproj|solutionrelative:03.memorygame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E071E2-001C-4DA3-9B92-B5174E37556F}|02.ShootForTheWin\\02.ShootForTheWin.csproj|c:\\users\\admin\\source\\repos\\exampreparation\\02.shootforthewin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E071E2-001C-4DA3-9B92-B5174E37556F}|02.ShootForTheWin\\02.ShootForTheWin.csproj|solutionrelative:02.shootforthewin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B87136A-78AA-4256-8B26-9FAF7B83599E}|01.ComputerStore\\01.ComputerStore.csproj|c:\\users\\admin\\source\\repos\\exampreparation\\01.computerstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B87136A-78AA-4256-8B26-9FAF7B83599E}|01.ComputerStore\\01.ComputerStore.csproj|solutionrelative:01.computerstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ExamPreparation\\05.Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "05.Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ExamPreparation\\05.Numbers\\Program.cs",
+              "RelativeToolTip": "05.Numbers\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAzwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:21:51.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ExamPreparation\\01.BonusScoringSystem\\Program.cs",
+              "RelativeDocumentMoniker": "01.BonusScoringSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ExamPreparation\\01.BonusScoringSystem\\Program.cs",
+              "RelativeToolTip": "01.BonusScoringSystem\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T18:23:38.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ExamPreparation\\03.MemoryGame\\Program.cs",
+              "RelativeDocumentMoniker": "03.MemoryGame\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ExamPreparation\\03.MemoryGame\\Program.cs",
+              "RelativeToolTip": "03.MemoryGame\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwCYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:53:32.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ExamPreparation\\02.ShootForTheWin\\Program.cs",
+              "RelativeDocumentMoniker": "02.ShootForTheWin\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ExamPreparation\\02.ShootForTheWin\\Program.cs",
+              "RelativeToolTip": "02.ShootForTheWin\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:25:53.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ExamPreparation\\01.ComputerStore\\Program.cs",
+              "RelativeDocumentMoniker": "01.ComputerStore\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ExamPreparation\\01.ComputerStore\\Program.cs",
+              "RelativeToolTip": "01.ComputerStore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T19:03:27.255Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

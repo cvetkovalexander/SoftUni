@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Fundamentals\Lists-Exercise\09.PokemonDon'tGo\bin\Debug\net8.0\09.PokemonDon'tGo.exe
+C:\Users\Admin\Desktop\C# Fundamentals\Lists-Exercise\09.PokemonDon'tGo\bin\Debug\net8.0\09.PokemonDon'tGo.deps.json
+C:\Users\Admin\Desktop\C# Fundamentals\Lists-Exercise\09.PokemonDon'tGo\bin\Debug\net8.0\09.PokemonDon'tGo.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Fundamentals\Lists-Exercise\09.PokemonDon'tGo\bin\Debug\net8.0\09.PokemonDon'tGo.dll
+C:\Users\Admin\Desktop\C# Fundamentals\Lists-Exercise\09.PokemonDon'tGo\bin\Debug\net8.0\09.PokemonDon'tGo.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\Lists-Exercise\09.PokemonDon'tGo\obj\Debug\net8.0\09.PokemonDon'tGo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Fundamentals\Lists-Exercise\09.PokemonDon'tGo\obj\Debug\net8.0\09.PokemonDon'tGo.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\Lists-Exercise\09.PokemonDon'tGo\obj\Debug\net8.0\09.PokemonDon'tGo.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Fundamentals\Lists-Exercise\09.PokemonDon'tGo\obj\Debug\net8.0\09.PokemonDon'tGo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\Lists-Exercise\09.PokemonDon'tGo\obj\Debug\net8.0\09.PokemonDon'tGo.dll
+C:\Users\Admin\Desktop\C# Fundamentals\Lists-Exercise\09.PokemonDon'tGo\obj\Debug\net8.0\refint\09.PokemonDon'tGo.dll
+C:\Users\Admin\Desktop\C# Fundamentals\Lists-Exercise\09.PokemonDon'tGo\obj\Debug\net8.0\09.PokemonDon'tGo.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\Lists-Exercise\09.PokemonDon'tGo\obj\Debug\net8.0\09.PokemonDon'tGo.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Fundamentals\Lists-Exercise\09.PokemonDon'tGo\obj\Debug\net8.0\ref\09.PokemonDon'tGo.dll

@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\12.RefactorSpecialNumbers\bin\Debug\net8.0\12.RefactorSpecialNumbers.exe
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\12.RefactorSpecialNumbers\bin\Debug\net8.0\12.RefactorSpecialNumbers.deps.json
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\12.RefactorSpecialNumbers\bin\Debug\net8.0\12.RefactorSpecialNumbers.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\12.RefactorSpecialNumbers\bin\Debug\net8.0\12.RefactorSpecialNumbers.dll
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\12.RefactorSpecialNumbers\bin\Debug\net8.0\12.RefactorSpecialNumbers.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\12.RefactorSpecialNumbers\obj\Debug\net8.0\12.RefactorSpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\12.RefactorSpecialNumbers\obj\Debug\net8.0\12.RefactorSpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\12.RefactorSpecialNumbers\obj\Debug\net8.0\12.RefactorSpecialNumbers.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\12.RefactorSpecialNumbers\obj\Debug\net8.0\12.RefactorSpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\12.RefactorSpecialNumbers\obj\Debug\net8.0\12.RefactorSpecialNumbers.dll
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\12.RefactorSpecialNumbers\obj\Debug\net8.0\refint\12.RefactorSpecialNumbers.dll
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\12.RefactorSpecialNumbers\obj\Debug\net8.0\12.RefactorSpecialNumbers.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\12.RefactorSpecialNumbers\obj\Debug\net8.0\12.RefactorSpecialNumbers.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Fundamentals\08.DataTypesAndVariables\12.RefactorSpecialNumbers\obj\Debug\net8.0\ref\12.RefactorSpecialNumbers.dll
