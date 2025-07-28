@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\06.Wardrobe\bin\Debug\net8.0\06.Wardrobe.exe
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\06.Wardrobe\bin\Debug\net8.0\06.Wardrobe.deps.json
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\06.Wardrobe\bin\Debug\net8.0\06.Wardrobe.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\06.Wardrobe\bin\Debug\net8.0\06.Wardrobe.dll
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\06.Wardrobe\bin\Debug\net8.0\06.Wardrobe.pdb
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\06.Wardrobe\obj\Debug\net8.0\06.Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\06.Wardrobe\obj\Debug\net8.0\06.Wardrobe.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\06.Wardrobe\obj\Debug\net8.0\06.Wardrobe.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\06.Wardrobe\obj\Debug\net8.0\06.Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\06.Wardrobe\obj\Debug\net8.0\06.Wardrobe.dll
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\06.Wardrobe\obj\Debug\net8.0\refint\06.Wardrobe.dll
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\06.Wardrobe\obj\Debug\net8.0\06.Wardrobe.pdb
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\06.Wardrobe\obj\Debug\net8.0\06.Wardrobe.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\06.Wardrobe\obj\Debug\net8.0\ref\06.Wardrobe.dll

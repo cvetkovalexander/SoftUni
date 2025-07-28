@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\9.Miner\bin\Debug\net8.0\9.Miner.exe
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\9.Miner\bin\Debug\net8.0\9.Miner.deps.json
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\9.Miner\bin\Debug\net8.0\9.Miner.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\9.Miner\bin\Debug\net8.0\9.Miner.dll
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\9.Miner\bin\Debug\net8.0\9.Miner.pdb
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\9.Miner\obj\Debug\net8.0\9.Miner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\9.Miner\obj\Debug\net8.0\9.Miner.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\9.Miner\obj\Debug\net8.0\9.Miner.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\9.Miner\obj\Debug\net8.0\9.Miner.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\9.Miner\obj\Debug\net8.0\9.Miner.dll
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\9.Miner\obj\Debug\net8.0\refint\9.Miner.dll
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\9.Miner\obj\Debug\net8.0\9.Miner.pdb
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\9.Miner\obj\Debug\net8.0\9.Miner.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\9.Miner\obj\Debug\net8.0\ref\9.Miner.dll

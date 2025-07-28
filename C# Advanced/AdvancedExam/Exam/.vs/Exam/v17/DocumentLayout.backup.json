@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# Advanced\\AdvancedExam\\Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62FEA09C-EA82-4303-BBAE-3366BABA2C8B}|RushHour\\RushHour.csproj|c:\\users\\admin\\desktop\\c# advanced\\advancedexam\\exam\\rushhour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62FEA09C-EA82-4303-BBAE-3366BABA2C8B}|RushHour\\RushHour.csproj|solutionrelative:rushhour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B04CE2E-5C96-42CB-A1ED-2B4BFFF7CA89}|01\\01.csproj|c:\\users\\admin\\desktop\\c# advanced\\advancedexam\\exam\\01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B04CE2E-5C96-42CB-A1ED-2B4BFFF7CA89}|01\\01.csproj|solutionrelative:01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1217,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\AdvancedExam\\Exam\\RushHour\\Program.cs",
+              "RelativeDocumentMoniker": "RushHour\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\AdvancedExam\\Exam\\RushHour\\Program.cs",
+              "RelativeToolTip": "RushHour\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwEEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T08:06:25.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\AdvancedExam\\Exam\\01\\Program.cs",
+              "RelativeDocumentMoniker": "01\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\AdvancedExam\\Exam\\01\\Program.cs",
+              "RelativeToolTip": "01\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAADwv2MAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T07:02:31.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

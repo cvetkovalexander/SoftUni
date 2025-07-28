@@ -1,0 +1,20 @@
+.icons .icon {
+    display: inline-block;
+    background: #c4c0c0;
+    border-radius: 50%;
+    width: 5em;
+    aspect-ratio: 1/1;
+    text-align: center;
+    line-height: 4.8em;
+    margin: 1em;
+    color: black;
+    transition:
+     background-color 0.3s ease-in,
+     color 0.3s ease-in
+     ;
+}
+
+.icons .icon:hover {
+    background: red;
+    color: white;
+}

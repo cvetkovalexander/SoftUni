@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# OOP\\Workshops\\DIFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30DD2642-2CFE-46A3-990C-A2ABD6EF97F9}|DIFramework\\DIFramework.csproj|c:\\users\\admin\\desktop\\c# oop\\workshops\\diframework\\diframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DD2642-2CFE-46A3-990C-A2ABD6EF97F9}|DIFramework\\DIFramework.csproj|solutionrelative:diframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Workshops\\DIFramework\\DIFramework\\Program.cs",
+              "RelativeDocumentMoniker": "DIFramework\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Workshops\\DIFramework\\DIFramework\\Program.cs",
+              "RelativeToolTip": "DIFramework\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:51:36.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

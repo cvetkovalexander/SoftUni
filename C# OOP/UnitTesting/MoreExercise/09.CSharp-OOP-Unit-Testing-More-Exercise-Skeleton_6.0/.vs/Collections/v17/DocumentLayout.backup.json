@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\MoreExercise\\09.CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB0FAFD-B637-4F14-9CB6-1A2687B2C92C}|Collections.csproj|c:\\users\\admin\\desktop\\c# oop\\unittesting\\moreexercise\\09.csharp-oop-unit-testing-more-exercise-skeleton_6.0\\collectionsexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB0FAFD-B637-4F14-9CB6-1A2687B2C92C}|Collections.csproj|solutionrelative:collectionsexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01D4C21-B0FD-4D76-8BFF-7B27F11CD75F}|..\\Collection.Tests\\Collection.Tests.csproj|c:\\users\\admin\\desktop\\c# oop\\unittesting\\moreexercise\\collection.tests\\collectiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0416CE-071F-4FCF-95F0-70A871625BE9}|..\\Demo\\Demo.csproj|c:\\users\\admin\\desktop\\c# oop\\unittesting\\moreexercise\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB0FAFD-B637-4F14-9CB6-1A2687B2C92C}|Collections.csproj|c:\\users\\admin\\desktop\\c# oop\\unittesting\\moreexercise\\09.csharp-oop-unit-testing-more-exercise-skeleton_6.0\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB0FAFD-B637-4F14-9CB6-1A2687B2C92C}|Collections.csproj|solutionrelative:collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01D4C21-B0FD-4D76-8BFF-7B27F11CD75F}|..\\Collection.Tests\\Collection.Tests.csproj|c:\\users\\admin\\desktop\\c# oop\\unittesting\\moreexercise\\collection.tests\\circularquetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB0FAFD-B637-4F14-9CB6-1A2687B2C92C}|Collections.csproj|c:\\users\\admin\\desktop\\c# oop\\unittesting\\moreexercise\\09.csharp-oop-unit-testing-more-exercise-skeleton_6.0\\circularqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB0FAFD-B637-4F14-9CB6-1A2687B2C92C}|Collections.csproj|solutionrelative:circularqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB0FAFD-B637-4F14-9CB6-1A2687B2C92C}|Collections.csproj|c:\\users\\admin\\desktop\\c# oop\\unittesting\\moreexercise\\09.csharp-oop-unit-testing-more-exercise-skeleton_6.0\\collections.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5FB0FAFD-B637-4F14-9CB6-1A2687B2C92C}|Collections.csproj|solutionrelative:collections.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01D4C21-B0FD-4D76-8BFF-7B27F11CD75F}|..\\Collection.Tests\\Collection.Tests.csproj|c:\\users\\admin\\desktop\\c# oop\\unittesting\\moreexercise\\collection.tests\\collection.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollectionTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\MoreExercise\\Collection.Tests\\CollectionTests.cs",
+              "RelativeDocumentMoniker": "..\\Collection.Tests\\CollectionTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\MoreExercise\\Collection.Tests\\CollectionTests.cs",
+              "RelativeToolTip": "..\\Collection.Tests\\CollectionTests.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAuwKoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:11:46.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Collections.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\MoreExercise\\09.CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\\Collections.csproj",
+              "RelativeDocumentMoniker": "Collections.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\MoreExercise\\09.CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\\Collections.csproj",
+              "RelativeToolTip": "Collections.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T18:01:21.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\MoreExercise\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\MoreExercise\\Demo\\Program.cs",
+              "RelativeToolTip": "..\\Demo\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T17:36:27.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Collection.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\MoreExercise\\Collection.Tests\\Collection.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\Collection.Tests\\Collection.Tests.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\MoreExercise\\Collection.Tests\\Collection.Tests.csproj",
+              "RelativeToolTip": "..\\Collection.Tests\\Collection.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T17:20:04.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CircularQueTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\MoreExercise\\Collection.Tests\\CircularQueTests.cs",
+              "RelativeDocumentMoniker": "..\\Collection.Tests\\CircularQueTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\MoreExercise\\Collection.Tests\\CircularQueTests.cs",
+              "RelativeToolTip": "..\\Collection.Tests\\CircularQueTests.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwG4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T17:18:40.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CollectionsExamples.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\MoreExercise\\09.CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\\CollectionsExamples.cs",
+              "RelativeDocumentMoniker": "CollectionsExamples.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\MoreExercise\\09.CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\\CollectionsExamples.cs",
+              "RelativeToolTip": "CollectionsExamples.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwEsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T16:49:05.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Collection.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\MoreExercise\\09.CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\\Collection.cs",
+              "RelativeDocumentMoniker": "Collection.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\MoreExercise\\09.CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\\Collection.cs",
+              "RelativeToolTip": "Collection.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAswEsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T16:49:01.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CircularQueue.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\MoreExercise\\09.CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\\CircularQueue.cs",
+              "RelativeDocumentMoniker": "CircularQueue.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\MoreExercise\\09.CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\\CircularQueue.cs",
+              "RelativeToolTip": "CircularQueue.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T16:48:43.278Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

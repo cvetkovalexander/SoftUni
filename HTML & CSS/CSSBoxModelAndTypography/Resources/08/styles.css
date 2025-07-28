@@ -1,0 +1,18 @@
+div {
+    border: 7px groove black;
+    margin-bottom: 1em;
+    width: 50%;
+    height: 5em;
+}
+
+.visible {
+    overflow: visible;
+}
+
+.hidden {
+    overflow: hidden ;
+}
+
+.scroll {
+    overflow: scroll;
+}

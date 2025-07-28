@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\AccessControlSystem\AccessControlSystem\bin\Debug\net6.0\AccessControlSystem.exe
+C:\Users\Admin\Desktop\AccessControlSystem\AccessControlSystem\bin\Debug\net6.0\AccessControlSystem.deps.json
+C:\Users\Admin\Desktop\AccessControlSystem\AccessControlSystem\bin\Debug\net6.0\AccessControlSystem.runtimeconfig.json
+C:\Users\Admin\Desktop\AccessControlSystem\AccessControlSystem\bin\Debug\net6.0\AccessControlSystem.dll
+C:\Users\Admin\Desktop\AccessControlSystem\AccessControlSystem\bin\Debug\net6.0\AccessControlSystem.pdb
+C:\Users\Admin\Desktop\AccessControlSystem\AccessControlSystem\obj\Debug\net6.0\AccessControlSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\AccessControlSystem\AccessControlSystem\obj\Debug\net6.0\AccessControlSystem.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\AccessControlSystem\AccessControlSystem\obj\Debug\net6.0\AccessControlSystem.AssemblyInfo.cs
+C:\Users\Admin\Desktop\AccessControlSystem\AccessControlSystem\obj\Debug\net6.0\AccessControlSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\AccessControlSystem\AccessControlSystem\obj\Debug\net6.0\AccessControlSystem.dll
+C:\Users\Admin\Desktop\AccessControlSystem\AccessControlSystem\obj\Debug\net6.0\refint\AccessControlSystem.dll
+C:\Users\Admin\Desktop\AccessControlSystem\AccessControlSystem\obj\Debug\net6.0\AccessControlSystem.pdb
+C:\Users\Admin\Desktop\AccessControlSystem\AccessControlSystem\obj\Debug\net6.0\AccessControlSystem.genruntimeconfig.cache
+C:\Users\Admin\Desktop\AccessControlSystem\AccessControlSystem\obj\Debug\net6.0\ref\AccessControlSystem.dll

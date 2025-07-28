@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# Advanced\\FunctionalProgramming\\Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA9B4CF-4FF9-4C1A-9CE4-756281538997}|10.PartyReservationFliterModule\\10.PartyReservationFliterModule.csproj|c:\\users\\admin\\desktop\\c# advanced\\functionalprogramming\\exercise\\10.partyreservationflitermodule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA9B4CF-4FF9-4C1A-9CE4-756281538997}|10.PartyReservationFliterModule\\10.PartyReservationFliterModule.csproj|solutionrelative:10.partyreservationflitermodule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3CFB49-F7DA-4BF2-B498-92DE58BEB1BD}|11.TriFunction\\11.TriFunction.csproj|c:\\users\\admin\\desktop\\c# advanced\\functionalprogramming\\exercise\\11.trifunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3CFB49-F7DA-4BF2-B498-92DE58BEB1BD}|11.TriFunction\\11.TriFunction.csproj|solutionrelative:11.trifunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A02D7BE-6C55-4CFB-8758-B40D92476A24}|09.PredicateParty!\\09.PredicateParty!.csproj|c:\\users\\admin\\desktop\\c# advanced\\functionalprogramming\\exercise\\09.predicateparty!\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A02D7BE-6C55-4CFB-8758-B40D92476A24}|09.PredicateParty!\\09.PredicateParty!.csproj|solutionrelative:09.predicateparty!\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A373D070-8473-4E21-833C-A75CC8694EDC}|08.ListOfPredicates\\08.ListOfPredicates.csproj|c:\\users\\admin\\desktop\\c# advanced\\functionalprogramming\\exercise\\08.listofpredicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A373D070-8473-4E21-833C-A75CC8694EDC}|08.ListOfPredicates\\08.ListOfPredicates.csproj|solutionrelative:08.listofpredicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DA9148-CE8C-4279-B54E-34A81D8E4804}|05.AppliedArithmetics\\05.AppliedArithmetics.csproj|c:\\users\\admin\\desktop\\c# advanced\\functionalprogramming\\exercise\\05.appliedarithmetics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02DA9148-CE8C-4279-B54E-34A81D8E4804}|05.AppliedArithmetics\\05.AppliedArithmetics.csproj|solutionrelative:05.appliedarithmetics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A913C583-E008-4EEB-8BF9-8D54A2BF9A45}|02.KnightsOfHonor\\02.KnightsOfHonor.csproj|c:\\users\\admin\\desktop\\c# advanced\\functionalprogramming\\exercise\\02.knightsofhonor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A913C583-E008-4EEB-8BF9-8D54A2BF9A45}|02.KnightsOfHonor\\02.KnightsOfHonor.csproj|solutionrelative:02.knightsofhonor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209CDF22-9E9D-4ED1-A204-CFE406028421}|03.CustomMinFunction\\03.CustomMinFunction.csproj|c:\\users\\admin\\desktop\\c# advanced\\functionalprogramming\\exercise\\03.customminfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209CDF22-9E9D-4ED1-A204-CFE406028421}|03.CustomMinFunction\\03.CustomMinFunction.csproj|solutionrelative:03.customminfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5843AE04-0970-4DA3-83D8-BE7152FBCB5C}|04.FindEvensOrOdds\\04.FindEvensOrOdds.csproj|c:\\users\\admin\\desktop\\c# advanced\\functionalprogramming\\exercise\\04.findevensorodds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5843AE04-0970-4DA3-83D8-BE7152FBCB5C}|04.FindEvensOrOdds\\04.FindEvensOrOdds.csproj|solutionrelative:04.findevensorodds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B1A555-BA69-445B-B2AF-1364EC234377}|07.PredicateForNames\\07.PredicateForNames.csproj|c:\\users\\admin\\desktop\\c# advanced\\functionalprogramming\\exercise\\07.predicatefornames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B1A555-BA69-445B-B2AF-1364EC234377}|07.PredicateForNames\\07.PredicateForNames.csproj|solutionrelative:07.predicatefornames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9411A520-6CBA-4C01-88A1-85262A1DBBDA}|06.ReverseAndExclude\\06.ReverseAndExclude.csproj|c:\\users\\admin\\desktop\\c# advanced\\functionalprogramming\\exercise\\06.reverseandexclude\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9411A520-6CBA-4C01-88A1-85262A1DBBDA}|06.ReverseAndExclude\\06.ReverseAndExclude.csproj|solutionrelative:06.reverseandexclude\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA3F18B-8F70-44E7-92BF-7641C177A750}|01.ActionPrint\\01.ActionPrint.csproj|c:\\users\\admin\\desktop\\c# advanced\\functionalprogramming\\exercise\\01.actionprint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA3F18B-8F70-44E7-92BF-7641C177A750}|01.ActionPrint\\01.ActionPrint.csproj|solutionrelative:01.actionprint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1217,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\FunctionalProgramming\\Exercise\\11.TriFunction\\Program.cs",
+              "RelativeDocumentMoniker": "11.TriFunction\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\FunctionalProgramming\\Exercise\\11.TriFunction\\Program.cs",
+              "RelativeToolTip": "11.TriFunction\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:24:43.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\FunctionalProgramming\\Exercise\\10.PartyReservationFliterModule\\Program.cs",
+              "RelativeDocumentMoniker": "10.PartyReservationFliterModule\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\FunctionalProgramming\\Exercise\\10.PartyReservationFliterModule\\Program.cs",
+              "RelativeToolTip": "10.PartyReservationFliterModule\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwC4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T15:08:10.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\FunctionalProgramming\\Exercise\\09.PredicateParty!\\Program.cs",
+              "RelativeDocumentMoniker": "09.PredicateParty!\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\FunctionalProgramming\\Exercise\\09.PredicateParty!\\Program.cs",
+              "RelativeToolTip": "09.PredicateParty!\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T17:38:54.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\FunctionalProgramming\\Exercise\\08.ListOfPredicates\\Program.cs",
+              "RelativeDocumentMoniker": "08.ListOfPredicates\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\FunctionalProgramming\\Exercise\\08.ListOfPredicates\\Program.cs",
+              "RelativeToolTip": "08.ListOfPredicates\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T17:04:30.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\FunctionalProgramming\\Exercise\\07.PredicateForNames\\Program.cs",
+              "RelativeDocumentMoniker": "07.PredicateForNames\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\FunctionalProgramming\\Exercise\\07.PredicateForNames\\Program.cs",
+              "RelativeToolTip": "07.PredicateForNames\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwBkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:47:22.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\FunctionalProgramming\\Exercise\\06.ReverseAndExclude\\Program.cs",
+              "RelativeDocumentMoniker": "06.ReverseAndExclude\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\FunctionalProgramming\\Exercise\\06.ReverseAndExclude\\Program.cs",
+              "RelativeToolTip": "06.ReverseAndExclude\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T15:28:18.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\FunctionalProgramming\\Exercise\\05.AppliedArithmetics\\Program.cs",
+              "RelativeDocumentMoniker": "05.AppliedArithmetics\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\FunctionalProgramming\\Exercise\\05.AppliedArithmetics\\Program.cs",
+              "RelativeToolTip": "05.AppliedArithmetics\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwDYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T14:24:52.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\FunctionalProgramming\\Exercise\\04.FindEvensOrOdds\\Program.cs",
+              "RelativeDocumentMoniker": "04.FindEvensOrOdds\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\FunctionalProgramming\\Exercise\\04.FindEvensOrOdds\\Program.cs",
+              "RelativeToolTip": "04.FindEvensOrOdds\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBAAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T14:13:40.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\FunctionalProgramming\\Exercise\\03.CustomMinFunction\\Program.cs",
+              "RelativeDocumentMoniker": "03.CustomMinFunction\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\FunctionalProgramming\\Exercise\\03.CustomMinFunction\\Program.cs",
+              "RelativeToolTip": "03.CustomMinFunction\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwCcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T13:55:28.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\FunctionalProgramming\\Exercise\\02.KnightsOfHonor\\Program.cs",
+              "RelativeDocumentMoniker": "02.KnightsOfHonor\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\FunctionalProgramming\\Exercise\\02.KnightsOfHonor\\Program.cs",
+              "RelativeToolTip": "02.KnightsOfHonor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T13:51:23.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\FunctionalProgramming\\Exercise\\01.ActionPrint\\Program.cs",
+              "RelativeDocumentMoniker": "01.ActionPrint\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\FunctionalProgramming\\Exercise\\01.ActionPrint\\Program.cs",
+              "RelativeToolTip": "01.ActionPrint\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T13:24:35.159Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

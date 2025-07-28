@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Lato, sans-serif;
+}
+
+body {
+    padding: 2em;
+}
+
+.container {
+    border: 1.5px, solid #CCC;
+    border-radius: 0.4em;
+    padding: 0.5em;
+    background: rgb(237, 236, 236);
+    box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.3);
+}
+
+a {
+    text-decoration: none;
+    color: orange;
+    font-weight: bold;
+    border: 1.5px solid #CCC;
+    border-radius: 0.3em;
+    background: white;
+    padding: 0.5em 1em;
+}
+
+nav > ul {
+    display: flex;
+    gap: 0.7em;
+}
+
+nav li,
+nav a {
+    display: block;
+}
+
+nav li {
+    position: relative;
+}
+
+nav li ul {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.3em;
+    padding-top: 0.6em;
+
+} 
+
+nav li ul li ul {
+    top: 0;
+    left: 100%;
+    padding-left: 0.2em;
+}
+
+li:hover > a,
+a:hover {
+    background: orange;
+    color: white;
+}
+
+li:not(:hover) > ul {
+    display: none;
+}  
+

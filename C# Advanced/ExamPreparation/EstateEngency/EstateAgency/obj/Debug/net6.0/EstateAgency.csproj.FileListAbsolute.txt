@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\EstateEngency\EstateAgency\bin\Debug\net6.0\EstateAgency.exe
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\EstateEngency\EstateAgency\bin\Debug\net6.0\EstateAgency.deps.json
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\EstateEngency\EstateAgency\bin\Debug\net6.0\EstateAgency.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\EstateEngency\EstateAgency\bin\Debug\net6.0\EstateAgency.dll
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\EstateEngency\EstateAgency\bin\Debug\net6.0\EstateAgency.pdb
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\EstateEngency\EstateAgency\obj\Debug\net6.0\EstateAgency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\EstateEngency\EstateAgency\obj\Debug\net6.0\EstateAgency.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\EstateEngency\EstateAgency\obj\Debug\net6.0\EstateAgency.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\EstateEngency\EstateAgency\obj\Debug\net6.0\EstateAgency.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\EstateEngency\EstateAgency\obj\Debug\net6.0\EstateAgency.dll
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\EstateEngency\EstateAgency\obj\Debug\net6.0\refint\EstateAgency.dll
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\EstateEngency\EstateAgency\obj\Debug\net6.0\EstateAgency.pdb
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\EstateEngency\EstateAgency\obj\Debug\net6.0\EstateAgency.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\EstateEngency\EstateAgency\obj\Debug\net6.0\ref\EstateAgency.dll

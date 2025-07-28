@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\02.AverageStudentGrades\obj\Debug\net8.0\02.AverageStudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\02.AverageStudentGrades\obj\Debug\net8.0\02.AverageStudentGrades.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\02.AverageStudentGrades\obj\Debug\net8.0\02.AverageStudentGrades.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\02.AverageStudentGrades\obj\Debug\net8.0\02.AverageStudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\02.AverageStudentGrades\bin\Debug\net8.0\02.AverageStudentGrades.exe
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\02.AverageStudentGrades\bin\Debug\net8.0\02.AverageStudentGrades.deps.json
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\02.AverageStudentGrades\bin\Debug\net8.0\02.AverageStudentGrades.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\02.AverageStudentGrades\bin\Debug\net8.0\02.AverageStudentGrades.dll
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\02.AverageStudentGrades\bin\Debug\net8.0\02.AverageStudentGrades.pdb
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\02.AverageStudentGrades\obj\Debug\net8.0\02.AverageStudentGrades.dll
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\02.AverageStudentGrades\obj\Debug\net8.0\refint\02.AverageStudentGrades.dll
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\02.AverageStudentGrades\obj\Debug\net8.0\02.AverageStudentGrades.pdb
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\02.AverageStudentGrades\obj\Debug\net8.0\02.AverageStudentGrades.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\02.AverageStudentGrades\obj\Debug\net8.0\ref\02.AverageStudentGrades.dll

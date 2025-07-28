@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\03.CustomMinFunction\bin\Debug\net8.0\03.CustomMinFunction.exe
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\03.CustomMinFunction\bin\Debug\net8.0\03.CustomMinFunction.deps.json
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\03.CustomMinFunction\bin\Debug\net8.0\03.CustomMinFunction.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\03.CustomMinFunction\bin\Debug\net8.0\03.CustomMinFunction.dll
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\03.CustomMinFunction\bin\Debug\net8.0\03.CustomMinFunction.pdb
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\03.CustomMinFunction\obj\Debug\net8.0\03.CustomMinFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\03.CustomMinFunction\obj\Debug\net8.0\03.CustomMinFunction.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\03.CustomMinFunction\obj\Debug\net8.0\03.CustomMinFunction.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\03.CustomMinFunction\obj\Debug\net8.0\03.CustomMinFunction.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\03.CustomMinFunction\obj\Debug\net8.0\03.CustomMinFunction.dll
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\03.CustomMinFunction\obj\Debug\net8.0\refint\03.CustomMinFunction.dll
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\03.CustomMinFunction\obj\Debug\net8.0\03.CustomMinFunction.pdb
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\03.CustomMinFunction\obj\Debug\net8.0\03.CustomMinFunction.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\03.CustomMinFunction\obj\Debug\net8.0\ref\03.CustomMinFunction.dll

@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\12.CupsAndBottles\bin\Debug\net8.0\12.CupsAndBottles.exe
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\12.CupsAndBottles\bin\Debug\net8.0\12.CupsAndBottles.deps.json
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\12.CupsAndBottles\bin\Debug\net8.0\12.CupsAndBottles.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\12.CupsAndBottles\bin\Debug\net8.0\12.CupsAndBottles.dll
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\12.CupsAndBottles\bin\Debug\net8.0\12.CupsAndBottles.pdb
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\12.CupsAndBottles\obj\Debug\net8.0\12.CupsAndBottles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\12.CupsAndBottles\obj\Debug\net8.0\12.CupsAndBottles.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\12.CupsAndBottles\obj\Debug\net8.0\12.CupsAndBottles.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\12.CupsAndBottles\obj\Debug\net8.0\12.CupsAndBottles.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\12.CupsAndBottles\obj\Debug\net8.0\12.CupsAndBottles.dll
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\12.CupsAndBottles\obj\Debug\net8.0\refint\12.CupsAndBottles.dll
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\12.CupsAndBottles\obj\Debug\net8.0\12.CupsAndBottles.pdb
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\12.CupsAndBottles\obj\Debug\net8.0\12.CupsAndBottles.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\12.CupsAndBottles\obj\Debug\net8.0\ref\12.CupsAndBottles.dll

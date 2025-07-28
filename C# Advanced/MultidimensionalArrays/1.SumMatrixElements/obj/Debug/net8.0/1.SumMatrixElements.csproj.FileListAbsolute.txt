@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\1.SumMatrixElements\bin\Debug\net8.0\1.SumMatrixElements.exe
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\1.SumMatrixElements\bin\Debug\net8.0\1.SumMatrixElements.deps.json
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\1.SumMatrixElements\bin\Debug\net8.0\1.SumMatrixElements.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\1.SumMatrixElements\bin\Debug\net8.0\1.SumMatrixElements.dll
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\1.SumMatrixElements\bin\Debug\net8.0\1.SumMatrixElements.pdb
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\1.SumMatrixElements\obj\Debug\net8.0\1.SumMatrixElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\1.SumMatrixElements\obj\Debug\net8.0\1.SumMatrixElements.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\1.SumMatrixElements\obj\Debug\net8.0\1.SumMatrixElements.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\1.SumMatrixElements\obj\Debug\net8.0\1.SumMatrixElements.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\1.SumMatrixElements\obj\Debug\net8.0\1.SumMatrixElements.dll
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\1.SumMatrixElements\obj\Debug\net8.0\refint\1.SumMatrixElements.dll
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\1.SumMatrixElements\obj\Debug\net8.0\1.SumMatrixElements.pdb
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\1.SumMatrixElements\obj\Debug\net8.0\1.SumMatrixElements.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\1.SumMatrixElements\obj\Debug\net8.0\ref\1.SumMatrixElements.dll

@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\03.MaximumAndMinimumElement\bin\Debug\net8.0\03.MaximumAndMinimumElement.exe
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\03.MaximumAndMinimumElement\bin\Debug\net8.0\03.MaximumAndMinimumElement.deps.json
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\03.MaximumAndMinimumElement\bin\Debug\net8.0\03.MaximumAndMinimumElement.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\03.MaximumAndMinimumElement\bin\Debug\net8.0\03.MaximumAndMinimumElement.dll
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\03.MaximumAndMinimumElement\bin\Debug\net8.0\03.MaximumAndMinimumElement.pdb
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\03.MaximumAndMinimumElement\obj\Debug\net8.0\03.MaximumAndMinimumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\03.MaximumAndMinimumElement\obj\Debug\net8.0\03.MaximumAndMinimumElement.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\03.MaximumAndMinimumElement\obj\Debug\net8.0\03.MaximumAndMinimumElement.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\03.MaximumAndMinimumElement\obj\Debug\net8.0\03.MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\03.MaximumAndMinimumElement\obj\Debug\net8.0\03.MaximumAndMinimumElement.dll
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\03.MaximumAndMinimumElement\obj\Debug\net8.0\refint\03.MaximumAndMinimumElement.dll
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\03.MaximumAndMinimumElement\obj\Debug\net8.0\03.MaximumAndMinimumElement.pdb
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\03.MaximumAndMinimumElement\obj\Debug\net8.0\03.MaximumAndMinimumElement.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\03.MaximumAndMinimumElement\obj\Debug\net8.0\ref\03.MaximumAndMinimumElement.dll

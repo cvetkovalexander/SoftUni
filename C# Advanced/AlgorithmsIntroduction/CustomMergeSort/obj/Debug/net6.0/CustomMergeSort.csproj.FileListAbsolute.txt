@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\AlgorithmsIntroduction\CustomMergeSort\bin\Debug\net6.0\CustomMergeSort.exe
+C:\Users\Admin\Desktop\C# Advanced\AlgorithmsIntroduction\CustomMergeSort\bin\Debug\net6.0\CustomMergeSort.deps.json
+C:\Users\Admin\Desktop\C# Advanced\AlgorithmsIntroduction\CustomMergeSort\bin\Debug\net6.0\CustomMergeSort.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\AlgorithmsIntroduction\CustomMergeSort\bin\Debug\net6.0\CustomMergeSort.dll
+C:\Users\Admin\Desktop\C# Advanced\AlgorithmsIntroduction\CustomMergeSort\bin\Debug\net6.0\CustomMergeSort.pdb
+C:\Users\Admin\Desktop\C# Advanced\AlgorithmsIntroduction\CustomMergeSort\obj\Debug\net6.0\CustomMergeSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\AlgorithmsIntroduction\CustomMergeSort\obj\Debug\net6.0\CustomMergeSort.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\AlgorithmsIntroduction\CustomMergeSort\obj\Debug\net6.0\CustomMergeSort.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\AlgorithmsIntroduction\CustomMergeSort\obj\Debug\net6.0\CustomMergeSort.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\AlgorithmsIntroduction\CustomMergeSort\obj\Debug\net6.0\CustomMergeSort.dll
+C:\Users\Admin\Desktop\C# Advanced\AlgorithmsIntroduction\CustomMergeSort\obj\Debug\net6.0\refint\CustomMergeSort.dll
+C:\Users\Admin\Desktop\C# Advanced\AlgorithmsIntroduction\CustomMergeSort\obj\Debug\net6.0\CustomMergeSort.pdb
+C:\Users\Admin\Desktop\C# Advanced\AlgorithmsIntroduction\CustomMergeSort\obj\Debug\net6.0\CustomMergeSort.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\AlgorithmsIntroduction\CustomMergeSort\obj\Debug\net6.0\ref\CustomMergeSort.dll

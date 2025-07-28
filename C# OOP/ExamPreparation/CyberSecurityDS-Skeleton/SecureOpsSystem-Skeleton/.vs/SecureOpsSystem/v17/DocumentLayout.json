@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\CyberSecurityDS-Skeleton\\SecureOpsSystem-Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D54AFC64-BC92-4654-A3BF-CA56E337F421}|SecureOpsSystem.Tests\\SecureOpsSystem.Tests.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\cybersecurityds-skeleton\\secureopssystem-skeleton\\secureopssystem.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54AFC64-BC92-4654-A3BF-CA56E337F421}|SecureOpsSystem.Tests\\SecureOpsSystem.Tests.csproj|solutionrelative:secureopssystem.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E58FFB3-3C7E-49CA-80F6-B4C4AF177934}|SecureOpsSystem\\SecureOpsSystem.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\cybersecurityds-skeleton\\secureopssystem-skeleton\\secureopssystem\\securehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E58FFB3-3C7E-49CA-80F6-B4C4AF177934}|SecureOpsSystem\\SecureOpsSystem.csproj|solutionrelative:secureopssystem\\securehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E58FFB3-3C7E-49CA-80F6-B4C4AF177934}|SecureOpsSystem\\SecureOpsSystem.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\cybersecurityds-skeleton\\secureopssystem-skeleton\\secureopssystem\\securitytool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E58FFB3-3C7E-49CA-80F6-B4C4AF177934}|SecureOpsSystem\\SecureOpsSystem.csproj|solutionrelative:secureopssystem\\securitytool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E58FFB3-3C7E-49CA-80F6-B4C4AF177934}|SecureOpsSystem\\SecureOpsSystem.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\cybersecurityds-skeleton\\secureopssystem-skeleton\\secureopssystem\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E58FFB3-3C7E-49CA-80F6-B4C4AF177934}|SecureOpsSystem\\SecureOpsSystem.csproj|solutionrelative:secureopssystem\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\CyberSecurityDS-Skeleton\\SecureOpsSystem-Skeleton\\SecureOpsSystem\\StartUp.cs",
+              "RelativeDocumentMoniker": "SecureOpsSystem\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\CyberSecurityDS-Skeleton\\SecureOpsSystem-Skeleton\\SecureOpsSystem\\StartUp.cs",
+              "RelativeToolTip": "SecureOpsSystem\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:44:17.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SecurityTool.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\CyberSecurityDS-Skeleton\\SecureOpsSystem-Skeleton\\SecureOpsSystem\\SecurityTool.cs",
+              "RelativeDocumentMoniker": "SecureOpsSystem\\SecurityTool.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\CyberSecurityDS-Skeleton\\SecureOpsSystem-Skeleton\\SecureOpsSystem\\SecurityTool.cs",
+              "RelativeToolTip": "SecureOpsSystem\\SecurityTool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:44:14.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SecureHub.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\CyberSecurityDS-Skeleton\\SecureOpsSystem-Skeleton\\SecureOpsSystem\\SecureHub.cs",
+              "RelativeDocumentMoniker": "SecureOpsSystem\\SecureHub.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\CyberSecurityDS-Skeleton\\SecureOpsSystem-Skeleton\\SecureOpsSystem\\SecureHub.cs",
+              "RelativeToolTip": "SecureOpsSystem\\SecureHub.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwEkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:44:10.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\CyberSecurityDS-Skeleton\\SecureOpsSystem-Skeleton\\SecureOpsSystem.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "SecureOpsSystem.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\CyberSecurityDS-Skeleton\\SecureOpsSystem-Skeleton\\SecureOpsSystem.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "SecureOpsSystem.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:41:32.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

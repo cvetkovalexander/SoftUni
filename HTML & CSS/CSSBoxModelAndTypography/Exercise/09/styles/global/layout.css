@@ -1,0 +1,9 @@
+body {
+    padding: 0;
+    background: #fff;
+}
+
+.site {
+    max-width: 100%;
+    margin: 0 auto;
+}

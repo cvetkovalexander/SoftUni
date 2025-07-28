@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# OOP\\Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCBDEA27-45D9-4A70-8656-D2A4D2D62040}|CustomStack\\CustomStack.csproj|c:\\users\\admin\\desktop\\c# oop\\inheritance\\customstack\\stackofstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCBDEA27-45D9-4A70-8656-D2A4D2D62040}|CustomStack\\CustomStack.csproj|solutionrelative:customstack\\stackofstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCBDEA27-45D9-4A70-8656-D2A4D2D62040}|CustomStack\\CustomStack.csproj|c:\\users\\admin\\desktop\\c# oop\\inheritance\\customstack\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCBDEA27-45D9-4A70-8656-D2A4D2D62040}|CustomStack\\CustomStack.csproj|solutionrelative:customstack\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43E9D3D-441B-4B96-B004-31A60886D17B}|CustomRandomList\\CustomRandomList.csproj|c:\\users\\admin\\desktop\\c# oop\\inheritance\\customrandomlist\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43E9D3D-441B-4B96-B004-31A60886D17B}|CustomRandomList\\CustomRandomList.csproj|solutionrelative:customrandomlist\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43E9D3D-441B-4B96-B004-31A60886D17B}|CustomRandomList\\CustomRandomList.csproj|c:\\users\\admin\\desktop\\c# oop\\inheritance\\customrandomlist\\randomlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43E9D3D-441B-4B96-B004-31A60886D17B}|CustomRandomList\\CustomRandomList.csproj|solutionrelative:customrandomlist\\randomlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783AB424-D7ED-4A47-93A1-0C386CBE3C1B}|Farm\\Farm.csproj|c:\\users\\admin\\desktop\\c# oop\\inheritance\\farm\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783AB424-D7ED-4A47-93A1-0C386CBE3C1B}|Farm\\Farm.csproj|solutionrelative:farm\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783AB424-D7ED-4A47-93A1-0C386CBE3C1B}|Farm\\Farm.csproj|c:\\users\\admin\\desktop\\c# oop\\inheritance\\farm\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783AB424-D7ED-4A47-93A1-0C386CBE3C1B}|Farm\\Farm.csproj|solutionrelative:farm\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783AB424-D7ED-4A47-93A1-0C386CBE3C1B}|Farm\\Farm.csproj|c:\\users\\admin\\desktop\\c# oop\\inheritance\\farm\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783AB424-D7ED-4A47-93A1-0C386CBE3C1B}|Farm\\Farm.csproj|solutionrelative:farm\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783AB424-D7ED-4A47-93A1-0C386CBE3C1B}|Farm\\Farm.csproj|c:\\users\\admin\\desktop\\c# oop\\inheritance\\farm\\puppy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783AB424-D7ED-4A47-93A1-0C386CBE3C1B}|Farm\\Farm.csproj|solutionrelative:farm\\puppy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1217,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StackOfStrings.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Inheritance\\CustomStack\\StackOfStrings.cs",
+              "RelativeDocumentMoniker": "CustomStack\\StackOfStrings.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Inheritance\\CustomStack\\StackOfStrings.cs",
+              "RelativeToolTip": "CustomStack\\StackOfStrings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:59:31.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Inheritance\\CustomStack\\StartUp.cs",
+              "RelativeDocumentMoniker": "CustomStack\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Inheritance\\CustomStack\\StartUp.cs",
+              "RelativeToolTip": "CustomStack\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:58:54.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RandomList.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Inheritance\\CustomRandomList\\RandomList.cs",
+              "RelativeDocumentMoniker": "CustomRandomList\\RandomList.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Inheritance\\CustomRandomList\\RandomList.cs",
+              "RelativeToolTip": "CustomRandomList\\RandomList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:00:41.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Inheritance\\CustomRandomList\\StartUp.cs",
+              "RelativeDocumentMoniker": "CustomRandomList\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Inheritance\\CustomRandomList\\StartUp.cs",
+              "RelativeToolTip": "CustomRandomList\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:00:18.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Inheritance\\Farm\\Cat.cs",
+              "RelativeDocumentMoniker": "Farm\\Cat.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Inheritance\\Farm\\Cat.cs",
+              "RelativeToolTip": "Farm\\Cat.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:58:26.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Puppy.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Inheritance\\Farm\\Puppy.cs",
+              "RelativeDocumentMoniker": "Farm\\Puppy.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Inheritance\\Farm\\Puppy.cs",
+              "RelativeToolTip": "Farm\\Puppy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:57:01.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Inheritance\\Farm\\Dog.cs",
+              "RelativeDocumentMoniker": "Farm\\Dog.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Inheritance\\Farm\\Dog.cs",
+              "RelativeToolTip": "Farm\\Dog.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:55:21.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Inheritance\\Farm\\StartUp.cs",
+              "RelativeDocumentMoniker": "Farm\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Inheritance\\Farm\\StartUp.cs",
+              "RelativeToolTip": "Farm\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:53:59.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

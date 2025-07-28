@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\7.KnightGame\bin\Debug\net8.0\7.KnightGame.exe
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\7.KnightGame\bin\Debug\net8.0\7.KnightGame.deps.json
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\7.KnightGame\bin\Debug\net8.0\7.KnightGame.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\7.KnightGame\bin\Debug\net8.0\7.KnightGame.dll
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\7.KnightGame\bin\Debug\net8.0\7.KnightGame.pdb
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\7.KnightGame\obj\Debug\net8.0\7.KnightGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\7.KnightGame\obj\Debug\net8.0\7.KnightGame.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\7.KnightGame\obj\Debug\net8.0\7.KnightGame.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\7.KnightGame\obj\Debug\net8.0\7.KnightGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\7.KnightGame\obj\Debug\net8.0\7.KnightGame.dll
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\7.KnightGame\obj\Debug\net8.0\refint\7.KnightGame.dll
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\7.KnightGame\obj\Debug\net8.0\7.KnightGame.pdb
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\7.KnightGame\obj\Debug\net8.0\7.KnightGame.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\7.KnightGame\obj\Debug\net8.0\ref\7.KnightGame.dll

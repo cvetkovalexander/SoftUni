@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# Advanced\\IteratorsAndComparators\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A97FF5B-A8A1-4DA9-AF0F-4C35CF9A7C0B}|Library\\IteratorsAndComparators.csproj|c:\\users\\admin\\desktop\\c# advanced\\iteratorsandcomparators\\library\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A97FF5B-A8A1-4DA9-AF0F-4C35CF9A7C0B}|Library\\IteratorsAndComparators.csproj|solutionrelative:library\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A97FF5B-A8A1-4DA9-AF0F-4C35CF9A7C0B}|Library\\IteratorsAndComparators.csproj|c:\\users\\admin\\desktop\\c# advanced\\iteratorsandcomparators\\library\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A97FF5B-A8A1-4DA9-AF0F-4C35CF9A7C0B}|Library\\IteratorsAndComparators.csproj|solutionrelative:library\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A97FF5B-A8A1-4DA9-AF0F-4C35CF9A7C0B}|Library\\IteratorsAndComparators.csproj|c:\\users\\admin\\desktop\\c# advanced\\iteratorsandcomparators\\library\\bookcomparator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A97FF5B-A8A1-4DA9-AF0F-4C35CF9A7C0B}|Library\\IteratorsAndComparators.csproj|solutionrelative:library\\bookcomparator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A97FF5B-A8A1-4DA9-AF0F-4C35CF9A7C0B}|Library\\IteratorsAndComparators.csproj|c:\\users\\admin\\desktop\\c# advanced\\iteratorsandcomparators\\library\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A97FF5B-A8A1-4DA9-AF0F-4C35CF9A7C0B}|Library\\IteratorsAndComparators.csproj|solutionrelative:library\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1217,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookComparator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\IteratorsAndComparators\\Library\\BookComparator.cs",
+              "RelativeDocumentMoniker": "Library\\BookComparator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\IteratorsAndComparators\\Library\\BookComparator.cs",
+              "RelativeToolTip": "Library\\BookComparator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T11:41:10.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\IteratorsAndComparators\\Library\\Library.cs",
+              "RelativeDocumentMoniker": "Library\\Library.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\IteratorsAndComparators\\Library\\Library.cs",
+              "RelativeToolTip": "Library\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:15:43.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\IteratorsAndComparators\\Library\\Book.cs",
+              "RelativeDocumentMoniker": "Library\\Book.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\IteratorsAndComparators\\Library\\Book.cs",
+              "RelativeToolTip": "Library\\Book.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:10:51.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\IteratorsAndComparators\\Library\\StartUp.cs",
+              "RelativeDocumentMoniker": "Library\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\IteratorsAndComparators\\Library\\StartUp.cs",
+              "RelativeToolTip": "Library\\StartUp.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:09:48.739Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

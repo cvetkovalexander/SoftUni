@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\Facade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5E59BA-FFD1-4981-9BBF-2B30CA03654F}|Facade\\Facade.csproj|c:\\users\\admin\\desktop\\c# oop\\designpatterns\\facade\\facade\\models\\carinfobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5E59BA-FFD1-4981-9BBF-2B30CA03654F}|Facade\\Facade.csproj|solutionrelative:facade\\models\\carinfobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5E59BA-FFD1-4981-9BBF-2B30CA03654F}|Facade\\Facade.csproj|c:\\users\\admin\\desktop\\c# oop\\designpatterns\\facade\\facade\\models\\carbuilderfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5E59BA-FFD1-4981-9BBF-2B30CA03654F}|Facade\\Facade.csproj|solutionrelative:facade\\models\\carbuilderfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5E59BA-FFD1-4981-9BBF-2B30CA03654F}|Facade\\Facade.csproj|c:\\users\\admin\\desktop\\c# oop\\designpatterns\\facade\\facade\\models\\caraddressbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5E59BA-FFD1-4981-9BBF-2B30CA03654F}|Facade\\Facade.csproj|solutionrelative:facade\\models\\caraddressbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5E59BA-FFD1-4981-9BBF-2B30CA03654F}|Facade\\Facade.csproj|c:\\users\\admin\\desktop\\c# oop\\designpatterns\\facade\\facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5E59BA-FFD1-4981-9BBF-2B30CA03654F}|Facade\\Facade.csproj|solutionrelative:facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5E59BA-FFD1-4981-9BBF-2B30CA03654F}|Facade\\Facade.csproj|c:\\users\\admin\\desktop\\c# oop\\designpatterns\\facade\\facade\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5E59BA-FFD1-4981-9BBF-2B30CA03654F}|Facade\\Facade.csproj|solutionrelative:facade\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarAddressBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\Facade\\Facade\\Models\\CarAddressBuilder.cs",
+              "RelativeDocumentMoniker": "Facade\\Models\\CarAddressBuilder.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\Facade\\Facade\\Models\\CarAddressBuilder.cs",
+              "RelativeToolTip": "Facade\\Models\\CarAddressBuilder.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAArwBgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:41:03.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarInfoBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\Facade\\Facade\\Models\\CarInfoBuilder.cs",
+              "RelativeDocumentMoniker": "Facade\\Models\\CarInfoBuilder.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\Facade\\Facade\\Models\\CarInfoBuilder.cs",
+              "RelativeToolTip": "Facade\\Models\\CarInfoBuilder.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:38:29.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarBuilderFacade.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\Facade\\Facade\\Models\\CarBuilderFacade.cs",
+              "RelativeDocumentMoniker": "Facade\\Models\\CarBuilderFacade.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\Facade\\Facade\\Models\\CarBuilderFacade.cs",
+              "RelativeToolTip": "Facade\\Models\\CarBuilderFacade.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:37:31.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\Facade\\Facade\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Facade\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\Facade\\Facade\\Models\\Car.cs",
+              "RelativeToolTip": "Facade\\Models\\Car.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:34:00.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\Facade\\Facade\\Program.cs",
+              "RelativeDocumentMoniker": "Facade\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\Facade\\Facade\\Program.cs",
+              "RelativeToolTip": "Facade\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADgvwgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:33:05.946Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

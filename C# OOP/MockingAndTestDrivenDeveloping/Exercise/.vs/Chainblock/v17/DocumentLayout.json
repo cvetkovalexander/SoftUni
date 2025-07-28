@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# OOP\\MockingAndTestDrivenDeveloping\\Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38A8DFA9-2674-4F33-9475-FD99A34BFB99}|Chainblock\\Chainblock.csproj|c:\\users\\admin\\desktop\\c# oop\\mockingandtestdrivendeveloping\\exercise\\chainblock\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38A8DFA9-2674-4F33-9475-FD99A34BFB99}|Chainblock\\Chainblock.csproj|solutionrelative:chainblock\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38A8DFA9-2674-4F33-9475-FD99A34BFB99}|Chainblock\\Chainblock.csproj|c:\\users\\admin\\desktop\\c# oop\\mockingandtestdrivendeveloping\\exercise\\chainblock\\transactionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38A8DFA9-2674-4F33-9475-FD99A34BFB99}|Chainblock\\Chainblock.csproj|solutionrelative:chainblock\\transactionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\MockingAndTestDrivenDeveloping\\Exercise\\Chainblock\\TransactionStatus.cs",
+              "RelativeDocumentMoniker": "Chainblock\\TransactionStatus.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\MockingAndTestDrivenDeveloping\\Exercise\\Chainblock\\TransactionStatus.cs",
+              "RelativeToolTip": "Chainblock\\TransactionStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T11:01:55.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\MockingAndTestDrivenDeveloping\\Exercise\\Chainblock\\StartUp.cs",
+              "RelativeDocumentMoniker": "Chainblock\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\MockingAndTestDrivenDeveloping\\Exercise\\Chainblock\\StartUp.cs",
+              "RelativeToolTip": "Chainblock\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T11:01:34.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

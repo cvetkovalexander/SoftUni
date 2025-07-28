@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\2.SumNumbers\bin\Debug\net8.0\2.SumNumbers.exe
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\2.SumNumbers\bin\Debug\net8.0\2.SumNumbers.deps.json
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\2.SumNumbers\bin\Debug\net8.0\2.SumNumbers.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\2.SumNumbers\bin\Debug\net8.0\2.SumNumbers.dll
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\2.SumNumbers\bin\Debug\net8.0\2.SumNumbers.pdb
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\2.SumNumbers\obj\Debug\net8.0\2.SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\2.SumNumbers\obj\Debug\net8.0\2.SumNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\2.SumNumbers\obj\Debug\net8.0\2.SumNumbers.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\2.SumNumbers\obj\Debug\net8.0\2.SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\2.SumNumbers\obj\Debug\net8.0\2.SumNumbers.dll
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\2.SumNumbers\obj\Debug\net8.0\refint\2.SumNumbers.dll
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\2.SumNumbers\obj\Debug\net8.0\2.SumNumbers.pdb
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\2.SumNumbers\obj\Debug\net8.0\2.SumNumbers.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\2.SumNumbers\obj\Debug\net8.0\ref\2.SumNumbers.dll

@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\04.ProductShop\bin\Debug\net8.0\04.ProductShop.exe
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\04.ProductShop\bin\Debug\net8.0\04.ProductShop.deps.json
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\04.ProductShop\bin\Debug\net8.0\04.ProductShop.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\04.ProductShop\bin\Debug\net8.0\04.ProductShop.dll
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\04.ProductShop\bin\Debug\net8.0\04.ProductShop.pdb
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\net8.0\04.ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\net8.0\04.ProductShop.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\net8.0\04.ProductShop.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\net8.0\04.ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\net8.0\04.ProductShop.dll
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\net8.0\refint\04.ProductShop.dll
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\net8.0\04.ProductShop.pdb
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\net8.0\04.ProductShop.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\net8.0\ref\04.ProductShop.dll

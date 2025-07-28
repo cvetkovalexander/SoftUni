@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# Advanced\\Generics\\Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E7021A9-951F-40CC-8844-5F6DD179118B}|Tuple\\Tuple.csproj|c:\\users\\admin\\desktop\\c# advanced\\generics\\exercise\\tuple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E7021A9-951F-40CC-8844-5F6DD179118B}|Tuple\\Tuple.csproj|solutionrelative:tuple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E7021A9-951F-40CC-8844-5F6DD179118B}|Tuple\\Tuple.csproj|c:\\users\\admin\\desktop\\c# advanced\\generics\\exercise\\tuple\\customtuple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E7021A9-951F-40CC-8844-5F6DD179118B}|Tuple\\Tuple.csproj|solutionrelative:tuple\\customtuple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7BCB7A-1FA4-4710-991D-8EDFF7B55291}|GenericBoxOfString\\GenericBoxOfString.csproj|c:\\users\\admin\\desktop\\c# advanced\\generics\\exercise\\genericboxofstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7BCB7A-1FA4-4710-991D-8EDFF7B55291}|GenericBoxOfString\\GenericBoxOfString.csproj|solutionrelative:genericboxofstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7BCB7A-1FA4-4710-991D-8EDFF7B55291}|GenericBoxOfString\\GenericBoxOfString.csproj|c:\\users\\admin\\desktop\\c# advanced\\generics\\exercise\\genericboxofstring\\listofboxes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7BCB7A-1FA4-4710-991D-8EDFF7B55291}|GenericBoxOfString\\GenericBoxOfString.csproj|solutionrelative:genericboxofstring\\listofboxes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7BCB7A-1FA4-4710-991D-8EDFF7B55291}|GenericBoxOfString\\GenericBoxOfString.csproj|c:\\users\\admin\\desktop\\c# advanced\\generics\\exercise\\genericboxofstring\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7BCB7A-1FA4-4710-991D-8EDFF7B55291}|GenericBoxOfString\\GenericBoxOfString.csproj|solutionrelative:genericboxofstring\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1217,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomTuple.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\Generics\\Exercise\\Tuple\\CustomTuple.cs",
+              "RelativeDocumentMoniker": "Tuple\\CustomTuple.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\Generics\\Exercise\\Tuple\\CustomTuple.cs",
+              "RelativeToolTip": "Tuple\\CustomTuple.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAASwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:53:31.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\Generics\\Exercise\\Tuple\\Program.cs",
+              "RelativeDocumentMoniker": "Tuple\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\Generics\\Exercise\\Tuple\\Program.cs",
+              "RelativeToolTip": "Tuple\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:53:05.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\Generics\\Exercise\\GenericBoxOfString\\Program.cs",
+              "RelativeDocumentMoniker": "GenericBoxOfString\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\Generics\\Exercise\\GenericBoxOfString\\Program.cs",
+              "RelativeToolTip": "GenericBoxOfString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:50:17.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListOfBoxes.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\Generics\\Exercise\\GenericBoxOfString\\ListOfBoxes.cs",
+              "RelativeDocumentMoniker": "GenericBoxOfString\\ListOfBoxes.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\Generics\\Exercise\\GenericBoxOfString\\ListOfBoxes.cs",
+              "RelativeToolTip": "GenericBoxOfString\\ListOfBoxes.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:52:08.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\Generics\\Exercise\\GenericBoxOfString\\Box.cs",
+              "RelativeDocumentMoniker": "GenericBoxOfString\\Box.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\Generics\\Exercise\\GenericBoxOfString\\Box.cs",
+              "RelativeToolTip": "GenericBoxOfString\\Box.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:33:09.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

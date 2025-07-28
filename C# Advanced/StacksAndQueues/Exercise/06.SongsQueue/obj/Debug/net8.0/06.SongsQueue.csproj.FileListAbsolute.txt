@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\06.SongsQueue\bin\Debug\net8.0\06.SongsQueue.exe
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\06.SongsQueue\bin\Debug\net8.0\06.SongsQueue.deps.json
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\06.SongsQueue\bin\Debug\net8.0\06.SongsQueue.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\06.SongsQueue\bin\Debug\net8.0\06.SongsQueue.dll
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\06.SongsQueue\bin\Debug\net8.0\06.SongsQueue.pdb
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.dll
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\06.SongsQueue\obj\Debug\net8.0\refint\06.SongsQueue.dll
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.pdb
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\06.SongsQueue\obj\Debug\net8.0\ref\06.SongsQueue.dll

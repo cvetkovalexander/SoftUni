@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\8.Bombs\bin\Debug\net8.0\8.Bombs.exe
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\8.Bombs\bin\Debug\net8.0\8.Bombs.deps.json
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\8.Bombs\bin\Debug\net8.0\8.Bombs.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\8.Bombs\bin\Debug\net8.0\8.Bombs.dll
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\8.Bombs\bin\Debug\net8.0\8.Bombs.pdb
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\8.Bombs\obj\Debug\net8.0\8.Bombs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\8.Bombs\obj\Debug\net8.0\8.Bombs.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\8.Bombs\obj\Debug\net8.0\8.Bombs.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\8.Bombs\obj\Debug\net8.0\8.Bombs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\8.Bombs\obj\Debug\net8.0\8.Bombs.dll
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\8.Bombs\obj\Debug\net8.0\refint\8.Bombs.dll
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\8.Bombs\obj\Debug\net8.0\8.Bombs.pdb
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\8.Bombs\obj\Debug\net8.0\8.Bombs.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\8.Bombs\obj\Debug\net8.0\ref\8.Bombs.dll

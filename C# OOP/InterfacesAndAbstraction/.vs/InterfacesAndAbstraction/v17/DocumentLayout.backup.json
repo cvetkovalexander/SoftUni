@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01C30073-4D2D-45E2-9F44-629EF4B01023}|Cars\\Cars.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\cars\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C30073-4D2D-45E2-9F44-629EF4B01023}|Cars\\Cars.csproj|solutionrelative:cars\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C30073-4D2D-45E2-9F44-629EF4B01023}|Cars\\Cars.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\cars\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C30073-4D2D-45E2-9F44-629EF4B01023}|Cars\\Cars.csproj|solutionrelative:cars\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C30073-4D2D-45E2-9F44-629EF4B01023}|Cars\\Cars.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\cars\\tesla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C30073-4D2D-45E2-9F44-629EF4B01023}|Cars\\Cars.csproj|solutionrelative:cars\\tesla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C30073-4D2D-45E2-9F44-629EF4B01023}|Cars\\Cars.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\cars\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C30073-4D2D-45E2-9F44-629EF4B01023}|Cars\\Cars.csproj|solutionrelative:cars\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C30073-4D2D-45E2-9F44-629EF4B01023}|Cars\\Cars.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\cars\\ielectriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C30073-4D2D-45E2-9F44-629EF4B01023}|Cars\\Cars.csproj|solutionrelative:cars\\ielectriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE04582B-61C0-4170-B247-5B2B20440327}|Shapes\\Shapes.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE04582B-61C0-4170-B247-5B2B20440327}|Shapes\\Shapes.csproj|solutionrelative:shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE04582B-61C0-4170-B247-5B2B20440327}|Shapes\\Shapes.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE04582B-61C0-4170-B247-5B2B20440327}|Shapes\\Shapes.csproj|solutionrelative:shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE04582B-61C0-4170-B247-5B2B20440327}|Shapes\\Shapes.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\shapes\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE04582B-61C0-4170-B247-5B2B20440327}|Shapes\\Shapes.csproj|solutionrelative:shapes\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE04582B-61C0-4170-B247-5B2B20440327}|Shapes\\Shapes.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\shapes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE04582B-61C0-4170-B247-5B2B20440327}|Shapes\\Shapes.csproj|solutionrelative:shapes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1217,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Seat.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Cars\\Seat.cs",
+              "RelativeDocumentMoniker": "Cars\\Seat.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Cars\\Seat.cs",
+              "RelativeToolTip": "Cars\\Seat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T22:22:30.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tesla.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Cars\\Tesla.cs",
+              "RelativeDocumentMoniker": "Cars\\Tesla.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Cars\\Tesla.cs",
+              "RelativeToolTip": "Cars\\Tesla.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T22:16:40.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICar.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Cars\\ICar.cs",
+              "RelativeDocumentMoniker": "Cars\\ICar.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Cars\\ICar.cs",
+              "RelativeToolTip": "Cars\\ICar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T22:01:38.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IElectricCar.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Cars\\IElectricCar.cs",
+              "RelativeDocumentMoniker": "Cars\\IElectricCar.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Cars\\IElectricCar.cs",
+              "RelativeToolTip": "Cars\\IElectricCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T22:00:52.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Cars\\StartUp.cs",
+              "RelativeDocumentMoniker": "Cars\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Cars\\StartUp.cs",
+              "RelativeToolTip": "Cars\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T21:59:43.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Shapes\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Shapes\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Shapes\\Rectangle.cs",
+              "RelativeToolTip": "Shapes\\Rectangle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T21:45:23.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "Shapes\\Circle.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Shapes\\Circle.cs",
+              "RelativeToolTip": "Shapes\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T21:41:10.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDrawable.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Shapes\\IDrawable.cs",
+              "RelativeDocumentMoniker": "Shapes\\IDrawable.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Shapes\\IDrawable.cs",
+              "RelativeToolTip": "Shapes\\IDrawable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T21:40:36.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Shapes\\StartUp.cs",
+              "RelativeDocumentMoniker": "Shapes\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Shapes\\StartUp.cs",
+              "RelativeToolTip": "Shapes\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:09:22.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

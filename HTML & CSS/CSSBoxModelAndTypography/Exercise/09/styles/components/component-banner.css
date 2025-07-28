@@ -1,0 +1,48 @@
+.banner {
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 0 1em 0.5em rgb(0, 0, 0, 0.5);
+}
+
+.banner img {
+    position: relative;
+}
+
+.banner header {
+    z-index: 5;
+    position: absolute;
+    font-size: 2em;
+    top: 50%;
+    left: 50%;
+    color: #fff;
+    transition: opacity 0.3s ease-in;
+    line-height: 1.1;
+    translate: -50% -50%;
+}
+
+.banner::before,
+.banner::after {
+    display: block;
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    transition: opacity 0.3s ease-in;
+}
+
+.banner::before {
+    background: linear-gradient(to top, #000 0%, #0000 35%);
+}
+
+.banner::after {
+    box-shadow: 0 0 1em 0.5em rgb(0, 0, 0, 0.5) inset;
+}
+
+.banner:hover::before,
+.banner:hover::after {
+    opacity: 0.1;;
+}
+
+.banner:hover header {
+    opacity: 0.1;
+}

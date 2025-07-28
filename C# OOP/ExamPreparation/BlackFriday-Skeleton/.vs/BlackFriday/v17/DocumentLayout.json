@@ -1,0 +1,366 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\blackfriday-skeleton\\blackfriday\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\blackfriday-skeleton\\blackfriday\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\blackfriday-skeleton\\blackfriday\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\blackfriday-skeleton\\blackfriday\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\blackfriday-skeleton\\blackfriday\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\blackfriday-skeleton\\blackfriday\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\blackfriday-skeleton\\blackfriday\\io\\writer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\io\\writer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\blackfriday-skeleton\\blackfriday\\core\\contracts\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\core\\contracts\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\blackfriday-skeleton\\blackfriday\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\blackfriday-skeleton\\blackfriday\\core\\contracts\\icontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\core\\contracts\\icontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\blackfriday-skeleton\\blackfriday\\models\\contracts\\iapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\models\\contracts\\iapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\blackfriday-skeleton\\blackfriday\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\blackfriday-skeleton\\blackfriday\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\blackfriday-skeleton\\blackfriday\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\blackfriday-skeleton\\blackfriday\\repositories\\contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\repositories\\contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\blackfriday-skeleton\\blackfriday\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\blackfriday-skeleton\\blackfriday\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\blackfriday-skeleton\\blackfriday\\utilities\\messages\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\utilities\\messages\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\blackfriday-skeleton\\blackfriday\\models\\contracts\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\models\\contracts\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\blackfriday-skeleton\\blackfriday\\models\\contracts\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\models\\contracts\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\blackfriday-skeleton\\blackfriday\\io\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\io\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ExceptionMessages.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Utilities\\Messages\\ExceptionMessages.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Utilities\\Messages\\ExceptionMessages.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Utilities\\Messages\\ExceptionMessages.cs",
+              "RelativeToolTip": "BlackFriday\\Utilities\\Messages\\ExceptionMessages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:49:32.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Models\\Contracts\\IUser.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Models\\Contracts\\IUser.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Models\\Contracts\\IUser.cs",
+              "RelativeToolTip": "BlackFriday\\Models\\Contracts\\IUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:49:28.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Core\\Engine.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Core\\Engine.cs",
+              "RelativeToolTip": "BlackFriday\\Core\\Engine.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAADwv1AAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:46:37.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\StartUp.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\StartUp.cs",
+              "RelativeToolTip": "BlackFriday\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:46:29.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Core\\Controller.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Core\\Controller.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Core\\Controller.cs",
+              "RelativeToolTip": "BlackFriday\\Core\\Controller.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAIwIsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T21:35:33.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Models\\Client.cs",
+              "RelativeToolTip": "BlackFriday\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T21:16:40.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Models\\Application.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Models\\Application.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Models\\Application.cs",
+              "RelativeToolTip": "BlackFriday\\Models\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T21:26:51.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Models\\Service.cs",
+              "RelativeToolTip": "BlackFriday\\Models\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T21:08:56.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Models\\User.cs",
+              "RelativeToolTip": "BlackFriday\\Models\\User.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T21:09:48.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Models\\Product.cs",
+              "RelativeToolTip": "BlackFriday\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:59:45.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Models\\Item.cs",
+              "RelativeToolTip": "BlackFriday\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T21:07:57.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Models\\Contracts\\IProduct.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Models\\Contracts\\IProduct.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Models\\Contracts\\IProduct.cs",
+              "RelativeToolTip": "BlackFriday\\Models\\Contracts\\IProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:49:27.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Models\\Contracts\\IApplication.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Models\\Contracts\\IApplication.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Models\\Contracts\\IApplication.cs",
+              "RelativeToolTip": "BlackFriday\\Models\\Contracts\\IApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:49:26.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Core\\Contracts\\IController.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Core\\Contracts\\IController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Core\\Contracts\\IController.cs",
+              "RelativeToolTip": "BlackFriday\\Core\\Contracts\\IController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:46:47.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Models\\Admin.cs",
+              "RelativeToolTip": "BlackFriday\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T21:20:45.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Writer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\IO\\Writer.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\IO\\Writer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\IO\\Writer.cs",
+              "RelativeToolTip": "BlackFriday\\IO\\Writer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:49:20.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEngine.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Core\\Contracts\\IEngine.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Core\\Contracts\\IEngine.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Core\\Contracts\\IEngine.cs",
+              "RelativeToolTip": "BlackFriday\\Core\\Contracts\\IEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:46:46.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "BlackFriday\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T21:21:38.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "BlackFriday\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T21:25:03.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Reader.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\IO\\Reader.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\IO\\Reader.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\IO\\Reader.cs",
+              "RelativeToolTip": "BlackFriday\\IO\\Reader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:49:18.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Repositories\\Contracts\\IRepository.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Repositories\\Contracts\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\BlackFriday-Skeleton\\BlackFriday\\Repositories\\Contracts\\IRepository.cs",
+              "RelativeToolTip": "BlackFriday\\Repositories\\Contracts\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:46:57.241Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\NetTraderSystem-Skeleton\NetTraderSystem\bin\Debug\net6.0\NetTraderSystem.exe
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\NetTraderSystem-Skeleton\NetTraderSystem\bin\Debug\net6.0\NetTraderSystem.deps.json
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\NetTraderSystem-Skeleton\NetTraderSystem\bin\Debug\net6.0\NetTraderSystem.runtimeconfig.json
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\NetTraderSystem-Skeleton\NetTraderSystem\bin\Debug\net6.0\NetTraderSystem.dll
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\NetTraderSystem-Skeleton\NetTraderSystem\bin\Debug\net6.0\NetTraderSystem.pdb
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\NetTraderSystem-Skeleton\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\NetTraderSystem-Skeleton\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\NetTraderSystem-Skeleton\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\NetTraderSystem-Skeleton\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\NetTraderSystem-Skeleton\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.dll
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\NetTraderSystem-Skeleton\NetTraderSystem\obj\Debug\net6.0\refint\NetTraderSystem.dll
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\NetTraderSystem-Skeleton\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.pdb
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\NetTraderSystem-Skeleton\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\NetTraderSystem-Skeleton\NetTraderSystem\obj\Debug\net6.0\ref\NetTraderSystem.dll

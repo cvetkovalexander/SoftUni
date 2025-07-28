@@ -1,0 +1,9 @@
+a {
+    color: red;
+    text-decoration: none;
+}
+
+a:hover {
+    color: blue;
+    text-decoration: line-through;
+}

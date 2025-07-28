@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\NetTraderSystem-Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5208218A-AF41-4BCC-BA79-F1B9585C2C4C}|NetTraderSystem.Tests\\NetTraderSystem.Tests.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\nettradersystem-skeleton\\nettradersystem.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5208218A-AF41-4BCC-BA79-F1B9585C2C4C}|NetTraderSystem.Tests\\NetTraderSystem.Tests.csproj|solutionrelative:nettradersystem.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AB8646-3007-45D2-BEA6-557B4F806BBD}|NetTraderSystem\\NetTraderSystem.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\nettradersystem-skeleton\\nettradersystem\\tradingplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AB8646-3007-45D2-BEA6-557B4F806BBD}|NetTraderSystem\\NetTraderSystem.csproj|solutionrelative:nettradersystem\\tradingplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AB8646-3007-45D2-BEA6-557B4F806BBD}|NetTraderSystem\\NetTraderSystem.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\nettradersystem-skeleton\\nettradersystem\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AB8646-3007-45D2-BEA6-557B4F806BBD}|NetTraderSystem\\NetTraderSystem.csproj|solutionrelative:nettradersystem\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5208218A-AF41-4BCC-BA79-F1B9585C2C4C}|NetTraderSystem.Tests\\NetTraderSystem.Tests.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\nettradersystem-skeleton\\nettradersystem.tests\\nettradersystem.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5208218A-AF41-4BCC-BA79-F1B9585C2C4C}|NetTraderSystem.Tests\\NetTraderSystem.Tests.csproj|solutionrelative:nettradersystem.tests\\nettradersystem.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AB8646-3007-45D2-BEA6-557B4F806BBD}|NetTraderSystem\\NetTraderSystem.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\nettradersystem-skeleton\\nettradersystem\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AB8646-3007-45D2-BEA6-557B4F806BBD}|NetTraderSystem\\NetTraderSystem.csproj|solutionrelative:nettradersystem\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\NetTraderSystem-Skeleton\\NetTraderSystem.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "NetTraderSystem.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\NetTraderSystem-Skeleton\\NetTraderSystem.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "NetTraderSystem.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAwGAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T11:16:26.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NetTraderSystem.Tests",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\NetTraderSystem-Skeleton\\NetTraderSystem.Tests\\NetTraderSystem.Tests.csproj",
+              "RelativeDocumentMoniker": "NetTraderSystem.Tests\\NetTraderSystem.Tests.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\NetTraderSystem-Skeleton\\NetTraderSystem.Tests\\NetTraderSystem.Tests.csproj",
+              "RelativeToolTip": "NetTraderSystem.Tests\\NetTraderSystem.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-31T10:59:01.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TradingPlatform.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\NetTraderSystem-Skeleton\\NetTraderSystem\\TradingPlatform.cs",
+              "RelativeDocumentMoniker": "NetTraderSystem\\TradingPlatform.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\NetTraderSystem-Skeleton\\NetTraderSystem\\TradingPlatform.cs",
+              "RelativeToolTip": "NetTraderSystem\\TradingPlatform.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwDsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:57:32.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\NetTraderSystem-Skeleton\\NetTraderSystem\\Product.cs",
+              "RelativeDocumentMoniker": "NetTraderSystem\\Product.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\NetTraderSystem-Skeleton\\NetTraderSystem\\Product.cs",
+              "RelativeToolTip": "NetTraderSystem\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:57:30.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\NetTraderSystem-Skeleton\\NetTraderSystem\\StartUp.cs",
+              "RelativeDocumentMoniker": "NetTraderSystem\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\NetTraderSystem-Skeleton\\NetTraderSystem\\StartUp.cs",
+              "RelativeToolTip": "NetTraderSystem\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:57:28.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

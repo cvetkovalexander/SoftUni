@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Lato, sans-serif;
+    font-size: 14px;
+    line-height: 1.4;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    /* margin: 0 auto; */
+    /* max-width: 200px; */
+    /* border: 1px solid black; */
+    background-color: #EEE;
+    justify-content: center;
+    align-items: center;
+}
+
+.keyboard {
+    --spacing: 0.7em;
+    /* width: 100%; */
+    /* display: flex; */
+    background-color: #DDD; 
+    border: 1px solid #AAA;
+    border-radius: 0.4em;
+    padding: 1em 1.3em;
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing);
+}
+
+.keyboard .row {
+    display: flex;
+    gap: var(--spacing);
+}
+
+.keyboard .key {
+    background-color: #FFF;
+    flex: 1 1 auto;
+    text-align: center;
+    border: 1px solid #CCC;
+    border-radius: 0.3em;
+    padding: 0.5em 0.8em;
+    box-shadow: 0 0.15em 0 0 rgb(0, 0, 0, 0.3);
+    cursor: pointer;
+    position: relative;
+}
+
+.keyboard .key:active {
+    box-shadow: none;
+    top: 0.1em;
+    background-color: #EEE;
+}
+
+.keyboard .key.special {
+    background-color: #EEE;
+}
+
+.keyboard .key:not(.special) {
+    flex-basis: 4ch;
+}
+
+.keyboard .row:nth-child(1) .key {
+    padding-block: 0.2em;
+}
+
+.keyboard .row:nth-child(4) {
+    padding-right: 4.5em;
+}
+
+.keyboard .key.space {
+    flex-basis: 60%;
+}
+
+.keyboard .key.enter {
+    border-bottom-right-radius: 0;
+}
+
+.keyboard .key.enter::after {
+    display: block;
+    background-color: inherit;
+    content: '';
+    width: 5.5ch;
+    height: 5.7ch;
+    aspect-ratio: 1;
+    position: absolute;
+    top: calc(100% - 0px);
+    right: -1px;
+    border: 1px solid #CCC;
+    border-top: none;
+    border-radius: 0.3em;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    box-shadow: inherit;
+}

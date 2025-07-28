@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|c:\\users\\admin\\desktop\\c# oop\\reflectionandattributes\\exercise\\validationattributes\\attributes\\mylengthattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|solutionrelative:validationattributes\\attributes\\mylengthattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|c:\\users\\admin\\desktop\\c# oop\\reflectionandattributes\\exercise\\validationattributes\\attributes\\myvalidcollectionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|solutionrelative:validationattributes\\attributes\\myvalidcollectionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|c:\\users\\admin\\desktop\\c# oop\\reflectionandattributes\\exercise\\validationattributes\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|solutionrelative:validationattributes\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|c:\\users\\admin\\desktop\\c# oop\\reflectionandattributes\\exercise\\validationattributes\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|solutionrelative:validationattributes\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|c:\\users\\admin\\desktop\\c# oop\\reflectionandattributes\\exercise\\validationattributes\\attributes\\myrangeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|solutionrelative:validationattributes\\attributes\\myrangeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|c:\\users\\admin\\desktop\\c# oop\\reflectionandattributes\\exercise\\validationattributes\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|solutionrelative:validationattributes\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|c:\\users\\admin\\desktop\\c# oop\\reflectionandattributes\\exercise\\validationattributes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|solutionrelative:validationattributes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|c:\\users\\admin\\desktop\\c# oop\\reflectionandattributes\\exercise\\validationattributes\\attributes\\myrequiredattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|solutionrelative:validationattributes\\attributes\\myrequiredattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|c:\\users\\admin\\desktop\\c# oop\\reflectionandattributes\\exercise\\validationattributes\\attributes\\myvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|solutionrelative:validationattributes\\attributes\\myvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|c:\\users\\admin\\desktop\\c# oop\\reflectionandattributes\\exercise\\commandpattern\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|c:\\users\\admin\\desktop\\c# oop\\reflectionandattributes\\exercise\\commandpattern\\core\\commandinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\core\\commandinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|c:\\users\\admin\\desktop\\c# oop\\reflectionandattributes\\exercise\\commandpattern\\core\\commands\\hellocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\core\\commands\\hellocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|c:\\users\\admin\\desktop\\c# oop\\reflectionandattributes\\exercise\\commandpattern\\core\\commands\\productcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\core\\commands\\productcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|c:\\users\\admin\\desktop\\c# oop\\reflectionandattributes\\exercise\\commandpattern\\core\\commands\\sumcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\core\\commands\\sumcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|c:\\users\\admin\\desktop\\c# oop\\reflectionandattributes\\exercise\\commandpattern\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|c:\\users\\admin\\desktop\\c# oop\\reflectionandattributes\\exercise\\commandpattern\\core\\commands\\exitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\core\\commands\\exitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|c:\\users\\admin\\desktop\\c# oop\\reflectionandattributes\\exercise\\commandpattern\\core\\contracts\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\core\\contracts\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|c:\\users\\admin\\desktop\\c# oop\\reflectionandattributes\\exercise\\commandpattern\\core\\contracts\\icommandinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\core\\contracts\\icommandinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|c:\\users\\admin\\desktop\\c# oop\\reflectionandattributes\\exercise\\commandpattern\\core\\contracts\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\core\\contracts\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyValidCollectionAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\ValidationAttributes\\Attributes\\MyValidCollectionAttribute.cs",
+              "RelativeDocumentMoniker": "ValidationAttributes\\Attributes\\MyValidCollectionAttribute.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\ValidationAttributes\\Attributes\\MyValidCollectionAttribute.cs",
+              "RelativeToolTip": "ValidationAttributes\\Attributes\\MyValidCollectionAttribute.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAtwA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:17:51.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyLengthAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\ValidationAttributes\\Attributes\\MyLengthAttribute.cs",
+              "RelativeDocumentMoniker": "ValidationAttributes\\Attributes\\MyLengthAttribute.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\ValidationAttributes\\Attributes\\MyLengthAttribute.cs",
+              "RelativeToolTip": "ValidationAttributes\\Attributes\\MyLengthAttribute.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAD4vyMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:17:16.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\ValidationAttributes\\Models\\Pet.cs",
+              "RelativeDocumentMoniker": "ValidationAttributes\\Models\\Pet.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\ValidationAttributes\\Models\\Pet.cs",
+              "RelativeToolTip": "ValidationAttributes\\Models\\Pet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:04:16.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\ValidationAttributes\\Validator.cs",
+              "RelativeDocumentMoniker": "ValidationAttributes\\Validator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\ValidationAttributes\\Validator.cs",
+              "RelativeToolTip": "ValidationAttributes\\Validator.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T14:43:23.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\ValidationAttributes\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "ValidationAttributes\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\ValidationAttributes\\Models\\Person.cs",
+              "RelativeToolTip": "ValidationAttributes\\Models\\Person.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T14:42:16.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyRequiredAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\ValidationAttributes\\Attributes\\MyRequiredAttribute.cs",
+              "RelativeDocumentMoniker": "ValidationAttributes\\Attributes\\MyRequiredAttribute.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\ValidationAttributes\\Attributes\\MyRequiredAttribute.cs",
+              "RelativeToolTip": "ValidationAttributes\\Attributes\\MyRequiredAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T14:35:51.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyRangeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\ValidationAttributes\\Attributes\\MyRangeAttribute.cs",
+              "RelativeDocumentMoniker": "ValidationAttributes\\Attributes\\MyRangeAttribute.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\ValidationAttributes\\Attributes\\MyRangeAttribute.cs",
+              "RelativeToolTip": "ValidationAttributes\\Attributes\\MyRangeAttribute.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T14:35:34.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyValidationAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\ValidationAttributes\\Attributes\\MyValidationAttribute.cs",
+              "RelativeDocumentMoniker": "ValidationAttributes\\Attributes\\MyValidationAttribute.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\ValidationAttributes\\Attributes\\MyValidationAttribute.cs",
+              "RelativeToolTip": "ValidationAttributes\\Attributes\\MyValidationAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T14:34:59.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\ValidationAttributes\\StartUp.cs",
+              "RelativeDocumentMoniker": "ValidationAttributes\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\ValidationAttributes\\StartUp.cs",
+              "RelativeToolTip": "ValidationAttributes\\StartUp.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T14:33:56.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\CommandPattern\\Core\\Commands\\ProductCommand.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Core\\Commands\\ProductCommand.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\CommandPattern\\Core\\Commands\\ProductCommand.cs",
+              "RelativeToolTip": "CommandPattern\\Core\\Commands\\ProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T14:17:04.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SumCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\CommandPattern\\Core\\Commands\\SumCommand.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Core\\Commands\\SumCommand.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\CommandPattern\\Core\\Commands\\SumCommand.cs",
+              "RelativeToolTip": "CommandPattern\\Core\\Commands\\SumCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T14:14:01.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\CommandPattern\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Core\\Engine.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\CommandPattern\\Core\\Engine.cs",
+              "RelativeToolTip": "CommandPattern\\Core\\Engine.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:12:06.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CommandInterpreter.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\CommandPattern\\Core\\CommandInterpreter.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Core\\CommandInterpreter.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\CommandPattern\\Core\\CommandInterpreter.cs",
+              "RelativeToolTip": "CommandPattern\\Core\\CommandInterpreter.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowCEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:11:03.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExitCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\CommandPattern\\Core\\Commands\\ExitCommand.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Core\\Commands\\ExitCommand.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\CommandPattern\\Core\\Commands\\ExitCommand.cs",
+              "RelativeToolTip": "CommandPattern\\Core\\Commands\\ExitCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:09:37.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HelloCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\CommandPattern\\Core\\Commands\\HelloCommand.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Core\\Commands\\HelloCommand.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\CommandPattern\\Core\\Commands\\HelloCommand.cs",
+              "RelativeToolTip": "CommandPattern\\Core\\Commands\\HelloCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:08:45.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IEngine.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\CommandPattern\\Core\\Contracts\\IEngine.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Core\\Contracts\\IEngine.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\CommandPattern\\Core\\Contracts\\IEngine.cs",
+              "RelativeToolTip": "CommandPattern\\Core\\Contracts\\IEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:08:23.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICommandInterpreter.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\CommandPattern\\Core\\Contracts\\ICommandInterpreter.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Core\\Contracts\\ICommandInterpreter.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\CommandPattern\\Core\\Contracts\\ICommandInterpreter.cs",
+              "RelativeToolTip": "CommandPattern\\Core\\Contracts\\ICommandInterpreter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:08:19.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\CommandPattern\\Core\\Contracts\\ICommand.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Core\\Contracts\\ICommand.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\CommandPattern\\Core\\Contracts\\ICommand.cs",
+              "RelativeToolTip": "CommandPattern\\Core\\Contracts\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:08:05.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\CommandPattern\\StartUp.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Exercise\\CommandPattern\\StartUp.cs",
+              "RelativeToolTip": "CommandPattern\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:07:12.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

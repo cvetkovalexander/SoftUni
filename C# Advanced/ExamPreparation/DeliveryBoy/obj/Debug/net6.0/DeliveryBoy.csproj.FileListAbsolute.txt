@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\DeliveryBoy\obj\Debug\net6.0\DeliveryBoy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\DeliveryBoy\obj\Debug\net6.0\DeliveryBoy.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\DeliveryBoy\obj\Debug\net6.0\DeliveryBoy.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\DeliveryBoy\obj\Debug\net6.0\DeliveryBoy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\DeliveryBoy\bin\Debug\net6.0\DeliveryBoy.exe
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\DeliveryBoy\bin\Debug\net6.0\DeliveryBoy.deps.json
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\DeliveryBoy\bin\Debug\net6.0\DeliveryBoy.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\DeliveryBoy\bin\Debug\net6.0\DeliveryBoy.dll
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\DeliveryBoy\bin\Debug\net6.0\DeliveryBoy.pdb
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\DeliveryBoy\obj\Debug\net6.0\DeliveryBoy.dll
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\DeliveryBoy\obj\Debug\net6.0\refint\DeliveryBoy.dll
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\DeliveryBoy\obj\Debug\net6.0\DeliveryBoy.pdb
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\DeliveryBoy\obj\Debug\net6.0\DeliveryBoy.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\DeliveryBoy\obj\Debug\net6.0\ref\DeliveryBoy.dll

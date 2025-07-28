@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6067CBE7-9579-401C-B5EE-7E954654809E}|AuthorProblem\\AuthorProblem.csproj|c:\\users\\admin\\desktop\\c# oop\\reflectionandattributes\\authorproblem\\tracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6067CBE7-9579-401C-B5EE-7E954654809E}|AuthorProblem\\AuthorProblem.csproj|solutionrelative:authorproblem\\tracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6067CBE7-9579-401C-B5EE-7E954654809E}|AuthorProblem\\AuthorProblem.csproj|c:\\users\\admin\\desktop\\c# oop\\reflectionandattributes\\authorproblem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6067CBE7-9579-401C-B5EE-7E954654809E}|AuthorProblem\\AuthorProblem.csproj|solutionrelative:authorproblem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94AC2D8E-0EBE-45D1-B51B-0F9A4AA2D505}|Stealer\\Stealer.csproj|c:\\users\\admin\\desktop\\c# oop\\reflectionandattributes\\stealer\\stealer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{94AC2D8E-0EBE-45D1-B51B-0F9A4AA2D505}|Stealer\\Stealer.csproj|solutionrelative:stealer\\stealer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6067CBE7-9579-401C-B5EE-7E954654809E}|AuthorProblem\\AuthorProblem.csproj|c:\\users\\admin\\desktop\\c# oop\\reflectionandattributes\\authorproblem\\authorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6067CBE7-9579-401C-B5EE-7E954654809E}|AuthorProblem\\AuthorProblem.csproj|solutionrelative:authorproblem\\authorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94AC2D8E-0EBE-45D1-B51B-0F9A4AA2D505}|Stealer\\Stealer.csproj|c:\\users\\admin\\desktop\\c# oop\\reflectionandattributes\\stealer\\reflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94AC2D8E-0EBE-45D1-B51B-0F9A4AA2D505}|Stealer\\Stealer.csproj|solutionrelative:stealer\\reflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94AC2D8E-0EBE-45D1-B51B-0F9A4AA2D505}|Stealer\\Stealer.csproj|c:\\users\\admin\\desktop\\c# oop\\reflectionandattributes\\stealer\\reflection\\hacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94AC2D8E-0EBE-45D1-B51B-0F9A4AA2D505}|Stealer\\Stealer.csproj|solutionrelative:stealer\\reflection\\hacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94AC2D8E-0EBE-45D1-B51B-0F9A4AA2D505}|Stealer\\Stealer.csproj|c:\\users\\admin\\desktop\\c# oop\\reflectionandattributes\\stealer\\reflection\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94AC2D8E-0EBE-45D1-B51B-0F9A4AA2D505}|Stealer\\Stealer.csproj|solutionrelative:stealer\\reflection\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stealer",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Stealer\\Stealer.csproj",
+              "RelativeDocumentMoniker": "Stealer\\Stealer.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Stealer\\Stealer.csproj",
+              "RelativeToolTip": "Stealer\\Stealer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T11:40:34.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tracker.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\AuthorProblem\\Tracker.cs",
+              "RelativeDocumentMoniker": "AuthorProblem\\Tracker.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\AuthorProblem\\Tracker.cs",
+              "RelativeToolTip": "AuthorProblem\\Tracker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:37:59.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\AuthorProblem\\AuthorAttribute.cs",
+              "RelativeDocumentMoniker": "AuthorProblem\\AuthorAttribute.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\AuthorProblem\\AuthorAttribute.cs",
+              "RelativeToolTip": "AuthorProblem\\AuthorAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:34:57.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\AuthorProblem\\Program.cs",
+              "RelativeDocumentMoniker": "AuthorProblem\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\AuthorProblem\\Program.cs",
+              "RelativeToolTip": "AuthorProblem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:34:19.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Spy.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Stealer\\Reflection\\Spy.cs",
+              "RelativeDocumentMoniker": "Stealer\\Reflection\\Spy.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Stealer\\Reflection\\Spy.cs",
+              "RelativeToolTip": "Stealer\\Reflection\\Spy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:13:32.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hacker.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Stealer\\Reflection\\Hacker.cs",
+              "RelativeDocumentMoniker": "Stealer\\Reflection\\Hacker.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Stealer\\Reflection\\Hacker.cs",
+              "RelativeToolTip": "Stealer\\Reflection\\Hacker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:10:31.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Stealer\\Reflection\\Program.cs",
+              "RelativeDocumentMoniker": "Stealer\\Reflection\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ReflectionAndAttributes\\Stealer\\Reflection\\Program.cs",
+              "RelativeToolTip": "Stealer\\Reflection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:10:02.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

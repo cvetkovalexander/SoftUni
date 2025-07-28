@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\HighwayToPeak-Skeleton\bin\Debug\net6.0\HighwayToPeak.exe
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\HighwayToPeak-Skeleton\bin\Debug\net6.0\HighwayToPeak.deps.json
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\HighwayToPeak-Skeleton\bin\Debug\net6.0\HighwayToPeak.runtimeconfig.json
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\HighwayToPeak-Skeleton\bin\Debug\net6.0\HighwayToPeak.dll
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\HighwayToPeak-Skeleton\bin\Debug\net6.0\HighwayToPeak.pdb
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\HighwayToPeak-Skeleton\obj\Debug\net6.0\HighwayToPeak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\HighwayToPeak-Skeleton\obj\Debug\net6.0\HighwayToPeak.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\HighwayToPeak-Skeleton\obj\Debug\net6.0\HighwayToPeak.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\HighwayToPeak-Skeleton\obj\Debug\net6.0\HighwayToPeak.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\HighwayToPeak-Skeleton\obj\Debug\net6.0\HighwayToPeak.dll
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\HighwayToPeak-Skeleton\obj\Debug\net6.0\refint\HighwayToPeak.dll
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\HighwayToPeak-Skeleton\obj\Debug\net6.0\HighwayToPeak.pdb
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\HighwayToPeak-Skeleton\obj\Debug\net6.0\HighwayToPeak.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\HighwayToPeak-Skeleton\obj\Debug\net6.0\ref\HighwayToPeak.dll

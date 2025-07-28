@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# Advanced\\3.StacksAndQueues-Lab\\Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66BD4E50-86BF-48FF-87D3-A1DF4BF59056}|12.CupsAndBottles\\12.CupsAndBottles.csproj|c:\\users\\admin\\desktop\\c# advanced\\3.stacksandqueues-lab\\exercise\\12.cupsandbottles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BD4E50-86BF-48FF-87D3-A1DF4BF59056}|12.CupsAndBottles\\12.CupsAndBottles.csproj|solutionrelative:12.cupsandbottles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD617EF-86D0-417D-8597-6012F9EFB892}|11.KeyRevolver\\11.KeyRevolver.csproj|c:\\users\\admin\\desktop\\c# advanced\\3.stacksandqueues-lab\\exercise\\11.keyrevolver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD617EF-86D0-417D-8597-6012F9EFB892}|11.KeyRevolver\\11.KeyRevolver.csproj|solutionrelative:11.keyrevolver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\3.StacksAndQueues-Lab\\Exercise\\11.KeyRevolver\\Program.cs",
+              "RelativeDocumentMoniker": "11.KeyRevolver\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\3.StacksAndQueues-Lab\\Exercise\\11.KeyRevolver\\Program.cs",
+              "RelativeToolTip": "11.KeyRevolver\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T13:08:13.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\3.StacksAndQueues-Lab\\Exercise\\12.CupsAndBottles\\Program.cs",
+              "RelativeDocumentMoniker": "12.CupsAndBottles\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\3.StacksAndQueues-Lab\\Exercise\\12.CupsAndBottles\\Program.cs",
+              "RelativeToolTip": "12.CupsAndBottles\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T13:02:11.262Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

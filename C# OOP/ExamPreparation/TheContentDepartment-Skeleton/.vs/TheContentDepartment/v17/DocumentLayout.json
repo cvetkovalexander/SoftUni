@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\TheContentDepartment-Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\thecontentdepartment-skeleton\\thecontentdepartment\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\thecontentdepartment-skeleton\\thecontentdepartment\\models\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\models\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\thecontentdepartment-skeleton\\thecontentdepartment\\models\\contentmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\models\\contentmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\thecontentdepartment-skeleton\\thecontentdepartment\\models\\teamlead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\models\\teamlead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\thecontentdepartment-skeleton\\thecontentdepartment\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\thecontentdepartment-skeleton\\thecontentdepartment\\models\\contracts\\iteammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\models\\contracts\\iteammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\thecontentdepartment-skeleton\\thecontentdepartment\\utilities\\messages\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\utilities\\messages\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\thecontentdepartment-skeleton\\thecontentdepartment\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\thecontentdepartment-skeleton\\thecontentdepartment\\models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\thecontentdepartment-skeleton\\thecontentdepartment\\models\\contracts\\iresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\models\\contracts\\iresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\thecontentdepartment-skeleton\\thecontentdepartment\\repositories\\resourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\repositories\\resourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\thecontentdepartment-skeleton\\thecontentdepartment\\repositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\repositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\thecontentdepartment-skeleton\\thecontentdepartment\\models\\presentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\models\\presentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\thecontentdepartment-skeleton\\thecontentdepartment\\models\\workshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\models\\workshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|c:\\users\\admin\\desktop\\c# oop\\exampreparation\\thecontentdepartment-skeleton\\thecontentdepartment\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITeamMember.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\TheContentDepartment-Skeleton\\TheContentDepartment\\Models\\Contracts\\ITeamMember.cs",
+              "RelativeDocumentMoniker": "TheContentDepartment\\Models\\Contracts\\ITeamMember.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\TheContentDepartment-Skeleton\\TheContentDepartment\\Models\\Contracts\\ITeamMember.cs",
+              "RelativeToolTip": "TheContentDepartment\\Models\\Contracts\\ITeamMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T22:03:43.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExceptionMessages.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\TheContentDepartment-Skeleton\\TheContentDepartment\\Utilities\\Messages\\ExceptionMessages.cs",
+              "RelativeDocumentMoniker": "TheContentDepartment\\Utilities\\Messages\\ExceptionMessages.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\TheContentDepartment-Skeleton\\TheContentDepartment\\Utilities\\Messages\\ExceptionMessages.cs",
+              "RelativeToolTip": "TheContentDepartment\\Utilities\\Messages\\ExceptionMessages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T21:50:53.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\TheContentDepartment-Skeleton\\TheContentDepartment\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "TheContentDepartment\\Core\\Engine.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\TheContentDepartment-Skeleton\\TheContentDepartment\\Core\\Engine.cs",
+              "RelativeToolTip": "TheContentDepartment\\Core\\Engine.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T21:24:42.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IResource.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\TheContentDepartment-Skeleton\\TheContentDepartment\\Models\\Contracts\\IResource.cs",
+              "RelativeDocumentMoniker": "TheContentDepartment\\Models\\Contracts\\IResource.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\TheContentDepartment-Skeleton\\TheContentDepartment\\Models\\Contracts\\IResource.cs",
+              "RelativeToolTip": "TheContentDepartment\\Models\\Contracts\\IResource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T21:16:35.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\TheContentDepartment-Skeleton\\TheContentDepartment\\Core\\Controller.cs",
+              "RelativeDocumentMoniker": "TheContentDepartment\\Core\\Controller.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\TheContentDepartment-Skeleton\\TheContentDepartment\\Core\\Controller.cs",
+              "RelativeToolTip": "TheContentDepartment\\Core\\Controller.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAADgv3AAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:50:34.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\TheContentDepartment-Skeleton\\TheContentDepartment\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "TheContentDepartment\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\TheContentDepartment-Skeleton\\TheContentDepartment\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "TheContentDepartment\\Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:43:04.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\TheContentDepartment-Skeleton\\TheContentDepartment\\Repositories\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "TheContentDepartment\\Repositories\\MemberRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\TheContentDepartment-Skeleton\\TheContentDepartment\\Repositories\\MemberRepository.cs",
+              "RelativeToolTip": "TheContentDepartment\\Repositories\\MemberRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:41:37.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResourceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\TheContentDepartment-Skeleton\\TheContentDepartment\\Repositories\\ResourceRepository.cs",
+              "RelativeDocumentMoniker": "TheContentDepartment\\Repositories\\ResourceRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\TheContentDepartment-Skeleton\\TheContentDepartment\\Repositories\\ResourceRepository.cs",
+              "RelativeToolTip": "TheContentDepartment\\Repositories\\ResourceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:40:06.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContentMember.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\TheContentDepartment-Skeleton\\TheContentDepartment\\Models\\ContentMember.cs",
+              "RelativeDocumentMoniker": "TheContentDepartment\\Models\\ContentMember.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\TheContentDepartment-Skeleton\\TheContentDepartment\\Models\\ContentMember.cs",
+              "RelativeToolTip": "TheContentDepartment\\Models\\ContentMember.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:38:05.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeamLead.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\TheContentDepartment-Skeleton\\TheContentDepartment\\Models\\TeamLead.cs",
+              "RelativeDocumentMoniker": "TheContentDepartment\\Models\\TeamLead.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\TheContentDepartment-Skeleton\\TheContentDepartment\\Models\\TeamLead.cs",
+              "RelativeToolTip": "TheContentDepartment\\Models\\TeamLead.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:35:58.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeamMember.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\TheContentDepartment-Skeleton\\TheContentDepartment\\Models\\TeamMember.cs",
+              "RelativeDocumentMoniker": "TheContentDepartment\\Models\\TeamMember.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\TheContentDepartment-Skeleton\\TheContentDepartment\\Models\\TeamMember.cs",
+              "RelativeToolTip": "TheContentDepartment\\Models\\TeamMember.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:33:28.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Presentation.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\TheContentDepartment-Skeleton\\TheContentDepartment\\Models\\Presentation.cs",
+              "RelativeDocumentMoniker": "TheContentDepartment\\Models\\Presentation.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\TheContentDepartment-Skeleton\\TheContentDepartment\\Models\\Presentation.cs",
+              "RelativeToolTip": "TheContentDepartment\\Models\\Presentation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:32:59.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Workshop.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\TheContentDepartment-Skeleton\\TheContentDepartment\\Models\\Workshop.cs",
+              "RelativeDocumentMoniker": "TheContentDepartment\\Models\\Workshop.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\TheContentDepartment-Skeleton\\TheContentDepartment\\Models\\Workshop.cs",
+              "RelativeToolTip": "TheContentDepartment\\Models\\Workshop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:32:16.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\TheContentDepartment-Skeleton\\TheContentDepartment\\Models\\Exam.cs",
+              "RelativeDocumentMoniker": "TheContentDepartment\\Models\\Exam.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\TheContentDepartment-Skeleton\\TheContentDepartment\\Models\\Exam.cs",
+              "RelativeToolTip": "TheContentDepartment\\Models\\Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:31:41.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Resource.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\TheContentDepartment-Skeleton\\TheContentDepartment\\Models\\Resource.cs",
+              "RelativeDocumentMoniker": "TheContentDepartment\\Models\\Resource.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\ExamPreparation\\TheContentDepartment-Skeleton\\TheContentDepartment\\Models\\Resource.cs",
+              "RelativeToolTip": "TheContentDepartment\\Models\\Resource.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwCAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:27:46.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

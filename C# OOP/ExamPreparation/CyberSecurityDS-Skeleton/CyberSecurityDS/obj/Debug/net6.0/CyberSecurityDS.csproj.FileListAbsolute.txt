@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\CyberSecurityDS-Skeleton\CyberSecurityDS\bin\Debug\net6.0\CyberSecurityDS.exe
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\CyberSecurityDS-Skeleton\CyberSecurityDS\bin\Debug\net6.0\CyberSecurityDS.deps.json
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\CyberSecurityDS-Skeleton\CyberSecurityDS\bin\Debug\net6.0\CyberSecurityDS.runtimeconfig.json
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\CyberSecurityDS-Skeleton\CyberSecurityDS\bin\Debug\net6.0\CyberSecurityDS.dll
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\CyberSecurityDS-Skeleton\CyberSecurityDS\bin\Debug\net6.0\CyberSecurityDS.pdb
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\CyberSecurityDS-Skeleton\CyberSecurityDS\obj\Debug\net6.0\CyberSecurityDS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\CyberSecurityDS-Skeleton\CyberSecurityDS\obj\Debug\net6.0\CyberSecurityDS.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\CyberSecurityDS-Skeleton\CyberSecurityDS\obj\Debug\net6.0\CyberSecurityDS.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\CyberSecurityDS-Skeleton\CyberSecurityDS\obj\Debug\net6.0\CyberSecurityDS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\CyberSecurityDS-Skeleton\CyberSecurityDS\obj\Debug\net6.0\CyberSecurityDS.dll
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\CyberSecurityDS-Skeleton\CyberSecurityDS\obj\Debug\net6.0\refint\CyberSecurityDS.dll
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\CyberSecurityDS-Skeleton\CyberSecurityDS\obj\Debug\net6.0\CyberSecurityDS.pdb
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\CyberSecurityDS-Skeleton\CyberSecurityDS\obj\Debug\net6.0\CyberSecurityDS.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\CyberSecurityDS-Skeleton\CyberSecurityDS\obj\Debug\net6.0\ref\CyberSecurityDS.dll

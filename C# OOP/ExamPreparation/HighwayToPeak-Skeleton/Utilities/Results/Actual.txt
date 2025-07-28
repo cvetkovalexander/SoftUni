@@ -1,0 +1,10 @@
+Kangchenjunga is allowed for international climbing. See details in PeakRepository.
+Lhotse is allowed for international climbing. See details in PeakRepository.
+Makalu is allowed for international climbing. See details in PeakRepository.
+ChoOyu is allowed for international climbing. See details in PeakRepository.
+Dhaulagiri is allowed for international climbing. See details in PeakRepository.
+Manaslu is allowed for international climbing. See details in PeakRepository.
+NangaParbat is allowed for international climbing. See details in PeakRepository.
+Annapurna is allowed for international climbing. See details in PeakRepository.
+ShishaPangma is allowed for international climbing. See details in PeakRepository.
+ShishaPangma is already added as a valid mountain destination.

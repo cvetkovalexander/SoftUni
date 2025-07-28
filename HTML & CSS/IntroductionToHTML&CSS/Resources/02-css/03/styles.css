@@ -1,0 +1,29 @@
+p.highlight{
+    color: deepskyblue;
+}
+
+div#special{
+    background: orange;
+    box-shadow: 0.1em 0.1em 0.5em 0.1em black;
+}
+
+details[open] summary{
+    font-size: 1.2em;
+    color: green;
+}
+
+a{
+    color: green;
+}
+
+a[href^="/"]{
+    color: rgb(225, 144, 157);
+}
+
+a[href^="https"]{
+    color: rgb(105, 18, 32);
+}
+
+p.first.second.third{
+    color: red;
+}

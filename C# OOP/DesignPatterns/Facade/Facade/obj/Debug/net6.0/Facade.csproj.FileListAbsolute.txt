@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# OOP\DesignPatterns\Facade\Facade\bin\Debug\net6.0\Facade.exe
+C:\Users\Admin\Desktop\C# OOP\DesignPatterns\Facade\Facade\bin\Debug\net6.0\Facade.deps.json
+C:\Users\Admin\Desktop\C# OOP\DesignPatterns\Facade\Facade\bin\Debug\net6.0\Facade.runtimeconfig.json
+C:\Users\Admin\Desktop\C# OOP\DesignPatterns\Facade\Facade\bin\Debug\net6.0\Facade.dll
+C:\Users\Admin\Desktop\C# OOP\DesignPatterns\Facade\Facade\bin\Debug\net6.0\Facade.pdb
+C:\Users\Admin\Desktop\C# OOP\DesignPatterns\Facade\Facade\obj\Debug\net6.0\Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# OOP\DesignPatterns\Facade\Facade\obj\Debug\net6.0\Facade.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# OOP\DesignPatterns\Facade\Facade\obj\Debug\net6.0\Facade.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# OOP\DesignPatterns\Facade\Facade\obj\Debug\net6.0\Facade.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# OOP\DesignPatterns\Facade\Facade\obj\Debug\net6.0\Facade.dll
+C:\Users\Admin\Desktop\C# OOP\DesignPatterns\Facade\Facade\obj\Debug\net6.0\refint\Facade.dll
+C:\Users\Admin\Desktop\C# OOP\DesignPatterns\Facade\Facade\obj\Debug\net6.0\Facade.pdb
+C:\Users\Admin\Desktop\C# OOP\DesignPatterns\Facade\Facade\obj\Debug\net6.0\Facade.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# OOP\DesignPatterns\Facade\Facade\obj\Debug\net6.0\ref\Facade.dll

@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# Advanced\\AlgorithmsIntroduction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8061EB56-1496-4704-86D0-32483F2DCED1}|BinarySearch\\BinarySearch.csproj|c:\\users\\admin\\desktop\\c# advanced\\algorithmsintroduction\\binarysearch\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8061EB56-1496-4704-86D0-32483F2DCED1}|BinarySearch\\BinarySearch.csproj|solutionrelative:binarysearch\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8061EB56-1496-4704-86D0-32483F2DCED1}|BinarySearch\\BinarySearch.csproj|c:\\users\\admin\\desktop\\c# advanced\\algorithmsintroduction\\binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8061EB56-1496-4704-86D0-32483F2DCED1}|BinarySearch\\BinarySearch.csproj|solutionrelative:binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1294AC9A-FD89-46E1-A8A5-93E955EA47A2}|Test\\Test.csproj|c:\\users\\admin\\desktop\\c# advanced\\algorithmsintroduction\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1294AC9A-FD89-46E1-A8A5-93E955EA47A2}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80431CEB-3D7B-4132-8B97-33C7C7F00490}|QuickSort\\QuickSort.csproj|c:\\users\\admin\\desktop\\c# advanced\\algorithmsintroduction\\quicksort\\quick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80431CEB-3D7B-4132-8B97-33C7C7F00490}|QuickSort\\QuickSort.csproj|solutionrelative:quicksort\\quick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80431CEB-3D7B-4132-8B97-33C7C7F00490}|QuickSort\\QuickSort.csproj|c:\\users\\admin\\desktop\\c# advanced\\algorithmsintroduction\\quicksort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80431CEB-3D7B-4132-8B97-33C7C7F00490}|QuickSort\\QuickSort.csproj|solutionrelative:quicksort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833847DC-9BC3-45D0-92DE-D95BE9A60DF3}|CustomMergeSort\\CustomMergeSort.csproj|c:\\users\\admin\\desktop\\c# advanced\\algorithmsintroduction\\custommergesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833847DC-9BC3-45D0-92DE-D95BE9A60DF3}|CustomMergeSort\\CustomMergeSort.csproj|solutionrelative:custommergesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833847DC-9BC3-45D0-92DE-D95BE9A60DF3}|CustomMergeSort\\CustomMergeSort.csproj|c:\\users\\admin\\desktop\\c# advanced\\algorithmsintroduction\\custommergesort\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833847DC-9BC3-45D0-92DE-D95BE9A60DF3}|CustomMergeSort\\CustomMergeSort.csproj|solutionrelative:custommergesort\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E4BAD9-1408-4437-B5C7-7F9B01D88B02}|SetCover_Skeleton_6.0\\SetCover.csproj|c:\\users\\admin\\desktop\\c# advanced\\algorithmsintroduction\\setcover_skeleton_6.0\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E4BAD9-1408-4437-B5C7-7F9B01D88B02}|SetCover_Skeleton_6.0\\SetCover.csproj|solutionrelative:setcover_skeleton_6.0\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF3FD7B-FF90-41E5-B508-F771FE626E9F}|SumOfCoins_Skeleton_6.0\\SumOfCoins.csproj|c:\\users\\admin\\desktop\\c# advanced\\algorithmsintroduction\\sumofcoins_skeleton_6.0\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF3FD7B-FF90-41E5-B508-F771FE626E9F}|SumOfCoins_Skeleton_6.0\\SumOfCoins.csproj|solutionrelative:sumofcoins_skeleton_6.0\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D897E0-A733-4FB7-BC0E-E1E78A8E0653}|RecursiveFactorial\\RecursiveFactorial.csproj|c:\\users\\admin\\desktop\\c# advanced\\algorithmsintroduction\\recursivefactorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D897E0-A733-4FB7-BC0E-E1E78A8E0653}|RecursiveFactorial\\RecursiveFactorial.csproj|solutionrelative:recursivefactorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B70A1AA-6DE1-442C-9743-7F99732BD2FB}|RecursiveArraySum\\RecursiveArraySum.csproj|c:\\users\\admin\\desktop\\c# advanced\\algorithmsintroduction\\recursivearraysum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B70A1AA-6DE1-442C-9743-7F99732BD2FB}|RecursiveArraySum\\RecursiveArraySum.csproj|solutionrelative:recursivearraysum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1217,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\AlgorithmsIntroduction\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\AlgorithmsIntroduction\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T16:07:54.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BinarySearch.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\AlgorithmsIntroduction\\BinarySearch\\BinarySearch.cs",
+              "RelativeDocumentMoniker": "BinarySearch\\BinarySearch.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\AlgorithmsIntroduction\\BinarySearch\\BinarySearch.cs",
+              "RelativeToolTip": "BinarySearch\\BinarySearch.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAD4vw4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T16:04:22.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\AlgorithmsIntroduction\\BinarySearch\\Program.cs",
+              "RelativeDocumentMoniker": "BinarySearch\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\AlgorithmsIntroduction\\BinarySearch\\Program.cs",
+              "RelativeToolTip": "BinarySearch\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T16:01:51.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Quick.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\AlgorithmsIntroduction\\QuickSort\\Quick.cs",
+              "RelativeDocumentMoniker": "QuickSort\\Quick.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\AlgorithmsIntroduction\\QuickSort\\Quick.cs",
+              "RelativeToolTip": "QuickSort\\Quick.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T15:39:01.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\AlgorithmsIntroduction\\QuickSort\\Program.cs",
+              "RelativeDocumentMoniker": "QuickSort\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\AlgorithmsIntroduction\\QuickSort\\Program.cs",
+              "RelativeToolTip": "QuickSort\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T15:38:46.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mergesort.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\AlgorithmsIntroduction\\CustomMergeSort\\Mergesort.cs",
+              "RelativeDocumentMoniker": "CustomMergeSort\\Mergesort.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\AlgorithmsIntroduction\\CustomMergeSort\\Mergesort.cs",
+              "RelativeToolTip": "CustomMergeSort\\Mergesort.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:38:04.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\AlgorithmsIntroduction\\CustomMergeSort\\Program.cs",
+              "RelativeDocumentMoniker": "CustomMergeSort\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\AlgorithmsIntroduction\\CustomMergeSort\\Program.cs",
+              "RelativeToolTip": "CustomMergeSort\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAjwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:37:39.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\AlgorithmsIntroduction\\SetCover_Skeleton_6.0\\StartUp.cs",
+              "RelativeDocumentMoniker": "SetCover_Skeleton_6.0\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\AlgorithmsIntroduction\\SetCover_Skeleton_6.0\\StartUp.cs",
+              "RelativeToolTip": "SetCover_Skeleton_6.0\\StartUp.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAawBwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T12:30:42.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\AlgorithmsIntroduction\\SumOfCoins_Skeleton_6.0\\StartUp.cs",
+              "RelativeDocumentMoniker": "SumOfCoins_Skeleton_6.0\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\AlgorithmsIntroduction\\SumOfCoins_Skeleton_6.0\\StartUp.cs",
+              "RelativeToolTip": "SumOfCoins_Skeleton_6.0\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T18:53:54.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\AlgorithmsIntroduction\\RecursiveFactorial\\Program.cs",
+              "RelativeDocumentMoniker": "RecursiveFactorial\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\AlgorithmsIntroduction\\RecursiveFactorial\\Program.cs",
+              "RelativeToolTip": "RecursiveFactorial\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T18:28:02.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\AlgorithmsIntroduction\\RecursiveArraySum\\Program.cs",
+              "RelativeDocumentMoniker": "RecursiveArraySum\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\AlgorithmsIntroduction\\RecursiveArraySum\\Program.cs",
+              "RelativeToolTip": "RecursiveArraySum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:22:43.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

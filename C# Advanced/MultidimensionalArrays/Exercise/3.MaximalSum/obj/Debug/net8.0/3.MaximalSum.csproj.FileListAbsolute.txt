@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\3.MaximalSum\bin\Debug\net8.0\3.MaximalSum.exe
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\3.MaximalSum\bin\Debug\net8.0\3.MaximalSum.deps.json
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\3.MaximalSum\bin\Debug\net8.0\3.MaximalSum.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\3.MaximalSum\bin\Debug\net8.0\3.MaximalSum.dll
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\3.MaximalSum\bin\Debug\net8.0\3.MaximalSum.pdb
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\3.MaximalSum\obj\Debug\net8.0\3.MaximalSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\3.MaximalSum\obj\Debug\net8.0\3.MaximalSum.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\3.MaximalSum\obj\Debug\net8.0\3.MaximalSum.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\3.MaximalSum\obj\Debug\net8.0\3.MaximalSum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\3.MaximalSum\obj\Debug\net8.0\3.MaximalSum.dll
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\3.MaximalSum\obj\Debug\net8.0\refint\3.MaximalSum.dll
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\3.MaximalSum\obj\Debug\net8.0\3.MaximalSum.pdb
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\3.MaximalSum\obj\Debug\net8.0\3.MaximalSum.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\3.MaximalSum\obj\Debug\net8.0\ref\3.MaximalSum.dll

@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\03.CountUppercaseWords\bin\Debug\net8.0\03.CountUppercaseWords.exe
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\03.CountUppercaseWords\bin\Debug\net8.0\03.CountUppercaseWords.deps.json
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\03.CountUppercaseWords\bin\Debug\net8.0\03.CountUppercaseWords.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\03.CountUppercaseWords\bin\Debug\net8.0\03.CountUppercaseWords.dll
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\03.CountUppercaseWords\bin\Debug\net8.0\03.CountUppercaseWords.pdb
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\03.CountUppercaseWords\obj\Debug\net8.0\03.CountUppercaseWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\03.CountUppercaseWords\obj\Debug\net8.0\03.CountUppercaseWords.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\03.CountUppercaseWords\obj\Debug\net8.0\03.CountUppercaseWords.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\03.CountUppercaseWords\obj\Debug\net8.0\03.CountUppercaseWords.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\03.CountUppercaseWords\obj\Debug\net8.0\03.CountUppercaseWords.dll
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\03.CountUppercaseWords\obj\Debug\net8.0\refint\03.CountUppercaseWords.dll
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\03.CountUppercaseWords\obj\Debug\net8.0\03.CountUppercaseWords.pdb
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\03.CountUppercaseWords\obj\Debug\net8.0\03.CountUppercaseWords.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\03.CountUppercaseWords\obj\Debug\net8.0\ref\03.CountUppercaseWords.dll

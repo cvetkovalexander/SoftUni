@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\09.SoftUniExamResults\10.ForceBook\bin\Debug\net8.0\10.ForceBook.exe
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\09.SoftUniExamResults\10.ForceBook\bin\Debug\net8.0\10.ForceBook.deps.json
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\09.SoftUniExamResults\10.ForceBook\bin\Debug\net8.0\10.ForceBook.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\09.SoftUniExamResults\10.ForceBook\bin\Debug\net8.0\10.ForceBook.dll
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\09.SoftUniExamResults\10.ForceBook\bin\Debug\net8.0\10.ForceBook.pdb
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\09.SoftUniExamResults\10.ForceBook\obj\Debug\net8.0\10.ForceBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\09.SoftUniExamResults\10.ForceBook\obj\Debug\net8.0\10.ForceBook.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\09.SoftUniExamResults\10.ForceBook\obj\Debug\net8.0\10.ForceBook.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\09.SoftUniExamResults\10.ForceBook\obj\Debug\net8.0\10.ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\09.SoftUniExamResults\10.ForceBook\obj\Debug\net8.0\10.ForceBook.dll
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\09.SoftUniExamResults\10.ForceBook\obj\Debug\net8.0\refint\10.ForceBook.dll
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\09.SoftUniExamResults\10.ForceBook\obj\Debug\net8.0\10.ForceBook.pdb
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\09.SoftUniExamResults\10.ForceBook\obj\Debug\net8.0\10.ForceBook.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\09.SoftUniExamResults\10.ForceBook\obj\Debug\net8.0\ref\10.ForceBook.dll

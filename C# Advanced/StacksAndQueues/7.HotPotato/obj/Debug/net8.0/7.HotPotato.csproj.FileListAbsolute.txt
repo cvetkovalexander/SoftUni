@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\7.HotPotato\bin\Debug\net8.0\7.HotPotato.exe
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\7.HotPotato\bin\Debug\net8.0\7.HotPotato.deps.json
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\7.HotPotato\bin\Debug\net8.0\7.HotPotato.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\7.HotPotato\bin\Debug\net8.0\7.HotPotato.dll
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\7.HotPotato\bin\Debug\net8.0\7.HotPotato.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\7.HotPotato\obj\Debug\net8.0\7.HotPotato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\7.HotPotato\obj\Debug\net8.0\7.HotPotato.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\7.HotPotato\obj\Debug\net8.0\7.HotPotato.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\7.HotPotato\obj\Debug\net8.0\7.HotPotato.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\7.HotPotato\obj\Debug\net8.0\7.HotPotato.dll
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\7.HotPotato\obj\Debug\net8.0\refint\7.HotPotato.dll
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\7.HotPotato\obj\Debug\net8.0\7.HotPotato.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\7.HotPotato\obj\Debug\net8.0\7.HotPotato.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\7.HotPotato\obj\Debug\net8.0\ref\7.HotPotato.dll

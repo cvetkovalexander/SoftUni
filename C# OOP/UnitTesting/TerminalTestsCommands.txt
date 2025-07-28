@@ -1,0 +1,7 @@
+reportgenerator -reports:"**\*.cobertura.xml" -targetdir:"coverage" -reporttypes:Html
+dotnet add package coverlet.collector
+dotnet test
+dotnet tool install -g dotnet-reportgenerator-globaltool
+dotnet test --collect:"XPlat Code Coverage"
+dotnet tool install -g dotnet-stryker
+dotnet stryker

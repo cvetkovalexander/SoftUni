@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms Test</title>
+    <link rel="stylesheet" href="../styles/site.css">
+</head>
+<body>
+    
+    <div class="section">
+        <div class="inner">
+
+            <header>
+                <h2>Login</h2>
+            </header>
+
+            <form action="#">
+
+                <fieldset>
+
+                    <legend>User Information</legend>
+
+                    <div class="field">
+                        <label for="email">Email</label>
+                        <div class="input-wrapper">
+                            <input type="text" name="email" id="text" required>
+                        </div>
+                        <p class="info">example: john@gmail.com</p>
+                    </div>
+
+                    <div class="field">
+                        <label for="password">Password</label>
+                        <div class="input-wrapper">
+                            <input type="password" name="password" id="password" required>
+                        </div>
+                        <p class="info">Minimum 6 characters ...</p>
+                    </div>
+
+                    <div class="field">
+                        <label for="message">Message</label>
+                        <div class="input-wrapper">
+                            <textarea type="password" name="message" id="message" required></textarea>
+                        </div>
+                        <p class="info">Minimum 6 characters ...</p>
+                    </div>
+
+                    <div class="field">
+                        <label for="choice">Make the correct choice</label>
+                        <div class="input-wrapper">
+                            <ul>
+                                <li><input type="radio" name="choice-1" id="choice-1" value="1"><label for="choice-1">First Option</label></li>
+                                <li><input type="radio" name="choice-2" id="choice-2" value="2"><label for="choice-2">Second Option</label></li>
+                                <li><input type="radio" name="choice-3" id="choice-3" value="3"><label for="choice-3">Third Option</label></li>
+                            </ul>
+                        </div>
+                        <p class="info">Explain yourself</p>
+                    </div>
+
+                    <div class="field custom">
+                        <label for="choice">Make the correct choice</label>
+                        <div class="input-wrapper">
+                            <ul>
+                                <li><input type="radio" name="custom-choice-1" id="custom-choice-1" value="1"><label for="custom-choice-1">First Option</label></li>
+                                <li><input type="radio" name="custom-choice-2" id="custom-choice-2" value="2"><label for="custom-choice-2">Second Option</label></li>
+                                <li><input type="radio" name="custom-choice-3" id="custom-choice-3" value="3"><label for="custom-choice-3">Third Option</label></li>
+                            </ul>
+                        </div>
+                        <p class="info">Explain yourself</p>
+                    </div>
+
+                    <div class="field custom">
+                        <label for="choice">Make the correct choice</label>
+                        <div class="input-wrapper">
+                            <ul>
+                                <li><input type="checkbox" name="choice" id="multiple-choice-1"><label for="multiple-choice-1">First Option</label></li>
+                                <li><input type="checkbox" name="choice" id="multiple-choice-2"><label for="multiple-choice-2">Second Option</label></li>
+                                <li><input type="checkbox" name="choice" id="multiple-choice-3"><label for="multiple-choice-3">Third Option</label></li>
+                            </ul>
+                        </div>
+                        <p class="info">Explain yourself</p>
+                    </div>
+
+                    </fieldset>
+
+                    <fieldset>
+
+                        <legend>Floating Labels</legend>
+
+                        <div class="field floating-lable">
+                        <label for="email">Email</label>
+                        <div class="input-wrapper">
+                            <input type="text" name="email" id="text" required placeholder="Email">
+                        </div>
+                        <p class="info">example: john@gmail.com</p>
+                        </div>
+
+                        <div class="field floating-lable">
+                            <label for="passworwd">Password</label>
+                            <div class="input-wrapper">
+                                <input type="password" name="password" id="password" required placeholder="Password">
+                            </div>
+                            <p class="info">Minimum 6 characters ...</p>
+                        </div>
+
+                    </fieldset>
+
+                    <input type="submit" class="button" value="Login">
+
+                </form>
+
+        </div>
+    </div>
+
+</body>
+</html>

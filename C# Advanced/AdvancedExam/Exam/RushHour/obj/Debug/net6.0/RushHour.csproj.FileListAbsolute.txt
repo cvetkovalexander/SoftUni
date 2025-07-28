@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\AdvancedExam\Exam\RushHour\bin\Debug\net6.0\RushHour.exe
+C:\Users\Admin\Desktop\C# Advanced\AdvancedExam\Exam\RushHour\bin\Debug\net6.0\RushHour.deps.json
+C:\Users\Admin\Desktop\C# Advanced\AdvancedExam\Exam\RushHour\bin\Debug\net6.0\RushHour.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\AdvancedExam\Exam\RushHour\bin\Debug\net6.0\RushHour.dll
+C:\Users\Admin\Desktop\C# Advanced\AdvancedExam\Exam\RushHour\bin\Debug\net6.0\RushHour.pdb
+C:\Users\Admin\Desktop\C# Advanced\AdvancedExam\Exam\RushHour\obj\Debug\net6.0\RushHour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\AdvancedExam\Exam\RushHour\obj\Debug\net6.0\RushHour.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\AdvancedExam\Exam\RushHour\obj\Debug\net6.0\RushHour.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\AdvancedExam\Exam\RushHour\obj\Debug\net6.0\RushHour.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\AdvancedExam\Exam\RushHour\obj\Debug\net6.0\RushHour.dll
+C:\Users\Admin\Desktop\C# Advanced\AdvancedExam\Exam\RushHour\obj\Debug\net6.0\refint\RushHour.dll
+C:\Users\Admin\Desktop\C# Advanced\AdvancedExam\Exam\RushHour\obj\Debug\net6.0\RushHour.pdb
+C:\Users\Admin\Desktop\C# Advanced\AdvancedExam\Exam\RushHour\obj\Debug\net6.0\RushHour.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\AdvancedExam\Exam\RushHour\obj\Debug\net6.0\ref\RushHour.dll

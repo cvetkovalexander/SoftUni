@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\1.DiagonalDifference\bin\Debug\net8.0\1.DiagonalDifference.exe
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\1.DiagonalDifference\bin\Debug\net8.0\1.DiagonalDifference.deps.json
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\1.DiagonalDifference\bin\Debug\net8.0\1.DiagonalDifference.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\1.DiagonalDifference\bin\Debug\net8.0\1.DiagonalDifference.dll
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\1.DiagonalDifference\bin\Debug\net8.0\1.DiagonalDifference.pdb
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\1.DiagonalDifference\obj\Debug\net8.0\1.DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\1.DiagonalDifference\obj\Debug\net8.0\1.DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\1.DiagonalDifference\obj\Debug\net8.0\1.DiagonalDifference.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\1.DiagonalDifference\obj\Debug\net8.0\1.DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\1.DiagonalDifference\obj\Debug\net8.0\1.DiagonalDifference.dll
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\1.DiagonalDifference\obj\Debug\net8.0\refint\1.DiagonalDifference.dll
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\1.DiagonalDifference\obj\Debug\net8.0\1.DiagonalDifference.pdb
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\1.DiagonalDifference\obj\Debug\net8.0\1.DiagonalDifference.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\Exercise\1.DiagonalDifference\obj\Debug\net8.0\ref\1.DiagonalDifference.dll

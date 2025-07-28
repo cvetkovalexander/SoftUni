@@ -1,0 +1,23 @@
+div p{
+    color: blue;
+}
+
+ul > li{
+    list-style-type: circle;
+}
+
+p + p{
+    background-color: darkblue;
+    color: white;
+    font-style: italic;
+    font-size: 26px;
+}
+
+p ~ span{
+    font-weight: bold;
+    font-size: 22px;
+}
+
+span{
+    color: brown;
+}

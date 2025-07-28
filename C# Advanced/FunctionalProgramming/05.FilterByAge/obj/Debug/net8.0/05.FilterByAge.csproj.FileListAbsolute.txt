@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\05.FilterByAge\bin\Debug\net8.0\05.FilterByAge.exe
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\05.FilterByAge\bin\Debug\net8.0\05.FilterByAge.deps.json
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\05.FilterByAge\bin\Debug\net8.0\05.FilterByAge.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\05.FilterByAge\bin\Debug\net8.0\05.FilterByAge.dll
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\05.FilterByAge\bin\Debug\net8.0\05.FilterByAge.pdb
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\05.FilterByAge\obj\Debug\net8.0\05.FilterByAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\05.FilterByAge\obj\Debug\net8.0\05.FilterByAge.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\05.FilterByAge\obj\Debug\net8.0\05.FilterByAge.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\05.FilterByAge\obj\Debug\net8.0\05.FilterByAge.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\05.FilterByAge\obj\Debug\net8.0\05.FilterByAge.dll
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\05.FilterByAge\obj\Debug\net8.0\refint\05.FilterByAge.dll
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\05.FilterByAge\obj\Debug\net8.0\05.FilterByAge.pdb
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\05.FilterByAge\obj\Debug\net8.0\05.FilterByAge.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\7.FunctionalProgramming\05.FilterByAge\obj\Debug\net8.0\ref\05.FilterByAge.dll

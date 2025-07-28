@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\CommandPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE8D508-4E19-4278-8318-18C289536C66}|CommandPattern\\CommandPattern.csproj|c:\\users\\admin\\desktop\\c# oop\\designpatterns\\commandpattern\\commandpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE8D508-4E19-4278-8318-18C289536C66}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE8D508-4E19-4278-8318-18C289536C66}|CommandPattern\\CommandPattern.csproj|c:\\users\\admin\\desktop\\c# oop\\designpatterns\\commandpattern\\commandpattern\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE8D508-4E19-4278-8318-18C289536C66}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE8D508-4E19-4278-8318-18C289536C66}|CommandPattern\\CommandPattern.csproj|c:\\users\\admin\\desktop\\c# oop\\designpatterns\\commandpattern\\commandpattern\\commands\\pluscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE8D508-4E19-4278-8318-18C289536C66}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\commands\\pluscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE8D508-4E19-4278-8318-18C289536C66}|CommandPattern\\CommandPattern.csproj|c:\\users\\admin\\desktop\\c# oop\\designpatterns\\commandpattern\\commandpattern\\commands\\minuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE8D508-4E19-4278-8318-18C289536C66}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\commands\\minuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE8D508-4E19-4278-8318-18C289536C66}|CommandPattern\\CommandPattern.csproj|c:\\users\\admin\\desktop\\c# oop\\designpatterns\\commandpattern\\commandpattern\\commands\\multiplycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE8D508-4E19-4278-8318-18C289536C66}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\commands\\multiplycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE8D508-4E19-4278-8318-18C289536C66}|CommandPattern\\CommandPattern.csproj|c:\\users\\admin\\desktop\\c# oop\\designpatterns\\commandpattern\\commandpattern\\commands\\dividecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE8D508-4E19-4278-8318-18C289536C66}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\commands\\dividecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE8D508-4E19-4278-8318-18C289536C66}|CommandPattern\\CommandPattern.csproj|c:\\users\\admin\\desktop\\c# oop\\designpatterns\\commandpattern\\commandpattern\\commands\\basecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE8D508-4E19-4278-8318-18C289536C66}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\commands\\basecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE8D508-4E19-4278-8318-18C289536C66}|CommandPattern\\CommandPattern.csproj|c:\\users\\admin\\desktop\\c# oop\\designpatterns\\commandpattern\\commandpattern\\contracts\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE8D508-4E19-4278-8318-18C289536C66}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\contracts\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\CommandPattern\\CommandPattern\\Calculator.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\CommandPattern\\CommandPattern\\Calculator.cs",
+              "RelativeToolTip": "CommandPattern\\Calculator.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvyYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:58:08.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DivideCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\CommandPattern\\CommandPattern\\Commands\\DivideCommand.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Commands\\DivideCommand.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\CommandPattern\\CommandPattern\\Commands\\DivideCommand.cs",
+              "RelativeToolTip": "CommandPattern\\Commands\\DivideCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:52:51.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MinusCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\CommandPattern\\CommandPattern\\Commands\\MinusCommand.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Commands\\MinusCommand.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\CommandPattern\\CommandPattern\\Commands\\MinusCommand.cs",
+              "RelativeToolTip": "CommandPattern\\Commands\\MinusCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:52:37.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MultiplyCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\CommandPattern\\CommandPattern\\Commands\\MultiplyCommand.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Commands\\MultiplyCommand.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\CommandPattern\\CommandPattern\\Commands\\MultiplyCommand.cs",
+              "RelativeToolTip": "CommandPattern\\Commands\\MultiplyCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:52:25.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlusCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\CommandPattern\\CommandPattern\\Commands\\PlusCommand.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Commands\\PlusCommand.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\CommandPattern\\CommandPattern\\Commands\\PlusCommand.cs",
+              "RelativeToolTip": "CommandPattern\\Commands\\PlusCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:52:10.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\CommandPattern\\CommandPattern\\Commands\\BaseCommand.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Commands\\BaseCommand.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\CommandPattern\\CommandPattern\\Commands\\BaseCommand.cs",
+              "RelativeToolTip": "CommandPattern\\Commands\\BaseCommand.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADgvwkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:50:55.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\CommandPattern\\CommandPattern\\Contracts\\ICommand.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Contracts\\ICommand.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\CommandPattern\\CommandPattern\\Contracts\\ICommand.cs",
+              "RelativeToolTip": "CommandPattern\\Contracts\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:49:32.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\CommandPattern\\CommandPattern\\Program.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\CommandPattern\\CommandPattern\\Program.cs",
+              "RelativeToolTip": "CommandPattern\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:48:08.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

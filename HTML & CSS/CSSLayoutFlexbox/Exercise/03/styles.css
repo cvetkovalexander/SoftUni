@@ -1,0 +1,98 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #EEE;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2em;
+}
+
+body > * {
+    width: 100%;
+}
+
+.section {
+    background: #FFF;
+    max-width: 100ch;
+    margin: 0 auto;
+    padding: 1.5em 1.2em;
+    box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.2);
+    border-radius: 0.4em;
+    display: flex;
+    gap: 1em;
+}
+
+.calendar {
+    display: flex;
+    gap: 0;
+}
+
+.calendar > * {
+    border: 1px solid #CCC;
+    flex: 1 1 auto;
+}
+
+.calendar .main,
+.calendar .aside {
+    display: flex;
+    flex-direction: column;
+}
+
+.calendar .aside > *,
+.calendar .main > * {
+    flex-grow: 1;
+} 
+
+.calendar .aside {
+    flex-basis: 30ch;
+}
+
+.calendar .aside div {
+    padding: 1em;
+    border: 1px solid #CCC;
+    text-align: center;
+}
+
+.calendar .row {
+    display: flex;
+    flex-direction: column;
+}
+
+.calendar .row > * {
+    flex-grow: 1;
+}
+
+.calendar .row header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1em;
+    border: 1px solid #CCC;
+}
+
+.calendar .row header p {
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.calendar .row > ul {
+    display: flex;
+}
+
+.calendar .row > ul li {
+    flex: 1 1 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.5em 1em;
+    border: 1px solid #CCC;
+}
+
+

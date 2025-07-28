@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\BlackFriday-Skeleton\BlackFriday\obj\Debug\net6.0\BlackFriday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\BlackFriday-Skeleton\BlackFriday\obj\Debug\net6.0\BlackFriday.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\BlackFriday-Skeleton\BlackFriday\obj\Debug\net6.0\BlackFriday.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\BlackFriday-Skeleton\BlackFriday\obj\Debug\net6.0\BlackFriday.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\BlackFriday-Skeleton\BlackFriday\bin\Debug\net6.0\BlackFriday.exe
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\BlackFriday-Skeleton\BlackFriday\bin\Debug\net6.0\BlackFriday.deps.json
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\BlackFriday-Skeleton\BlackFriday\bin\Debug\net6.0\BlackFriday.runtimeconfig.json
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\BlackFriday-Skeleton\BlackFriday\bin\Debug\net6.0\BlackFriday.dll
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\BlackFriday-Skeleton\BlackFriday\bin\Debug\net6.0\BlackFriday.pdb
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\BlackFriday-Skeleton\BlackFriday\obj\Debug\net6.0\BlackFriday.dll
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\BlackFriday-Skeleton\BlackFriday\obj\Debug\net6.0\refint\BlackFriday.dll
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\BlackFriday-Skeleton\BlackFriday\obj\Debug\net6.0\BlackFriday.pdb
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\BlackFriday-Skeleton\BlackFriday\obj\Debug\net6.0\BlackFriday.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\BlackFriday-Skeleton\BlackFriday\obj\Debug\net6.0\ref\BlackFriday.dll

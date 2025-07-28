@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FB916D-50FB-496B-83F9-BDF2F37EA267}|CarManager.Tests\\CarManager.Tests.csproj|c:\\users\\admin\\desktop\\c# oop\\unittesting\\exercise\\carmanager.tests\\carmanager.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E1FB916D-50FB-496B-83F9-BDF2F37EA267}|CarManager.Tests\\CarManager.Tests.csproj|solutionrelative:carmanager.tests\\carmanager.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9675DFB8-E0F7-4F6C-B63A-1083A58C375B}|CarManager\\CarManager.csproj|c:\\users\\admin\\desktop\\c# oop\\unittesting\\exercise\\carmanager\\carmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9675DFB8-E0F7-4F6C-B63A-1083A58C375B}|CarManager\\CarManager.csproj|solutionrelative:carmanager\\carmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FB916D-50FB-496B-83F9-BDF2F37EA267}|CarManager.Tests\\CarManager.Tests.csproj|c:\\users\\admin\\desktop\\c# oop\\unittesting\\exercise\\carmanager.tests\\carmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1FB916D-50FB-496B-83F9-BDF2F37EA267}|CarManager.Tests\\CarManager.Tests.csproj|solutionrelative:carmanager.tests\\carmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06408E4-1E32-4981-AA8F-C32DF68D2B0E}|FightingArena.Tests\\FightingArena.Tests.csproj|c:\\users\\admin\\desktop\\c# oop\\unittesting\\exercise\\fightingarena.tests\\fightingarena.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B06408E4-1E32-4981-AA8F-C32DF68D2B0E}|FightingArena.Tests\\FightingArena.Tests.csproj|solutionrelative:fightingarena.tests\\fightingarena.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06408E4-1E32-4981-AA8F-C32DF68D2B0E}|FightingArena.Tests\\FightingArena.Tests.csproj|c:\\users\\admin\\desktop\\c# oop\\unittesting\\exercise\\fightingarena.tests\\arenatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06408E4-1E32-4981-AA8F-C32DF68D2B0E}|FightingArena.Tests\\FightingArena.Tests.csproj|solutionrelative:fightingarena.tests\\arenatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06408E4-1E32-4981-AA8F-C32DF68D2B0E}|FightingArena.Tests\\FightingArena.Tests.csproj|c:\\users\\admin\\desktop\\c# oop\\unittesting\\exercise\\fightingarena.tests\\warriortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06408E4-1E32-4981-AA8F-C32DF68D2B0E}|FightingArena.Tests\\FightingArena.Tests.csproj|solutionrelative:fightingarena.tests\\warriortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA77E66-6639-40BB-95E7-672D3E22C7DC}|DatabaseExtended.Tests\\DatabaseExtended.Tests.csproj|c:\\users\\admin\\desktop\\c# oop\\unittesting\\exercise\\databaseextended.tests\\extendeddatabasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA77E66-6639-40BB-95E7-672D3E22C7DC}|DatabaseExtended.Tests\\DatabaseExtended.Tests.csproj|solutionrelative:databaseextended.tests\\extendeddatabasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C399BAE5-6152-42A7-B368-EC828AA4233E}|FightingArena\\FightingArena.csproj|c:\\users\\admin\\desktop\\c# oop\\unittesting\\exercise\\fightingarena\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C399BAE5-6152-42A7-B368-EC828AA4233E}|FightingArena\\FightingArena.csproj|solutionrelative:fightingarena\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD36E0F-575E-4A79-AED6-260706473182}|DatabaseExtended\\DatabaseExtended.csproj|c:\\users\\admin\\desktop\\c# oop\\unittesting\\exercise\\databaseextended\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD36E0F-575E-4A79-AED6-260706473182}|DatabaseExtended\\DatabaseExtended.csproj|solutionrelative:databaseextended\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD36E0F-575E-4A79-AED6-260706473182}|DatabaseExtended\\DatabaseExtended.csproj|c:\\users\\admin\\desktop\\c# oop\\unittesting\\exercise\\databaseextended\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD36E0F-575E-4A79-AED6-260706473182}|DatabaseExtended\\DatabaseExtended.csproj|solutionrelative:databaseextended\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5795F810-87D3-4FC9-89B3-61985EE6F92B}|Database.Tests\\Database.Tests.csproj|c:\\users\\admin\\desktop\\c# oop\\unittesting\\exercise\\database.tests\\databasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5795F810-87D3-4FC9-89B3-61985EE6F92B}|Database.Tests\\Database.Tests.csproj|solutionrelative:database.tests\\databasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B99EC2-39FC-49D3-B347-8866E73651E3}|Database\\Database.csproj|c:\\users\\admin\\desktop\\c# oop\\unittesting\\exercise\\database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B99EC2-39FC-49D3-B347-8866E73651E3}|Database\\Database.csproj|solutionrelative:database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarManager.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Exercise\\CarManager.Tests\\CarManager.Tests.csproj",
+              "RelativeDocumentMoniker": "CarManager.Tests\\CarManager.Tests.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Exercise\\CarManager.Tests\\CarManager.Tests.csproj",
+              "RelativeToolTip": "CarManager.Tests\\CarManager.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T17:17:51.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarManager.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Exercise\\CarManager\\CarManager.csproj",
+              "RelativeDocumentMoniker": "CarManager\\CarManager.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Exercise\\CarManager\\CarManager.csproj",
+              "RelativeToolTip": "CarManager\\CarManager.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T17:19:17.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FightingArena.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Exercise\\FightingArena.Tests\\FightingArena.Tests.csproj",
+              "RelativeDocumentMoniker": "FightingArena.Tests\\FightingArena.Tests.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Exercise\\FightingArena.Tests\\FightingArena.Tests.csproj",
+              "RelativeToolTip": "FightingArena.Tests\\FightingArena.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T17:07:43.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArenaTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Exercise\\FightingArena.Tests\\ArenaTests.cs",
+              "RelativeDocumentMoniker": "FightingArena.Tests\\ArenaTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Exercise\\FightingArena.Tests\\ArenaTests.cs",
+              "RelativeToolTip": "FightingArena.Tests\\ArenaTests.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:08:17.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WarriorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Exercise\\FightingArena.Tests\\WarriorTests.cs",
+              "RelativeDocumentMoniker": "FightingArena.Tests\\WarriorTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Exercise\\FightingArena.Tests\\WarriorTests.cs",
+              "RelativeToolTip": "FightingArena.Tests\\WarriorTests.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAqwF0AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T16:39:51.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Exercise\\FightingArena\\Warrior.cs",
+              "RelativeDocumentMoniker": "FightingArena\\Warrior.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Exercise\\FightingArena\\Warrior.cs",
+              "RelativeToolTip": "FightingArena\\Warrior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:07:22.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarManagerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Exercise\\CarManager.Tests\\CarManagerTests.cs",
+              "RelativeDocumentMoniker": "CarManager.Tests\\CarManagerTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Exercise\\CarManager.Tests\\CarManagerTests.cs",
+              "RelativeToolTip": "CarManager.Tests\\CarManagerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T15:43:31.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExtendedDatabaseTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Exercise\\DatabaseExtended.Tests\\ExtendedDatabaseTests.cs",
+              "RelativeDocumentMoniker": "DatabaseExtended.Tests\\ExtendedDatabaseTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Exercise\\DatabaseExtended.Tests\\ExtendedDatabaseTests.cs",
+              "RelativeToolTip": "DatabaseExtended.Tests\\ExtendedDatabaseTests.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAUwGUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T14:32:10.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Exercise\\DatabaseExtended\\Person.cs",
+              "RelativeDocumentMoniker": "DatabaseExtended\\Person.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Exercise\\DatabaseExtended\\Person.cs",
+              "RelativeToolTip": "DatabaseExtended\\Person.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T14:19:19.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Exercise\\DatabaseExtended\\Database.cs",
+              "RelativeDocumentMoniker": "DatabaseExtended\\Database.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Exercise\\DatabaseExtended\\Database.cs",
+              "RelativeToolTip": "DatabaseExtended\\Database.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAcwDEAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T14:18:56.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DatabaseTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Exercise\\Database.Tests\\DatabaseTests.cs",
+              "RelativeDocumentMoniker": "Database.Tests\\DatabaseTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Exercise\\Database.Tests\\DatabaseTests.cs",
+              "RelativeToolTip": "Database.Tests\\DatabaseTests.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAADwvzcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:56:53.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Exercise\\Database\\Database.cs",
+              "RelativeDocumentMoniker": "Database\\Database.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Exercise\\Database\\Database.cs",
+              "RelativeToolTip": "Database\\Database.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:05:24.012Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

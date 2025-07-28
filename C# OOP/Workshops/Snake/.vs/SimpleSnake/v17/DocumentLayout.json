@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# OOP\\Workshops\\Snake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|c:\\users\\admin\\desktop\\c# oop\\workshops\\snake\\simplesnake\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|solutionrelative:simplesnake\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|c:\\users\\admin\\desktop\\c# oop\\workshops\\snake\\simplesnake\\gameobjects\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|solutionrelative:simplesnake\\gameobjects\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|c:\\users\\admin\\desktop\\c# oop\\workshops\\snake\\simplesnake\\gameobjects\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|solutionrelative:simplesnake\\gameobjects\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|c:\\users\\admin\\desktop\\c# oop\\workshops\\snake\\simplesnake\\gameobjects\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|solutionrelative:simplesnake\\gameobjects\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|c:\\users\\admin\\desktop\\c# oop\\workshops\\snake\\simplesnake\\utilities\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|solutionrelative:simplesnake\\utilities\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|c:\\users\\admin\\desktop\\c# oop\\workshops\\snake\\simplesnake\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|solutionrelative:simplesnake\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|c:\\users\\admin\\desktop\\c# oop\\workshops\\snake\\simplesnake\\gameobjects\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|solutionrelative:simplesnake\\gameobjects\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|c:\\users\\admin\\desktop\\c# oop\\workshops\\snake\\simplesnake\\enums\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|solutionrelative:simplesnake\\enums\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Workshops\\Snake\\SimpleSnake\\GameObjects\\Food.cs",
+              "RelativeDocumentMoniker": "SimpleSnake\\GameObjects\\Food.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Workshops\\Snake\\SimpleSnake\\GameObjects\\Food.cs",
+              "RelativeToolTip": "SimpleSnake\\GameObjects\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:22:56.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Workshops\\Snake\\SimpleSnake\\GameObjects\\Snake.cs",
+              "RelativeDocumentMoniker": "SimpleSnake\\GameObjects\\Snake.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Workshops\\Snake\\SimpleSnake\\GameObjects\\Snake.cs",
+              "RelativeToolTip": "SimpleSnake\\GameObjects\\Snake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:55:06.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Workshops\\Snake\\SimpleSnake\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "SimpleSnake\\Core\\Engine.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Workshops\\Snake\\SimpleSnake\\Core\\Engine.cs",
+              "RelativeToolTip": "SimpleSnake\\Core\\Engine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:40:34.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Field.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Workshops\\Snake\\SimpleSnake\\GameObjects\\Field.cs",
+              "RelativeDocumentMoniker": "SimpleSnake\\GameObjects\\Field.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Workshops\\Snake\\SimpleSnake\\GameObjects\\Field.cs",
+              "RelativeToolTip": "SimpleSnake\\GameObjects\\Field.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:39:28.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Workshops\\Snake\\SimpleSnake\\GameObjects\\Position.cs",
+              "RelativeDocumentMoniker": "SimpleSnake\\GameObjects\\Position.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Workshops\\Snake\\SimpleSnake\\GameObjects\\Position.cs",
+              "RelativeToolTip": "SimpleSnake\\GameObjects\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:33:29.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Workshops\\Snake\\SimpleSnake\\Enums\\Direction.cs",
+              "RelativeDocumentMoniker": "SimpleSnake\\Enums\\Direction.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Workshops\\Snake\\SimpleSnake\\Enums\\Direction.cs",
+              "RelativeToolTip": "SimpleSnake\\Enums\\Direction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:23:32.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Workshops\\Snake\\SimpleSnake\\Utilities\\ConsoleHelper.cs",
+              "RelativeDocumentMoniker": "SimpleSnake\\Utilities\\ConsoleHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Workshops\\Snake\\SimpleSnake\\Utilities\\ConsoleHelper.cs",
+              "RelativeToolTip": "SimpleSnake\\Utilities\\ConsoleHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:23:21.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Workshops\\Snake\\SimpleSnake\\StartUp.cs",
+              "RelativeDocumentMoniker": "SimpleSnake\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Workshops\\Snake\\SimpleSnake\\StartUp.cs",
+              "RelativeToolTip": "SimpleSnake\\StartUp.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:23:08.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

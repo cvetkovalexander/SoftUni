@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# Advanced\\MultidimensionalArrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5376C0F-CBE3-49AB-AAFA-C81B3A0C23A1}|7.PascalTriangle\\7.PascalTriangle.csproj|c:\\users\\admin\\desktop\\c# advanced\\multidimensionalarrays\\7.pascaltriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5376C0F-CBE3-49AB-AAFA-C81B3A0C23A1}|7.PascalTriangle\\7.PascalTriangle.csproj|solutionrelative:7.pascaltriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9578806D-A8B9-44C3-B39E-E96E7A0B45A7}|5.SquareWithMaximumSum\\5.SquareWithMaximumSum.csproj|c:\\users\\admin\\desktop\\c# advanced\\multidimensionalarrays\\5.squarewithmaximumsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9578806D-A8B9-44C3-B39E-E96E7A0B45A7}|5.SquareWithMaximumSum\\5.SquareWithMaximumSum.csproj|solutionrelative:5.squarewithmaximumsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1929BA-00C7-4FF5-9EA1-2D192DF8534E}|6.Jagged-ArrayModification\\6.Jagged-ArrayModification.csproj|c:\\users\\admin\\desktop\\c# advanced\\multidimensionalarrays\\6.jagged-arraymodification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1929BA-00C7-4FF5-9EA1-2D192DF8534E}|6.Jagged-ArrayModification\\6.Jagged-ArrayModification.csproj|solutionrelative:6.jagged-arraymodification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\MultidimensionalArrays\\5.SquareWithMaximumSum\\Program.cs",
+              "RelativeDocumentMoniker": "5.SquareWithMaximumSum\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\MultidimensionalArrays\\5.SquareWithMaximumSum\\Program.cs",
+              "RelativeToolTip": "5.SquareWithMaximumSum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:18:54.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\MultidimensionalArrays\\6.Jagged-ArrayModification\\Program.cs",
+              "RelativeDocumentMoniker": "6.Jagged-ArrayModification\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\MultidimensionalArrays\\6.Jagged-ArrayModification\\Program.cs",
+              "RelativeToolTip": "6.Jagged-ArrayModification\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T19:11:04.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\MultidimensionalArrays\\7.PascalTriangle\\Program.cs",
+              "RelativeDocumentMoniker": "7.PascalTriangle\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\MultidimensionalArrays\\7.PascalTriangle\\Program.cs",
+              "RelativeToolTip": "7.PascalTriangle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T19:07:10.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

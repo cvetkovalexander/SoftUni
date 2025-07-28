@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA635815-59B6-43A6-A359-AD093B6A90E1}|Skeleton.Tests\\Skeleton.Tests.csproj|c:\\users\\admin\\desktop\\c# oop\\unittesting\\skeleton.tests\\dummytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA635815-59B6-43A6-A359-AD093B6A90E1}|Skeleton.Tests\\Skeleton.Tests.csproj|solutionrelative:skeleton.tests\\dummytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA635815-59B6-43A6-A359-AD093B6A90E1}|Skeleton.Tests\\Skeleton.Tests.csproj|c:\\users\\admin\\desktop\\c# oop\\unittesting\\skeleton.tests\\axetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA635815-59B6-43A6-A359-AD093B6A90E1}|Skeleton.Tests\\Skeleton.Tests.csproj|solutionrelative:skeleton.tests\\axetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40243B9A-88AA-48DD-9A11-FA65D6A28497}|Skeleton\\Skeleton.csproj|c:\\users\\admin\\desktop\\c# oop\\unittesting\\skeleton\\dummy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40243B9A-88AA-48DD-9A11-FA65D6A28497}|Skeleton\\Skeleton.csproj|solutionrelative:skeleton\\dummy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40243B9A-88AA-48DD-9A11-FA65D6A28497}|Skeleton\\Skeleton.csproj|c:\\users\\admin\\desktop\\c# oop\\unittesting\\skeleton\\axe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40243B9A-88AA-48DD-9A11-FA65D6A28497}|Skeleton\\Skeleton.csproj|solutionrelative:skeleton\\axe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40243B9A-88AA-48DD-9A11-FA65D6A28497}|Skeleton\\Skeleton.csproj|c:\\users\\admin\\desktop\\c# oop\\unittesting\\skeleton\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40243B9A-88AA-48DD-9A11-FA65D6A28497}|Skeleton\\Skeleton.csproj|solutionrelative:skeleton\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DummyTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Skeleton.Tests\\DummyTests.cs",
+              "RelativeDocumentMoniker": "Skeleton.Tests\\DummyTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Skeleton.Tests\\DummyTests.cs",
+              "RelativeToolTip": "Skeleton.Tests\\DummyTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:38:50.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AxeTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Skeleton.Tests\\AxeTests.cs",
+              "RelativeDocumentMoniker": "Skeleton.Tests\\AxeTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Skeleton.Tests\\AxeTests.cs",
+              "RelativeToolTip": "Skeleton.Tests\\AxeTests.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:23:57.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Skeleton\\StartUp.cs",
+              "RelativeDocumentMoniker": "Skeleton\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Skeleton\\StartUp.cs",
+              "RelativeToolTip": "Skeleton\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:23:39.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dummy.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Skeleton\\Dummy.cs",
+              "RelativeDocumentMoniker": "Skeleton\\Dummy.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Skeleton\\Dummy.cs",
+              "RelativeToolTip": "Skeleton\\Dummy.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:23:16.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Axe.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Skeleton\\Axe.cs",
+              "RelativeDocumentMoniker": "Skeleton\\Axe.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\Skeleton\\Axe.cs",
+              "RelativeToolTip": "Skeleton\\Axe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:23:14.482Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

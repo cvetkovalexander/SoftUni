@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\8.TrafficJam\bin\Debug\net8.0\8.TrafficJam.exe
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\8.TrafficJam\bin\Debug\net8.0\8.TrafficJam.deps.json
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\8.TrafficJam\bin\Debug\net8.0\8.TrafficJam.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\8.TrafficJam\bin\Debug\net8.0\8.TrafficJam.dll
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\8.TrafficJam\bin\Debug\net8.0\8.TrafficJam.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\8.TrafficJam\obj\Debug\net8.0\8.TrafficJam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\8.TrafficJam\obj\Debug\net8.0\8.TrafficJam.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\8.TrafficJam\obj\Debug\net8.0\8.TrafficJam.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\8.TrafficJam\obj\Debug\net8.0\8.TrafficJam.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\8.TrafficJam\obj\Debug\net8.0\8.TrafficJam.dll
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\8.TrafficJam\obj\Debug\net8.0\refint\8.TrafficJam.dll
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\8.TrafficJam\obj\Debug\net8.0\8.TrafficJam.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\8.TrafficJam\obj\Debug\net8.0\8.TrafficJam.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\8.TrafficJam\obj\Debug\net8.0\ref\8.TrafficJam.dll

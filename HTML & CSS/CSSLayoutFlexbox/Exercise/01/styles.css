@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Lato, sans-serif;
+    font-size: 14px;
+    line-height: 1.4;
+}
+
+body {
+    background: #EEE;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.section {
+    background: #FFF;
+    max-width: 90ch;
+    margin: 0 auto;
+    padding: 1.5em 1.2em;
+    box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.2);
+    border-radius: 0.3em;
+}
+
+.section.columns header,
+.section.columns footer {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.section.columns header {
+    max-width: 45ch;
+}
+
+.section.columns footer {
+    max-width: 80ch;
+    opacity: 0.6;
+    margin-top: 1.5em;
+}
+
+.section.columns header p {
+    font-style: itaclic;
+    opacity: 0.6;
+    margin-top: 0.5em;
+}
+
+.section.columns .columns {
+    margin: 2em 0;
+    display: flex;
+    gap: 2em;
+    flex-wrap: wrap;
+}
+
+.section.columns header::after,
+.section.columns footer::before {
+    width: 4em;
+    height: 2px;
+    content: '';
+    background: #CCC;
+    display: block;
+    margin: 1em auto;
+}
+
+.column {
+    flex-grow: 1;
+    flex-shrink: 0;
+     flex-basis: 20ch;
+}

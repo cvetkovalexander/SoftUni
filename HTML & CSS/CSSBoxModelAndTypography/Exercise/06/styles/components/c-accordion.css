@@ -1,0 +1,34 @@
+
+.accordion {
+    --size-padding: 1.5em;
+    --size-border-width: 2px;
+    --clr-border: #CCC;
+
+    border: var(--size-border-width) solid var(--clr-border);
+}
+
+.accordion p:last-child { 
+    padding: 0;
+}
+
+.accordion details summary {
+    padding-block: calc( var(--size-padding) / 2);
+    padding-inline: var(--size-padding);
+}
+
+.accordion details summary {
+    border-bottom: var(--size-border-width) solid var(--clr-border);
+}
+
+.accordion details:last-child:not([open]) summary {
+    border-bottom: none;
+}
+
+.accordion details[open]::details-content {
+    padding-block: var(--size-padding);
+    padding-inline: var(--size-padding);
+}
+
+.accordion details:not(:last-child)[open]::details-content {
+    border-bottom: var(--size-border-width) solid var(--clr-border);
+}

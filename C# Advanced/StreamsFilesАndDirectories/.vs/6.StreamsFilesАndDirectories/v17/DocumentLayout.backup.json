@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# Advanced\\6.StreamsFiles\u0410ndDirectories\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23B966C9-9F85-4135-9231-188E0C9728FB}|..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\FolderSize\\FolderSize.csproj|c:\\users\\admin\\desktop\\skeleton_6.0-lab\\skeleton-lab\\foldersize\\foldersize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45015D23-DBB0-4BE0-A0EC-9D3E710DFA70}|..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj|c:\\users\\admin\\desktop\\skeleton_6.0-lab\\skeleton-lab\\splitmergebinaryfile\\splitmergebinaryfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5A5B4D-6A51-41AE-AF5E-7D63EFA49CC1}|..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\ExtractSpecialBytes\\ExtractSpecialBytes.csproj|c:\\users\\admin\\desktop\\skeleton_6.0-lab\\skeleton-lab\\extractspecialbytes\\extractspecialbytes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5A5B4D-6A51-41AE-AF5E-7D63EFA49CC1}|..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\ExtractSpecialBytes\\ExtractSpecialBytes.csproj|c:\\users\\admin\\desktop\\skeleton_6.0-lab\\skeleton-lab\\extractspecialbytes\\files\\bytes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD007509-716F-4FD3-8E50-FB92BA1DEBA7}|..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\MergeFiles\\MergeFiles.csproj|c:\\users\\admin\\desktop\\skeleton_6.0-lab\\skeleton-lab\\mergefiles\\mergefiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD007509-716F-4FD3-8E50-FB92BA1DEBA7}|..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\MergeFiles\\MergeFiles.csproj|c:\\users\\admin\\desktop\\skeleton_6.0-lab\\skeleton-lab\\mergefiles\\files\\input2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD007509-716F-4FD3-8E50-FB92BA1DEBA7}|..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\MergeFiles\\MergeFiles.csproj|c:\\users\\admin\\desktop\\skeleton_6.0-lab\\skeleton-lab\\mergefiles\\files\\input1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53A52ED-A315-4897-9792-7B32C60A2ED0}|..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\WordCount\\WordCount.csproj|c:\\users\\admin\\desktop\\skeleton_6.0-lab\\skeleton-lab\\wordcount\\wordcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53A52ED-A315-4897-9792-7B32C60A2ED0}|..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\WordCount\\WordCount.csproj|c:\\users\\admin\\desktop\\skeleton_6.0-lab\\skeleton-lab\\wordcount\\files\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD2A9FE-AA76-4607-9B42-33678EBC3DF7}|..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\OddLines\\OddLines.csproj|c:\\users\\admin\\desktop\\skeleton_6.0-lab\\skeleton-lab\\oddlines\\oddlines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1396A26B-989D-4893-A5CD-47D279DBE6D7}|..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\LineNumbers\\LineNumbers.csproj|c:\\users\\admin\\desktop\\skeleton_6.0-lab\\skeleton-lab\\linenumbers\\linenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1396A26B-989D-4893-A5CD-47D279DBE6D7}|..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\LineNumbers\\LineNumbers.csproj|c:\\users\\admin\\desktop\\skeleton_6.0-lab\\skeleton-lab\\linenumbers\\files\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FolderSize.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Skeleton_6.0-Lab\\Skeleton-Lab\\FolderSize\\FolderSize.cs",
+              "RelativeDocumentMoniker": "..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\FolderSize\\FolderSize.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Skeleton_6.0-Lab\\Skeleton-Lab\\FolderSize\\FolderSize.cs*",
+              "RelativeToolTip": "..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\FolderSize\\FolderSize.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:15:24.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SplitMergeBinaryFile.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Skeleton_6.0-Lab\\Skeleton-Lab\\SplitMergeBinaryFile\\SplitMergeBinaryFile.cs",
+              "RelativeDocumentMoniker": "..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\SplitMergeBinaryFile\\SplitMergeBinaryFile.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Skeleton_6.0-Lab\\Skeleton-Lab\\SplitMergeBinaryFile\\SplitMergeBinaryFile.cs",
+              "RelativeToolTip": "..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\SplitMergeBinaryFile\\SplitMergeBinaryFile.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:52:09.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bytes.txt",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Skeleton_6.0-Lab\\Skeleton-Lab\\ExtractSpecialBytes\\Files\\bytes.txt",
+              "RelativeDocumentMoniker": "..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\ExtractSpecialBytes\\Files\\bytes.txt",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Skeleton_6.0-Lab\\Skeleton-Lab\\ExtractSpecialBytes\\Files\\bytes.txt",
+              "RelativeToolTip": "..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\ExtractSpecialBytes\\Files\\bytes.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-23T14:58:56.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExtractSpecialBytes.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Skeleton_6.0-Lab\\Skeleton-Lab\\ExtractSpecialBytes\\ExtractSpecialBytes.cs",
+              "RelativeDocumentMoniker": "..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\ExtractSpecialBytes\\ExtractSpecialBytes.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Skeleton_6.0-Lab\\Skeleton-Lab\\ExtractSpecialBytes\\ExtractSpecialBytes.cs",
+              "RelativeToolTip": "..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\ExtractSpecialBytes\\ExtractSpecialBytes.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowC4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:44:55.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "input1.txt",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Skeleton_6.0-Lab\\Skeleton-Lab\\MergeFiles\\Files\\input1.txt",
+              "RelativeDocumentMoniker": "..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\MergeFiles\\Files\\input1.txt",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Skeleton_6.0-Lab\\Skeleton-Lab\\MergeFiles\\Files\\input1.txt",
+              "RelativeToolTip": "..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\MergeFiles\\Files\\input1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-23T14:43:32.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "input2.txt",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Skeleton_6.0-Lab\\Skeleton-Lab\\MergeFiles\\Files\\input2.txt",
+              "RelativeDocumentMoniker": "..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\MergeFiles\\Files\\input2.txt",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Skeleton_6.0-Lab\\Skeleton-Lab\\MergeFiles\\Files\\input2.txt",
+              "RelativeToolTip": "..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\MergeFiles\\Files\\input2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-23T14:43:27.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MergeFiles.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Skeleton_6.0-Lab\\Skeleton-Lab\\MergeFiles\\MergeFiles.cs",
+              "RelativeDocumentMoniker": "..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\MergeFiles\\MergeFiles.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Skeleton_6.0-Lab\\Skeleton-Lab\\MergeFiles\\MergeFiles.cs",
+              "RelativeToolTip": "..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\MergeFiles\\MergeFiles.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:38:10.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "output.txt",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Skeleton_6.0-Lab\\Skeleton-Lab\\WordCount\\Files\\output.txt",
+              "RelativeDocumentMoniker": "..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\WordCount\\Files\\output.txt",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Skeleton_6.0-Lab\\Skeleton-Lab\\WordCount\\Files\\output.txt",
+              "RelativeToolTip": "..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\WordCount\\Files\\output.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-23T14:25:27.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WordCount.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Skeleton_6.0-Lab\\Skeleton-Lab\\WordCount\\WordCount.cs",
+              "RelativeDocumentMoniker": "..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\WordCount\\WordCount.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Skeleton_6.0-Lab\\Skeleton-Lab\\WordCount\\WordCount.cs",
+              "RelativeToolTip": "..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\WordCount\\WordCount.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:11:52.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Skeleton_6.0-Lab\\Skeleton-Lab\\LineNumbers\\Files\\input.txt",
+              "RelativeDocumentMoniker": "..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\LineNumbers\\Files\\input.txt",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Skeleton_6.0-Lab\\Skeleton-Lab\\LineNumbers\\Files\\input.txt",
+              "RelativeToolTip": "..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\LineNumbers\\Files\\input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-22T19:10:08.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LineNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Skeleton_6.0-Lab\\Skeleton-Lab\\LineNumbers\\LineNumbers.cs",
+              "RelativeDocumentMoniker": "..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\LineNumbers\\LineNumbers.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Skeleton_6.0-Lab\\Skeleton-Lab\\LineNumbers\\LineNumbers.cs",
+              "RelativeToolTip": "..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\LineNumbers\\LineNumbers.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wA8AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:07:26.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OddLines.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Skeleton_6.0-Lab\\Skeleton-Lab\\OddLines\\OddLines.cs",
+              "RelativeDocumentMoniker": "..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\OddLines\\OddLines.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Skeleton_6.0-Lab\\Skeleton-Lab\\OddLines\\OddLines.cs",
+              "RelativeToolTip": "..\\..\\Skeleton_6.0-Lab\\Skeleton-Lab\\OddLines\\OddLines.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:01:01.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

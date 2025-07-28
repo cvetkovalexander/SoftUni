@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# OOP\MockingAndTestDrivenDeveloping\InStock\bin\Debug\net6.0\InStock.exe
+C:\Users\Admin\Desktop\C# OOP\MockingAndTestDrivenDeveloping\InStock\bin\Debug\net6.0\InStock.deps.json
+C:\Users\Admin\Desktop\C# OOP\MockingAndTestDrivenDeveloping\InStock\bin\Debug\net6.0\InStock.runtimeconfig.json
+C:\Users\Admin\Desktop\C# OOP\MockingAndTestDrivenDeveloping\InStock\bin\Debug\net6.0\InStock.dll
+C:\Users\Admin\Desktop\C# OOP\MockingAndTestDrivenDeveloping\InStock\bin\Debug\net6.0\InStock.pdb
+C:\Users\Admin\Desktop\C# OOP\MockingAndTestDrivenDeveloping\InStock\obj\Debug\net6.0\InStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# OOP\MockingAndTestDrivenDeveloping\InStock\obj\Debug\net6.0\InStock.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# OOP\MockingAndTestDrivenDeveloping\InStock\obj\Debug\net6.0\InStock.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# OOP\MockingAndTestDrivenDeveloping\InStock\obj\Debug\net6.0\InStock.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# OOP\MockingAndTestDrivenDeveloping\InStock\obj\Debug\net6.0\InStock.dll
+C:\Users\Admin\Desktop\C# OOP\MockingAndTestDrivenDeveloping\InStock\obj\Debug\net6.0\refint\InStock.dll
+C:\Users\Admin\Desktop\C# OOP\MockingAndTestDrivenDeveloping\InStock\obj\Debug\net6.0\InStock.pdb
+C:\Users\Admin\Desktop\C# OOP\MockingAndTestDrivenDeveloping\InStock\obj\Debug\net6.0\InStock.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# OOP\MockingAndTestDrivenDeveloping\InStock\obj\Debug\net6.0\ref\InStock.dll

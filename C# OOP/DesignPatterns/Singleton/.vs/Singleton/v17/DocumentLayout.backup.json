@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\Singleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66E23393-BE11-4C70-B2D9-C9625A05879F}|Singleton\\Singleton.csproj|c:\\users\\admin\\desktop\\c# oop\\designpatterns\\singleton\\singleton\\models\\singletoncontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E23393-BE11-4C70-B2D9-C9625A05879F}|Singleton\\Singleton.csproj|solutionrelative:singleton\\models\\singletoncontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E23393-BE11-4C70-B2D9-C9625A05879F}|Singleton\\Singleton.csproj|c:\\users\\admin\\desktop\\c# oop\\designpatterns\\singleton\\singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E23393-BE11-4C70-B2D9-C9625A05879F}|Singleton\\Singleton.csproj|solutionrelative:singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E23393-BE11-4C70-B2D9-C9625A05879F}|Singleton\\Singleton.csproj|c:\\users\\admin\\desktop\\c# oop\\designpatterns\\singleton\\singleton\\contracts\\isingletoncontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E23393-BE11-4C70-B2D9-C9625A05879F}|Singleton\\Singleton.csproj|solutionrelative:singleton\\contracts\\isingletoncontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SingletonContainer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\Singleton\\Singleton\\Models\\SingletonContainer.cs",
+              "RelativeDocumentMoniker": "Singleton\\Models\\SingletonContainer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\Singleton\\Singleton\\Models\\SingletonContainer.cs",
+              "RelativeToolTip": "Singleton\\Models\\SingletonContainer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:24:58.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISingletonContainer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\Singleton\\Singleton\\Contracts\\ISingletonContainer.cs",
+              "RelativeDocumentMoniker": "Singleton\\Contracts\\ISingletonContainer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\Singleton\\Singleton\\Contracts\\ISingletonContainer.cs",
+              "RelativeToolTip": "Singleton\\Contracts\\ISingletonContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:24:10.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\Singleton\\Singleton\\Program.cs",
+              "RelativeDocumentMoniker": "Singleton\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\DesignPatterns\\Singleton\\Singleton\\Program.cs",
+              "RelativeToolTip": "Singleton\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:23:15.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

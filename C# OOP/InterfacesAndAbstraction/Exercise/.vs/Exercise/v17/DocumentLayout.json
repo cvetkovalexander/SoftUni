@@ -1,0 +1,888 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80BE26D4-63F0-4672-9910-BE218E76100B}|ExplicitInterfaces\\ExplicitInterfaces.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\explicitinterfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BE26D4-63F0-4672-9910-BE218E76100B}|ExplicitInterfaces\\ExplicitInterfaces.csproj|solutionrelative:explicitinterfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BE26D4-63F0-4672-9910-BE218E76100B}|ExplicitInterfaces\\ExplicitInterfaces.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\explicitinterfaces\\classes\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BE26D4-63F0-4672-9910-BE218E76100B}|ExplicitInterfaces\\ExplicitInterfaces.csproj|solutionrelative:explicitinterfaces\\classes\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BE26D4-63F0-4672-9910-BE218E76100B}|ExplicitInterfaces\\ExplicitInterfaces.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\explicitinterfaces\\interfaces\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BE26D4-63F0-4672-9910-BE218E76100B}|ExplicitInterfaces\\ExplicitInterfaces.csproj|solutionrelative:explicitinterfaces\\interfaces\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BE26D4-63F0-4672-9910-BE218E76100B}|ExplicitInterfaces\\ExplicitInterfaces.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\explicitinterfaces\\interfaces\\iresident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BE26D4-63F0-4672-9910-BE218E76100B}|ExplicitInterfaces\\ExplicitInterfaces.csproj|solutionrelative:explicitinterfaces\\interfaces\\iresident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB04A325-07C0-4B91-8D0E-B8E0CCE22979}|CollectionHierarchy\\CollectionHierarchy.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\collectionhierarchy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB04A325-07C0-4B91-8D0E-B8E0CCE22979}|CollectionHierarchy\\CollectionHierarchy.csproj|solutionrelative:collectionhierarchy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB04A325-07C0-4B91-8D0E-B8E0CCE22979}|CollectionHierarchy\\CollectionHierarchy.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\collectionhierarchy\\collections\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB04A325-07C0-4B91-8D0E-B8E0CCE22979}|CollectionHierarchy\\CollectionHierarchy.csproj|solutionrelative:collectionhierarchy\\collections\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB04A325-07C0-4B91-8D0E-B8E0CCE22979}|CollectionHierarchy\\CollectionHierarchy.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\collectionhierarchy\\collections\\addremovecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB04A325-07C0-4B91-8D0E-B8E0CCE22979}|CollectionHierarchy\\CollectionHierarchy.csproj|solutionrelative:collectionhierarchy\\collections\\addremovecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB04A325-07C0-4B91-8D0E-B8E0CCE22979}|CollectionHierarchy\\CollectionHierarchy.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\collectionhierarchy\\collections\\addcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB04A325-07C0-4B91-8D0E-B8E0CCE22979}|CollectionHierarchy\\CollectionHierarchy.csproj|solutionrelative:collectionhierarchy\\collections\\addcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB04A325-07C0-4B91-8D0E-B8E0CCE22979}|CollectionHierarchy\\CollectionHierarchy.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\collectionhierarchy\\interfaces\\iremovesupportable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB04A325-07C0-4B91-8D0E-B8E0CCE22979}|CollectionHierarchy\\CollectionHierarchy.csproj|solutionrelative:collectionhierarchy\\interfaces\\iremovesupportable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB04A325-07C0-4B91-8D0E-B8E0CCE22979}|CollectionHierarchy\\CollectionHierarchy.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\collectionhierarchy\\interfaces\\iaddsupportable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB04A325-07C0-4B91-8D0E-B8E0CCE22979}|CollectionHierarchy\\CollectionHierarchy.csproj|solutionrelative:collectionhierarchy\\interfaces\\iaddsupportable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB04A325-07C0-4B91-8D0E-B8E0CCE22979}|CollectionHierarchy\\CollectionHierarchy.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\collectionhierarchy\\interfaces\\icountable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB04A325-07C0-4B91-8D0E-B8E0CCE22979}|CollectionHierarchy\\CollectionHierarchy.csproj|solutionrelative:collectionhierarchy\\interfaces\\icountable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\militaryelite\\classes\\specialisedsoldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\classes\\specialisedsoldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\militaryelite\\classes\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\classes\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\militaryelite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\militaryelite\\classes\\commando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\classes\\commando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\militaryelite\\classes\\private.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\classes\\private.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\militaryelite\\classes\\soldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\classes\\soldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\militaryelite\\classes\\engineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\classes\\engineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\militaryelite\\classes\\lieutenantgeneral .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\classes\\lieutenantgeneral .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\militaryelite\\classes\\repair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\classes\\repair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\militaryelite\\classes\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\classes\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\militaryelite\\interfaces\\icommando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\interfaces\\icommando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\militaryelite\\interfaces\\ilieutenantgeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\interfaces\\ilieutenantgeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\militaryelite\\interfaces\\imission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\interfaces\\imission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\militaryelite\\interfaces\\iengineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\interfaces\\iengineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\militaryelite\\interfaces\\irepair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\interfaces\\irepair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\militaryelite\\interfaces\\ispecialisedsoldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\interfaces\\ispecialisedsoldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\militaryelite\\interfaces\\iprivate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\interfaces\\iprivate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\militaryelite\\interfaces\\ispy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\interfaces\\ispy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\militaryelite\\interfaces\\isoldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED925E58-922C-4675-B03B-1D31C1643CFE}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\interfaces\\isoldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B5BE74-90F1-4EC1-B66B-A60539BB1ECA}|FoodShortage\\FoodShortage.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\foodshortage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B5BE74-90F1-4EC1-B66B-A60539BB1ECA}|FoodShortage\\FoodShortage.csproj|solutionrelative:foodshortage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B5BE74-90F1-4EC1-B66B-A60539BB1ECA}|FoodShortage\\FoodShortage.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\foodshortage\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B5BE74-90F1-4EC1-B66B-A60539BB1ECA}|FoodShortage\\FoodShortage.csproj|solutionrelative:foodshortage\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B5BE74-90F1-4EC1-B66B-A60539BB1ECA}|FoodShortage\\FoodShortage.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\foodshortage\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B5BE74-90F1-4EC1-B66B-A60539BB1ECA}|FoodShortage\\FoodShortage.csproj|solutionrelative:foodshortage\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B5BE74-90F1-4EC1-B66B-A60539BB1ECA}|FoodShortage\\FoodShortage.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\foodshortage\\rebel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B5BE74-90F1-4EC1-B66B-A60539BB1ECA}|FoodShortage\\FoodShortage.csproj|solutionrelative:foodshortage\\rebel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B5BE74-90F1-4EC1-B66B-A60539BB1ECA}|FoodShortage\\FoodShortage.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\foodshortage\\basebuyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B5BE74-90F1-4EC1-B66B-A60539BB1ECA}|FoodShortage\\FoodShortage.csproj|solutionrelative:foodshortage\\basebuyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B5BE74-90F1-4EC1-B66B-A60539BB1ECA}|FoodShortage\\FoodShortage.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\foodshortage\\ibuyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B5BE74-90F1-4EC1-B66B-A60539BB1ECA}|FoodShortage\\FoodShortage.csproj|solutionrelative:foodshortage\\ibuyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E009FF0-16A2-43FF-815B-34E36477CE06}|BorderControl\\BorderControl.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\bordercontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E009FF0-16A2-43FF-815B-34E36477CE06}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E009FF0-16A2-43FF-815B-34E36477CE06}|BorderControl\\BorderControl.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\bordercontrol\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E009FF0-16A2-43FF-815B-34E36477CE06}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E009FF0-16A2-43FF-815B-34E36477CE06}|BorderControl\\BorderControl.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\bordercontrol\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E009FF0-16A2-43FF-815B-34E36477CE06}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E009FF0-16A2-43FF-815B-34E36477CE06}|BorderControl\\BorderControl.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\bordercontrol\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E009FF0-16A2-43FF-815B-34E36477CE06}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E009FF0-16A2-43FF-815B-34E36477CE06}|BorderControl\\BorderControl.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\bordercontrol\\inamed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E009FF0-16A2-43FF-815B-34E36477CE06}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\inamed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E009FF0-16A2-43FF-815B-34E36477CE06}|BorderControl\\BorderControl.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\bordercontrol\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E009FF0-16A2-43FF-815B-34E36477CE06}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E009FF0-16A2-43FF-815B-34E36477CE06}|BorderControl\\BorderControl.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\bordercontrol\\isoldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E009FF0-16A2-43FF-815B-34E36477CE06}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\isoldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFB725B-D1CB-4FEF-ABCA-B64EB98702B2}|PersonInfo\\PersonInfo.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\personinfo\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFB725B-D1CB-4FEF-ABCA-B64EB98702B2}|PersonInfo\\PersonInfo.csproj|solutionrelative:personinfo\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFB725B-D1CB-4FEF-ABCA-B64EB98702B2}|PersonInfo\\PersonInfo.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\personinfo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFB725B-D1CB-4FEF-ABCA-B64EB98702B2}|PersonInfo\\PersonInfo.csproj|solutionrelative:personinfo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFB725B-D1CB-4FEF-ABCA-B64EB98702B2}|PersonInfo\\PersonInfo.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\personinfo\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFB725B-D1CB-4FEF-ABCA-B64EB98702B2}|PersonInfo\\PersonInfo.csproj|solutionrelative:personinfo\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFB725B-D1CB-4FEF-ABCA-B64EB98702B2}|PersonInfo\\PersonInfo.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\personinfo\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFB725B-D1CB-4FEF-ABCA-B64EB98702B2}|PersonInfo\\PersonInfo.csproj|solutionrelative:personinfo\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E17A18-FC92-47F0-9BAD-CFE9E7EFDB3B}|Telephony\\Telephony.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\telephony\\stationaryphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E17A18-FC92-47F0-9BAD-CFE9E7EFDB3B}|Telephony\\Telephony.csproj|solutionrelative:telephony\\stationaryphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E17A18-FC92-47F0-9BAD-CFE9E7EFDB3B}|Telephony\\Telephony.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\telephony\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E17A18-FC92-47F0-9BAD-CFE9E7EFDB3B}|Telephony\\Telephony.csproj|solutionrelative:telephony\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E17A18-FC92-47F0-9BAD-CFE9E7EFDB3B}|Telephony\\Telephony.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\telephony\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E17A18-FC92-47F0-9BAD-CFE9E7EFDB3B}|Telephony\\Telephony.csproj|solutionrelative:telephony\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E17A18-FC92-47F0-9BAD-CFE9E7EFDB3B}|Telephony\\Telephony.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\telephony\\ibrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E17A18-FC92-47F0-9BAD-CFE9E7EFDB3B}|Telephony\\Telephony.csproj|solutionrelative:telephony\\ibrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E17A18-FC92-47F0-9BAD-CFE9E7EFDB3B}|Telephony\\Telephony.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\telephony\\icaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E17A18-FC92-47F0-9BAD-CFE9E7EFDB3B}|Telephony\\Telephony.csproj|solutionrelative:telephony\\icaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFB725B-D1CB-4FEF-ABCA-B64EB98702B2}|PersonInfo\\PersonInfo.csproj|c:\\users\\admin\\desktop\\c# oop\\interfacesandabstraction\\exercise\\personinfo\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFB725B-D1CB-4FEF-ABCA-B64EB98702B2}|PersonInfo\\PersonInfo.csproj|solutionrelative:personinfo\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1217,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\ExplicitInterfaces\\Classes\\Citizen.cs",
+              "RelativeDocumentMoniker": "ExplicitInterfaces\\Classes\\Citizen.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\ExplicitInterfaces\\Classes\\Citizen.cs",
+              "RelativeToolTip": "ExplicitInterfaces\\Classes\\Citizen.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:13:11.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\ExplicitInterfaces\\Interfaces\\IPerson.cs",
+              "RelativeDocumentMoniker": "ExplicitInterfaces\\Interfaces\\IPerson.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\ExplicitInterfaces\\Interfaces\\IPerson.cs",
+              "RelativeToolTip": "ExplicitInterfaces\\Interfaces\\IPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:11:47.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IResident.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\ExplicitInterfaces\\Interfaces\\IResident.cs",
+              "RelativeDocumentMoniker": "ExplicitInterfaces\\Interfaces\\IResident.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\ExplicitInterfaces\\Interfaces\\IResident.cs",
+              "RelativeToolTip": "ExplicitInterfaces\\Interfaces\\IResident.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:11:33.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\ExplicitInterfaces\\Program.cs",
+              "RelativeDocumentMoniker": "ExplicitInterfaces\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\ExplicitInterfaces\\Program.cs",
+              "RelativeToolTip": "ExplicitInterfaces\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:11:00.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyList.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\CollectionHierarchy\\Collections\\MyList.cs",
+              "RelativeDocumentMoniker": "CollectionHierarchy\\Collections\\MyList.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\CollectionHierarchy\\Collections\\MyList.cs",
+              "RelativeToolTip": "CollectionHierarchy\\Collections\\MyList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:03:33.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddRemoveCollection.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\CollectionHierarchy\\Collections\\AddRemoveCollection.cs",
+              "RelativeDocumentMoniker": "CollectionHierarchy\\Collections\\AddRemoveCollection.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\CollectionHierarchy\\Collections\\AddRemoveCollection.cs",
+              "RelativeToolTip": "CollectionHierarchy\\Collections\\AddRemoveCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:01:06.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddCollection.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\CollectionHierarchy\\Collections\\AddCollection.cs",
+              "RelativeDocumentMoniker": "CollectionHierarchy\\Collections\\AddCollection.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\CollectionHierarchy\\Collections\\AddCollection.cs",
+              "RelativeToolTip": "CollectionHierarchy\\Collections\\AddCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:59:47.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRemoveSupportable.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\CollectionHierarchy\\Interfaces\\IRemoveSupportable.cs",
+              "RelativeDocumentMoniker": "CollectionHierarchy\\Interfaces\\IRemoveSupportable.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\CollectionHierarchy\\Interfaces\\IRemoveSupportable.cs",
+              "RelativeToolTip": "CollectionHierarchy\\Interfaces\\IRemoveSupportable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:58:50.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAddSupportable.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\CollectionHierarchy\\Interfaces\\IAddSupportable.cs",
+              "RelativeDocumentMoniker": "CollectionHierarchy\\Interfaces\\IAddSupportable.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\CollectionHierarchy\\Interfaces\\IAddSupportable.cs",
+              "RelativeToolTip": "CollectionHierarchy\\Interfaces\\IAddSupportable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:57:42.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICountable.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\CollectionHierarchy\\Interfaces\\ICountable.cs",
+              "RelativeDocumentMoniker": "CollectionHierarchy\\Interfaces\\ICountable.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\CollectionHierarchy\\Interfaces\\ICountable.cs",
+              "RelativeToolTip": "CollectionHierarchy\\Interfaces\\ICountable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:57:07.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\CollectionHierarchy\\Program.cs",
+              "RelativeDocumentMoniker": "CollectionHierarchy\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\CollectionHierarchy\\Program.cs",
+              "RelativeToolTip": "CollectionHierarchy\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAASwBUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:56:36.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Mission.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Classes\\Mission.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Classes\\Mission.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Classes\\Mission.cs",
+              "RelativeToolTip": "MilitaryElite\\Classes\\Mission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:59:13.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Commando.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Classes\\Commando.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Classes\\Commando.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Classes\\Commando.cs",
+              "RelativeToolTip": "MilitaryElite\\Classes\\Commando.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:57:04.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Repair.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Classes\\Repair.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Classes\\Repair.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Classes\\Repair.cs",
+              "RelativeToolTip": "MilitaryElite\\Classes\\Repair.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:56:50.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Engineer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Classes\\Engineer.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Classes\\Engineer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Classes\\Engineer.cs",
+              "RelativeToolTip": "MilitaryElite\\Classes\\Engineer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:54:53.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SpecialisedSoldier.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Classes\\SpecialisedSoldier.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Classes\\SpecialisedSoldier.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Classes\\SpecialisedSoldier.cs",
+              "RelativeToolTip": "MilitaryElite\\Classes\\SpecialisedSoldier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:49:32.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LieutenantGeneral .cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Classes\\LieutenantGeneral .cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Classes\\LieutenantGeneral .cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Classes\\LieutenantGeneral .cs",
+              "RelativeToolTip": "MilitaryElite\\Classes\\LieutenantGeneral .cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:47:16.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Spy.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Classes\\Spy.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Classes\\Spy.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Classes\\Spy.cs",
+              "RelativeToolTip": "MilitaryElite\\Classes\\Spy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:45:01.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Private.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Classes\\Private.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Classes\\Private.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Classes\\Private.cs",
+              "RelativeToolTip": "MilitaryElite\\Classes\\Private.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:44:14.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Soldier.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Classes\\Soldier.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Classes\\Soldier.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Classes\\Soldier.cs",
+              "RelativeToolTip": "MilitaryElite\\Classes\\Soldier.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:43:00.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IMission.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Interfaces\\IMission.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Interfaces\\IMission.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Interfaces\\IMission.cs",
+              "RelativeToolTip": "MilitaryElite\\Interfaces\\IMission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:41:24.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICommando.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Interfaces\\ICommando.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Interfaces\\ICommando.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Interfaces\\ICommando.cs",
+              "RelativeToolTip": "MilitaryElite\\Interfaces\\ICommando.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:40:58.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IEngineer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Interfaces\\IEngineer.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Interfaces\\IEngineer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Interfaces\\IEngineer.cs",
+              "RelativeToolTip": "MilitaryElite\\Interfaces\\IEngineer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:39:55.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Program.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Program.cs",
+              "RelativeToolTip": "MilitaryElite\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwGEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:05:16.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IRepair.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Interfaces\\IRepair.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Interfaces\\IRepair.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Interfaces\\IRepair.cs",
+              "RelativeToolTip": "MilitaryElite\\Interfaces\\IRepair.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:38:45.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ISpecialisedSoldier.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Interfaces\\ISpecialisedSoldier.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Interfaces\\ISpecialisedSoldier.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Interfaces\\ISpecialisedSoldier.cs",
+              "RelativeToolTip": "MilitaryElite\\Interfaces\\ISpecialisedSoldier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:37:56.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ILieutenantGeneral.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Interfaces\\ILieutenantGeneral.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Interfaces\\ILieutenantGeneral.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Interfaces\\ILieutenantGeneral.cs",
+              "RelativeToolTip": "MilitaryElite\\Interfaces\\ILieutenantGeneral.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:36:46.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IPrivate.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Interfaces\\IPrivate.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Interfaces\\IPrivate.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Interfaces\\IPrivate.cs",
+              "RelativeToolTip": "MilitaryElite\\Interfaces\\IPrivate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:35:51.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ISpy.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Interfaces\\ISpy.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Interfaces\\ISpy.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Interfaces\\ISpy.cs",
+              "RelativeToolTip": "MilitaryElite\\Interfaces\\ISpy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:34:54.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ISoldier.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Interfaces\\ISoldier.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Interfaces\\ISoldier.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\MilitaryElite\\Interfaces\\ISoldier.cs",
+              "RelativeToolTip": "MilitaryElite\\Interfaces\\ISoldier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:33:44.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BaseBuyer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\FoodShortage\\BaseBuyer.cs",
+              "RelativeDocumentMoniker": "FoodShortage\\BaseBuyer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\FoodShortage\\BaseBuyer.cs",
+              "RelativeToolTip": "FoodShortage\\BaseBuyer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T11:29:54.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IBuyer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\FoodShortage\\IBuyer.cs",
+              "RelativeDocumentMoniker": "FoodShortage\\IBuyer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\FoodShortage\\IBuyer.cs",
+              "RelativeToolTip": "FoodShortage\\IBuyer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:39:47.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\FoodShortage\\IPerson.cs",
+              "RelativeDocumentMoniker": "FoodShortage\\IPerson.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\FoodShortage\\IPerson.cs",
+              "RelativeToolTip": "FoodShortage\\IPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:38:52.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Rebel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\FoodShortage\\Rebel.cs",
+              "RelativeDocumentMoniker": "FoodShortage\\Rebel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\FoodShortage\\Rebel.cs",
+              "RelativeToolTip": "FoodShortage\\Rebel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:37:46.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\FoodShortage\\Citizen.cs",
+              "RelativeDocumentMoniker": "FoodShortage\\Citizen.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\FoodShortage\\Citizen.cs",
+              "RelativeToolTip": "FoodShortage\\Citizen.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:37:34.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\FoodShortage\\Program.cs",
+              "RelativeDocumentMoniker": "FoodShortage\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\FoodShortage\\Program.cs",
+              "RelativeToolTip": "FoodShortage\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:35:09.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "INamed.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\BorderControl\\INamed.cs",
+              "RelativeDocumentMoniker": "BorderControl\\INamed.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\BorderControl\\INamed.cs",
+              "RelativeToolTip": "BorderControl\\INamed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:27:05.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ISoldier.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\BorderControl\\ISoldier.cs",
+              "RelativeDocumentMoniker": "BorderControl\\ISoldier.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\BorderControl\\ISoldier.cs",
+              "RelativeToolTip": "BorderControl\\ISoldier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:33:29.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\BorderControl\\Program.cs",
+              "RelativeDocumentMoniker": "BorderControl\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\BorderControl\\Program.cs",
+              "RelativeToolTip": "BorderControl\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:31:38.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\Telephony\\Program.cs",
+              "RelativeDocumentMoniker": "Telephony\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\Telephony\\Program.cs",
+              "RelativeToolTip": "Telephony\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T10:53:44.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IBirthable.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\PersonInfo\\IBirthable.cs",
+              "RelativeDocumentMoniker": "PersonInfo\\IBirthable.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\PersonInfo\\IBirthable.cs",
+              "RelativeToolTip": "PersonInfo\\IBirthable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T10:50:59.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\BorderControl\\Robot.cs",
+              "RelativeDocumentMoniker": "BorderControl\\Robot.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\BorderControl\\Robot.cs",
+              "RelativeToolTip": "BorderControl\\Robot.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:34:29.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\BorderControl\\Citizen.cs",
+              "RelativeDocumentMoniker": "BorderControl\\Citizen.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\BorderControl\\Citizen.cs",
+              "RelativeToolTip": "BorderControl\\Citizen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:34:02.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IBirthable.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\BorderControl\\IBirthable.cs",
+              "RelativeDocumentMoniker": "BorderControl\\IBirthable.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\BorderControl\\IBirthable.cs",
+              "RelativeToolTip": "BorderControl\\IBirthable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T12:09:05.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\BorderControl\\Pet.cs",
+              "RelativeDocumentMoniker": "BorderControl\\Pet.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\BorderControl\\Pet.cs",
+              "RelativeToolTip": "BorderControl\\Pet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T12:08:24.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ICaller.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\Telephony\\ICaller.cs",
+              "RelativeDocumentMoniker": "Telephony\\ICaller.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\Telephony\\ICaller.cs",
+              "RelativeToolTip": "Telephony\\ICaller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T10:55:10.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IBrowser.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\Telephony\\IBrowser.cs",
+              "RelativeDocumentMoniker": "Telephony\\IBrowser.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\Telephony\\IBrowser.cs",
+              "RelativeToolTip": "Telephony\\IBrowser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T10:56:22.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Smartphone.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\Telephony\\Smartphone.cs",
+              "RelativeDocumentMoniker": "Telephony\\Smartphone.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\Telephony\\Smartphone.cs",
+              "RelativeToolTip": "Telephony\\Smartphone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T10:56:37.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\PersonInfo\\StartUp.cs",
+              "RelativeDocumentMoniker": "PersonInfo\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\PersonInfo\\StartUp.cs",
+              "RelativeToolTip": "PersonInfo\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T10:43:37.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IIdentifiable.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\PersonInfo\\IIdentifiable.cs",
+              "RelativeDocumentMoniker": "PersonInfo\\IIdentifiable.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\PersonInfo\\IIdentifiable.cs",
+              "RelativeToolTip": "PersonInfo\\IIdentifiable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T10:50:28.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\PersonInfo\\Citizen.cs",
+              "RelativeDocumentMoniker": "PersonInfo\\Citizen.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\PersonInfo\\Citizen.cs",
+              "RelativeToolTip": "PersonInfo\\Citizen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T10:47:30.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\PersonInfo\\IPerson.cs",
+              "RelativeDocumentMoniker": "PersonInfo\\IPerson.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\PersonInfo\\IPerson.cs",
+              "RelativeToolTip": "PersonInfo\\IPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T10:44:22.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "StationaryPhone.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\Telephony\\StationaryPhone.cs",
+              "RelativeDocumentMoniker": "Telephony\\StationaryPhone.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\InterfacesAndAbstraction\\Exercise\\Telephony\\StationaryPhone.cs",
+              "RelativeToolTip": "Telephony\\StationaryPhone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T10:57:08.234Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

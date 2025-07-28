@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\ZoneControlPanel\ZoneControlPanel\bin\Debug\net6.0\ZoneControlPanel.exe
+C:\Users\Admin\Desktop\ZoneControlPanel\ZoneControlPanel\bin\Debug\net6.0\ZoneControlPanel.deps.json
+C:\Users\Admin\Desktop\ZoneControlPanel\ZoneControlPanel\bin\Debug\net6.0\ZoneControlPanel.runtimeconfig.json
+C:\Users\Admin\Desktop\ZoneControlPanel\ZoneControlPanel\bin\Debug\net6.0\ZoneControlPanel.dll
+C:\Users\Admin\Desktop\ZoneControlPanel\ZoneControlPanel\bin\Debug\net6.0\ZoneControlPanel.pdb
+C:\Users\Admin\Desktop\ZoneControlPanel\ZoneControlPanel\obj\Debug\net6.0\ZoneControlPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ZoneControlPanel\ZoneControlPanel\obj\Debug\net6.0\ZoneControlPanel.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ZoneControlPanel\ZoneControlPanel\obj\Debug\net6.0\ZoneControlPanel.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ZoneControlPanel\ZoneControlPanel\obj\Debug\net6.0\ZoneControlPanel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ZoneControlPanel\ZoneControlPanel\obj\Debug\net6.0\ZoneControlPanel.dll
+C:\Users\Admin\Desktop\ZoneControlPanel\ZoneControlPanel\obj\Debug\net6.0\refint\ZoneControlPanel.dll
+C:\Users\Admin\Desktop\ZoneControlPanel\ZoneControlPanel\obj\Debug\net6.0\ZoneControlPanel.pdb
+C:\Users\Admin\Desktop\ZoneControlPanel\ZoneControlPanel\obj\Debug\net6.0\ZoneControlPanel.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ZoneControlPanel\ZoneControlPanel\obj\Debug\net6.0\ref\ZoneControlPanel.dll

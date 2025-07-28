@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #000;
+    background-image: url(images/poster.jpg);
+    background-position: center -10vw;
+    background-size: contain;
+    font: 18px/1.5 Karla, sans-serif;
+
+    &::before {
+        display: block;
+        content: '';
+        position: absolute;
+        inset: 0;
+        background-color: rgb(0, 0, 0, 0.5);
+        z-index: -1;
+    }
+}
+
+body > * {
+    width: 100%;
+}
+
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Cormorant Infant', serif;
+}
+
+.site-title {
+    a {
+        display: block;
+        text-indent: -100vw;
+        background: url('images/logo.webp');
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: left center;
+        width: 6em;
+        aspect-ratio: 3/1;
+    }
+}
+
+.section {
+
+    &.bgrd-light {
+        background-color: rgba(248, 240, 233, 1);
+        color: rgba(53, 43, 42, 1);
+    }
+
+    &.bgrd-dark {
+        background-color: rgba(225, 71, 71, 1);
+        color: #FFF;
+    }
+
+    .inner {
+        max-width: 1100px;
+        margin: 0 auto;
+        padding: 2em;
+    }
+
+    &.header .inner,
+    &.footer .inner {
+        max-width: 1720px;
+    }
+
+    &.header {
+        .inner {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        nav ul {
+            display: flex;
+            gap: 2em;
+
+            li, a {
+                display: block;
+            }
+
+            a {
+                padding: 0.5em;
+                text-decoration: none;
+                color: #FFF;
+            }
+        }
+    }
+
+    &.banner {
+        .inner {
+            padding: 14em 2em 12em;
+            text-align: center;
+            color: #FFF;
+
+            h2 {
+                font-size: 5em;
+                margin: 3rem 0;
+            }
+
+            p {
+                max-width: 60ch;
+                margin: 0 auto;
+            }
+        }
+    }
+
+    &.testimonial {
+        .inner {
+            blockquote {
+                padding-top: 3rem;
+                padding-bottom: 4rem;
+                font-size: 3.8em;
+                font-weight: bold;
+                line-height: 0.9;
+                font-style: italic;
+                font-family: 'Cormorant Infant', serif;
+            }
+        }
+    }
+
+    &.support {
+        .inner {
+            text-align: center;
+            padding: 3em 0;
+
+            h2 {
+                font-family: Karla, sans-serif;
+                padding-bottom: 1em;
+            }
+
+            p {
+                max-width: 25ch;
+                margin: 0 auto;
+            }
+        }
+    }
+
+    &.featured {
+        .inner {
+            max-width: 620px;
+            padding-block: 4em;
+
+            img {
+                margin-bottom: 2.5em;
+            }
+
+            h2 {
+                font-size: 3.5em;
+                line-height: 1;
+                text-align: center;
+                padding-bottom: 1em;
+                padding-top: 0.5em;
+            }
+
+            p {
+                margin-bottom: 2em;
+            }
+
+            .button {
+                display: block;
+                width: fit-content;
+                border: 1px solid #000;
+                background-color: #FFF;
+                border-radius: 0.3em;
+                padding: 0.5em 1em;
+                color: #000;
+                text-decoration: none;
+
+                & + .button {
+                    margin-top: 3em;
+                    margin-inline: auto;
+                }
+            }
+        }
+    }
+
+    &.guide {
+        .inner {
+
+            text-align: center;
+            padding: 4.5em 0;
+
+            h2 {
+                padding-bottom: 3rem;
+                font-size: 3em;
+            }
+
+            p {
+                max-width: 80ch;
+                margin: 0 auto;
+                padding-bottom: 4.5rem;
+            }
+
+            .button {
+                background-color: rgba(250, 216, 122, 1);
+                border-radius: 2em ;
+                padding: 0.8em 1.4em;
+                text-decoration: none;
+                color: #000;
+            }
+        }
+    }
+
+    &.footer {
+        background-color: rgba(53, 43, 42, 1);
+        color: #FFF ;
+
+        .inner {
+            padding: 2em;
+            .site-title {
+                margin-bottom: 2em;
+            }
+
+            p:nth-child(2) {
+                max-width: 47ch;
+                padding-bottom: 2rem;
+            }
+
+            p:nth-child(3) {
+                font-size: 15.5px;
+                opacity: 0.3;
+            }
+        }
+    }
+}

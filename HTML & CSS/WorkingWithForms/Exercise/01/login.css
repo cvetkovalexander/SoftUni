@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Lato, sans-serif;
+    font-size: 14px;
+    line-height: 1.4;
+}
+
+body, input, select, textarea, option {
+    font: inherit;
+}
+
+body {
+    background-color: #CCC;
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    padding: 4em;
+}
+
+body > * {
+    width: 100%;
+}
+
+form {
+    max-width: 500px;
+    background-color: #FFF;
+    border-radius: 0.3em;
+    box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.1);
+    padding: 3em;
+}
+
+fieldset {
+    border: none;
+
+    legend {
+        font-size: 1.8em;
+        font-weight: bold;
+
+        &::after {
+            display: block;
+            content: '';
+            width: 100%;
+            height: 2px;
+            background-color: #CCC;
+            margin: 1em 0;
+        }
+    } 
+}
+
+.field{
+    padding-bottom: 1.5em;
+    & > label {
+        font-weight: bold;
+        display: block;
+    }
+
+    input[type="text"],
+    input[type="password"],
+    textarea {
+        border: 2px solid #CCC;
+        border-radius: 0.3em;
+        padding: 0.5em 0.8em;
+        display: block;
+        width: 100%;
+        outline: none;
+
+        &:focus {
+            border-color: #000      ;
+        }
+    }
+
+    &:has(:required) > label {
+        &::after {
+            display: inline-block;
+            content: '*';
+            color: #C00;
+            margin-left: 0.2em;
+        }
+    }    
+}
+
+button,
+.button,
+input[type="button"],
+input[type="submit"] {
+    display: block;
+    width: 100%;
+    text-align: center;
+    border: none;
+    padding: 0.5em 0.8em;
+    background-color: orange;
+    border-radius: 0.3em;
+    color: #FFF;
+    outline: none;   
+
+    &:focus {
+        background-color: darkorange;
+    }
+}
+
+input, button {
+    &:focus-visible {
+        outline: 2px solid orange;
+        outline-offset: 2px;
+    }
+}

@@ -1,0 +1,8 @@
+.section .inner {
+    background-color: #FFF;
+    border-radius: 0.3em;
+    box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.3);
+    max-width: 95ch;
+    margin: 0 auto;
+    padding: var(--fs-heading-6) var(--fs-heading-3);
+}

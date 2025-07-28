@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\BombHasBeenPlanted\bin\Debug\net6.0\BombHasBeenPlanted.exe
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\BombHasBeenPlanted\bin\Debug\net6.0\BombHasBeenPlanted.deps.json
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\BombHasBeenPlanted\bin\Debug\net6.0\BombHasBeenPlanted.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\BombHasBeenPlanted\bin\Debug\net6.0\BombHasBeenPlanted.dll
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\BombHasBeenPlanted\bin\Debug\net6.0\BombHasBeenPlanted.pdb
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\BombHasBeenPlanted\obj\Debug\net6.0\BombHasBeenPlanted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\BombHasBeenPlanted\obj\Debug\net6.0\BombHasBeenPlanted.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\BombHasBeenPlanted\obj\Debug\net6.0\BombHasBeenPlanted.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\BombHasBeenPlanted\obj\Debug\net6.0\BombHasBeenPlanted.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\BombHasBeenPlanted\obj\Debug\net6.0\BombHasBeenPlanted.dll
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\BombHasBeenPlanted\obj\Debug\net6.0\refint\BombHasBeenPlanted.dll
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\BombHasBeenPlanted\obj\Debug\net6.0\BombHasBeenPlanted.pdb
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\BombHasBeenPlanted\obj\Debug\net6.0\BombHasBeenPlanted.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\BombHasBeenPlanted\obj\Debug\net6.0\ref\BombHasBeenPlanted.dll

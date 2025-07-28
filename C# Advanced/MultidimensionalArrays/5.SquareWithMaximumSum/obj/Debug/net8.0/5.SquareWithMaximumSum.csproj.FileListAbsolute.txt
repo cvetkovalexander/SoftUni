@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\5.SquareWithMaximumSum\bin\Debug\net8.0\5.SquareWithMaximumSum.exe
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\5.SquareWithMaximumSum\bin\Debug\net8.0\5.SquareWithMaximumSum.deps.json
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\5.SquareWithMaximumSum\bin\Debug\net8.0\5.SquareWithMaximumSum.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\5.SquareWithMaximumSum\bin\Debug\net8.0\5.SquareWithMaximumSum.dll
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\5.SquareWithMaximumSum\bin\Debug\net8.0\5.SquareWithMaximumSum.pdb
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\5.SquareWithMaximumSum\obj\Debug\net8.0\5.SquareWithMaximumSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\5.SquareWithMaximumSum\obj\Debug\net8.0\5.SquareWithMaximumSum.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\5.SquareWithMaximumSum\obj\Debug\net8.0\5.SquareWithMaximumSum.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\5.SquareWithMaximumSum\obj\Debug\net8.0\5.SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\5.SquareWithMaximumSum\obj\Debug\net8.0\5.SquareWithMaximumSum.dll
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\5.SquareWithMaximumSum\obj\Debug\net8.0\refint\5.SquareWithMaximumSum.dll
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\5.SquareWithMaximumSum\obj\Debug\net8.0\5.SquareWithMaximumSum.pdb
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\5.SquareWithMaximumSum\obj\Debug\net8.0\5.SquareWithMaximumSum.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\4.MultidimensionalArrays-Lab\5.SquareWithMaximumSum\obj\Debug\net8.0\ref\5.SquareWithMaximumSum.dll

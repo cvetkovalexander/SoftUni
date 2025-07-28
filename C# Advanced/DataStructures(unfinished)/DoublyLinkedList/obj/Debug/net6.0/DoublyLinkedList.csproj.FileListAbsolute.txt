@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\DataStructures\DoublyLinkedList\bin\Debug\net6.0\DoublyLinkedList.exe
+C:\Users\Admin\Desktop\C# Advanced\DataStructures\DoublyLinkedList\bin\Debug\net6.0\DoublyLinkedList.deps.json
+C:\Users\Admin\Desktop\C# Advanced\DataStructures\DoublyLinkedList\bin\Debug\net6.0\DoublyLinkedList.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\DataStructures\DoublyLinkedList\bin\Debug\net6.0\DoublyLinkedList.dll
+C:\Users\Admin\Desktop\C# Advanced\DataStructures\DoublyLinkedList\bin\Debug\net6.0\DoublyLinkedList.pdb
+C:\Users\Admin\Desktop\C# Advanced\DataStructures\DoublyLinkedList\obj\Debug\net6.0\DoublyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\DataStructures\DoublyLinkedList\obj\Debug\net6.0\DoublyLinkedList.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\DataStructures\DoublyLinkedList\obj\Debug\net6.0\DoublyLinkedList.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\DataStructures\DoublyLinkedList\obj\Debug\net6.0\DoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\DataStructures\DoublyLinkedList\obj\Debug\net6.0\DoublyLinkedList.dll
+C:\Users\Admin\Desktop\C# Advanced\DataStructures\DoublyLinkedList\obj\Debug\net6.0\refint\DoublyLinkedList.dll
+C:\Users\Admin\Desktop\C# Advanced\DataStructures\DoublyLinkedList\obj\Debug\net6.0\DoublyLinkedList.pdb
+C:\Users\Admin\Desktop\C# Advanced\DataStructures\DoublyLinkedList\obj\Debug\net6.0\DoublyLinkedList.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\DataStructures\DoublyLinkedList\obj\Debug\net6.0\ref\DoublyLinkedList.dll

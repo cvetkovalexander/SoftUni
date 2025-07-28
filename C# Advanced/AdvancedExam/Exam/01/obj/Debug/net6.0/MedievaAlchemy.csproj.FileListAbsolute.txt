@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\AdvancedExam\Exam\01\bin\Debug\net6.0\MedievaAlchemy.exe
+C:\Users\Admin\Desktop\C# Advanced\AdvancedExam\Exam\01\bin\Debug\net6.0\MedievaAlchemy.deps.json
+C:\Users\Admin\Desktop\C# Advanced\AdvancedExam\Exam\01\bin\Debug\net6.0\MedievaAlchemy.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\AdvancedExam\Exam\01\bin\Debug\net6.0\MedievaAlchemy.dll
+C:\Users\Admin\Desktop\C# Advanced\AdvancedExam\Exam\01\bin\Debug\net6.0\MedievaAlchemy.pdb
+C:\Users\Admin\Desktop\C# Advanced\AdvancedExam\Exam\01\obj\Debug\net6.0\MedievaAlchemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\AdvancedExam\Exam\01\obj\Debug\net6.0\MedievaAlchemy.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\AdvancedExam\Exam\01\obj\Debug\net6.0\MedievaAlchemy.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\AdvancedExam\Exam\01\obj\Debug\net6.0\MedievaAlchemy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\AdvancedExam\Exam\01\obj\Debug\net6.0\MedievaAlchemy.dll
+C:\Users\Admin\Desktop\C# Advanced\AdvancedExam\Exam\01\obj\Debug\net6.0\refint\MedievaAlchemy.dll
+C:\Users\Admin\Desktop\C# Advanced\AdvancedExam\Exam\01\obj\Debug\net6.0\MedievaAlchemy.pdb
+C:\Users\Admin\Desktop\C# Advanced\AdvancedExam\Exam\01\obj\Debug\net6.0\MedievaAlchemy.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\AdvancedExam\Exam\01\obj\Debug\net6.0\ref\MedievaAlchemy.dll

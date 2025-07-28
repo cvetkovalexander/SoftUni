@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# Advanced\\Generics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{689DCE1D-51FD-4751-A127-4E29D474127A}|GenericScale\\GenericScale.csproj|c:\\users\\admin\\desktop\\c# advanced\\generics\\genericscale\\equalityscale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689DCE1D-51FD-4751-A127-4E29D474127A}|GenericScale\\GenericScale.csproj|solutionrelative:genericscale\\equalityscale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689DCE1D-51FD-4751-A127-4E29D474127A}|GenericScale\\GenericScale.csproj|c:\\users\\admin\\desktop\\c# advanced\\generics\\genericscale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689DCE1D-51FD-4751-A127-4E29D474127A}|GenericScale\\GenericScale.csproj|solutionrelative:genericscale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C566633-9716-4F9A-B317-94335A331A63}|GenericArrayCreator\\GenericArrayCreator.csproj|c:\\users\\admin\\desktop\\c# advanced\\generics\\genericarraycreator\\arraycreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C566633-9716-4F9A-B317-94335A331A63}|GenericArrayCreator\\GenericArrayCreator.csproj|solutionrelative:genericarraycreator\\arraycreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C566633-9716-4F9A-B317-94335A331A63}|GenericArrayCreator\\GenericArrayCreator.csproj|c:\\users\\admin\\desktop\\c# advanced\\generics\\genericarraycreator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C566633-9716-4F9A-B317-94335A331A63}|GenericArrayCreator\\GenericArrayCreator.csproj|solutionrelative:genericarraycreator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C50101-2710-44BF-A963-734875F8DB7F}|Box\\BoxOfT.csproj|c:\\users\\admin\\desktop\\c# advanced\\generics\\box\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C50101-2710-44BF-A963-734875F8DB7F}|Box\\BoxOfT.csproj|solutionrelative:box\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C50101-2710-44BF-A963-734875F8DB7F}|Box\\BoxOfT.csproj|c:\\users\\admin\\desktop\\c# advanced\\generics\\box\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C50101-2710-44BF-A963-734875F8DB7F}|Box\\BoxOfT.csproj|solutionrelative:box\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1217,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EqualityScale.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\Generics\\GenericScale\\EqualityScale.cs",
+              "RelativeDocumentMoniker": "GenericScale\\EqualityScale.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\Generics\\GenericScale\\EqualityScale.cs",
+              "RelativeToolTip": "GenericScale\\EqualityScale.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:54:57.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\Generics\\GenericScale\\Program.cs",
+              "RelativeDocumentMoniker": "GenericScale\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\Generics\\GenericScale\\Program.cs",
+              "RelativeToolTip": "GenericScale\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:54:17.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArrayCreator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\Generics\\GenericArrayCreator\\ArrayCreator.cs",
+              "RelativeDocumentMoniker": "GenericArrayCreator\\ArrayCreator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\Generics\\GenericArrayCreator\\ArrayCreator.cs",
+              "RelativeToolTip": "GenericArrayCreator\\ArrayCreator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:15:58.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\Generics\\Box\\Program.cs",
+              "RelativeDocumentMoniker": "Box\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\Generics\\Box\\Program.cs",
+              "RelativeToolTip": "Box\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:14:17.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\Generics\\Box\\Box.cs",
+              "RelativeDocumentMoniker": "Box\\Box.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\Generics\\Box\\Box.cs",
+              "RelativeToolTip": "Box\\Box.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:14:13.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\Generics\\GenericArrayCreator\\Program.cs",
+              "RelativeDocumentMoniker": "GenericArrayCreator\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\Generics\\GenericArrayCreator\\Program.cs",
+              "RelativeToolTip": "GenericArrayCreator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:14:06.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

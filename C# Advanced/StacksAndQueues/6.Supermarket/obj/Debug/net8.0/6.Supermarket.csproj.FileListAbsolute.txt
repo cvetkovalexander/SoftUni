@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\6.Supermarket\bin\Debug\net8.0\6.Supermarket.exe
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\6.Supermarket\bin\Debug\net8.0\6.Supermarket.deps.json
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\6.Supermarket\bin\Debug\net8.0\6.Supermarket.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\6.Supermarket\bin\Debug\net8.0\6.Supermarket.dll
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\6.Supermarket\bin\Debug\net8.0\6.Supermarket.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\6.Supermarket\obj\Debug\net8.0\6.Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\6.Supermarket\obj\Debug\net8.0\6.Supermarket.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\6.Supermarket\obj\Debug\net8.0\6.Supermarket.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\6.Supermarket\obj\Debug\net8.0\6.Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\6.Supermarket\obj\Debug\net8.0\6.Supermarket.dll
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\6.Supermarket\obj\Debug\net8.0\refint\6.Supermarket.dll
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\6.Supermarket\obj\Debug\net8.0\6.Supermarket.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\6.Supermarket\obj\Debug\net8.0\6.Supermarket.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\6.Supermarket\obj\Debug\net8.0\ref\6.Supermarket.dll

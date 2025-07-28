@@ -1,0 +1,31 @@
+.button-row {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 30px;
+}
+
+.btn {
+    padding: 10px 16px;
+    border: none;
+    background-color: #eee;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.btn.orange {
+    background-color: orange;
+    color: white;
+}
+
+.btn.green {
+    background-color: lightgoldenrodyellow;
+    border: 1px solid #CCC;
+}
+
+.btn.gray {
+    background-color: #ccc;
+}

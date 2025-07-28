@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Lato, sans-serif;
+    font-size: 14px;
+    line-height: 1.4;
+}
+
+body {
+    background: #CCC;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.section.quotes {
+    display: flex;
+    gap: 1.5em;
+}
+
+.section.quotes .main {
+    display: flex;
+    flex-direction: column;
+    gap: inherit;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.section.quotes .aside {
+    flex: 1 1 55ch;
+    display: flex;
+    flex-direction: column;
+    gap: inherit;
+}
+
+.section.quotes .aside > * {
+    flex-grow: 1;
+}
+
+.section.quotes .card {
+    background: white;
+    border-radius: 0.3em;
+    box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.2);
+    display: flex;
+    padding: 2em;
+    align-items: center;
+    gap: 1.5em;
+}
+
+.section.quotes .card .avatar {
+    flex: 0 0 15ch;
+    background: green;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.1);
+    border: 5px solid #fff;
+    overflow: hidden;
+}
+
+.section.quotes .card .avatar img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.section.quotes .card svg {
+    width: 4em;
+}
+
+.section.quotes .card p {
+    padding-bottom: 1.5em;
+    opacity: 0.5;
+}
+
+.section.quotes .aside .card {
+    flex-direction: column;
+    align-items: start;
+}
+
+.section.quotes .aside .card .avatar {
+    flex-basis: 12ch;
+    margin-top: 2em;
+}

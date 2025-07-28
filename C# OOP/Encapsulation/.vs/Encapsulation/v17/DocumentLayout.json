@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# OOP\\Encapsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25C6B2EF-B6FF-4100-84F8-5AB70EAE7738}|PersonsInfo\\PersonsInfo.csproj|c:\\users\\admin\\desktop\\c# oop\\encapsulation\\personsinfo\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C6B2EF-B6FF-4100-84F8-5AB70EAE7738}|PersonsInfo\\PersonsInfo.csproj|solutionrelative:personsinfo\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C6B2EF-B6FF-4100-84F8-5AB70EAE7738}|PersonsInfo\\PersonsInfo.csproj|c:\\users\\admin\\desktop\\c# oop\\encapsulation\\personsinfo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C6B2EF-B6FF-4100-84F8-5AB70EAE7738}|PersonsInfo\\PersonsInfo.csproj|solutionrelative:personsinfo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C6B2EF-B6FF-4100-84F8-5AB70EAE7738}|PersonsInfo\\PersonsInfo.csproj|c:\\users\\admin\\desktop\\c# oop\\encapsulation\\personsinfo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C6B2EF-B6FF-4100-84F8-5AB70EAE7738}|PersonsInfo\\PersonsInfo.csproj|solutionrelative:personsinfo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1217,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Encapsulation\\PersonsInfo\\Person.cs",
+              "RelativeDocumentMoniker": "PersonsInfo\\Person.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Encapsulation\\PersonsInfo\\Person.cs",
+              "RelativeToolTip": "PersonsInfo\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:05:39.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Encapsulation\\PersonsInfo\\Team.cs",
+              "RelativeDocumentMoniker": "PersonsInfo\\Team.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Encapsulation\\PersonsInfo\\Team.cs",
+              "RelativeToolTip": "PersonsInfo\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T14:47:09.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Encapsulation\\PersonsInfo\\StartUp.cs",
+              "RelativeDocumentMoniker": "PersonsInfo\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Encapsulation\\PersonsInfo\\StartUp.cs",
+              "RelativeToolTip": "PersonsInfo\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T10:37:38.381Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

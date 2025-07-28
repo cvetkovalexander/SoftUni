@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\05.CountSymbols\bin\Debug\net8.0\05.CountSymbols.exe
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\05.CountSymbols\bin\Debug\net8.0\05.CountSymbols.deps.json
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\05.CountSymbols\bin\Debug\net8.0\05.CountSymbols.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\05.CountSymbols\bin\Debug\net8.0\05.CountSymbols.dll
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\05.CountSymbols\bin\Debug\net8.0\05.CountSymbols.pdb
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\05.CountSymbols\obj\Debug\net8.0\05.CountSymbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\05.CountSymbols\obj\Debug\net8.0\05.CountSymbols.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\05.CountSymbols\obj\Debug\net8.0\05.CountSymbols.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\05.CountSymbols\obj\Debug\net8.0\05.CountSymbols.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\05.CountSymbols\obj\Debug\net8.0\05.CountSymbols.dll
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\05.CountSymbols\obj\Debug\net8.0\refint\05.CountSymbols.dll
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\05.CountSymbols\obj\Debug\net8.0\05.CountSymbols.pdb
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\05.CountSymbols\obj\Debug\net8.0\05.CountSymbols.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\05.CountSymbols\obj\Debug\net8.0\ref\05.CountSymbols.dll

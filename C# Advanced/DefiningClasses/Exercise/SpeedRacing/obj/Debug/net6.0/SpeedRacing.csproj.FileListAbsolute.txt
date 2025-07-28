@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\DefiningClasses\Exercise\SpeedRacing\bin\Debug\net6.0\SpeedRacing.exe
+C:\Users\Admin\Desktop\C# Advanced\DefiningClasses\Exercise\SpeedRacing\bin\Debug\net6.0\SpeedRacing.deps.json
+C:\Users\Admin\Desktop\C# Advanced\DefiningClasses\Exercise\SpeedRacing\bin\Debug\net6.0\SpeedRacing.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\DefiningClasses\Exercise\SpeedRacing\bin\Debug\net6.0\SpeedRacing.dll
+C:\Users\Admin\Desktop\C# Advanced\DefiningClasses\Exercise\SpeedRacing\bin\Debug\net6.0\SpeedRacing.pdb
+C:\Users\Admin\Desktop\C# Advanced\DefiningClasses\Exercise\SpeedRacing\obj\Debug\net6.0\SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\DefiningClasses\Exercise\SpeedRacing\obj\Debug\net6.0\SpeedRacing.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\DefiningClasses\Exercise\SpeedRacing\obj\Debug\net6.0\SpeedRacing.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\DefiningClasses\Exercise\SpeedRacing\obj\Debug\net6.0\SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\DefiningClasses\Exercise\SpeedRacing\obj\Debug\net6.0\SpeedRacing.dll
+C:\Users\Admin\Desktop\C# Advanced\DefiningClasses\Exercise\SpeedRacing\obj\Debug\net6.0\refint\SpeedRacing.dll
+C:\Users\Admin\Desktop\C# Advanced\DefiningClasses\Exercise\SpeedRacing\obj\Debug\net6.0\SpeedRacing.pdb
+C:\Users\Admin\Desktop\C# Advanced\DefiningClasses\Exercise\SpeedRacing\obj\Debug\net6.0\SpeedRacing.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\DefiningClasses\Exercise\SpeedRacing\obj\Debug\net6.0\ref\SpeedRacing.dll

@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Lato, sans-serif;
+    font-size: 12px;
+    line-height: 1.4;
+}
+
+body, input, select, textarea, option {
+    font: inherit;
+}
+
+body {
+    background-color: #CCC;
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    padding: 4em;
+}
+
+body > * {
+    width: 100%;
+}
+
+form {
+    max-width: 600px;
+    background-color: #FFF;
+    border-radius: 0.3em;
+    box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.1);
+    padding: 1em;
+    display: flex;
+    gap: 1em;
+    flex-wrap: wrap;
+
+    & > * {
+        flex: 1 1 auto;
+    }
+
+    & > *:nth-child(1) {
+        flex-basis: 10ch;
+    }
+
+    & > *:nth-child(2) {
+        flex-basis: 30ch;
+    }
+
+    & > *:nth-child(3) {
+        flex-basis: 8ch;
+    }
+}
+
+.field {
+    label {
+        display: none;
+    }
+
+    input[type="text"],
+    input[type="email"] {
+        width: 100%;
+        display: block;
+        padding: 0.7em 1.2em;
+        border: none;
+        background-color: #CCC;
+        border-radius: 0.3em;
+    }
+}
+
+button,
+.button,
+input[type="button"],
+input[type="submit"] {
+    display: block;
+    text-align: center;
+    border: none;
+    padding: 0.5em 0.8em;
+    background-color: orange;
+    border-radius: 0.3em;
+    color: #FFF;
+    outline: none;   
+
+    &:focus {
+        background-color: darkorange;
+    }
+}
+
+input, button {
+    &:focus-visible {
+        outline: 2px solid orange;
+        outline-offset: 2px;
+    }
+}

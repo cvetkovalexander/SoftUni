@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 1em;
+}
+
+.site-header,
+.site-footer,
+.site-content section {
+    padding: 2em 3em;
+    border: 1px solid grey;
+}
+
+.site-footer,
+.site-content section{
+    margin-top: 0.5em;
+}
+
+.site-title {
+    font-size: 1.4em;
+    font-weight: bold;
+    padding-bottom: 1rem;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+a {
+    color: darkblue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: darkgoldenrod;
+    text-decoration: underline; 
+}

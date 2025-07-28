@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\ZoneControlPanel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D79BA659-56A7-4687-8F23-B6A06A666FC8}|ZoneControlPanel.Tests\\ZoneControlPanel.Tests.csproj|c:\\users\\admin\\desktop\\zonecontrolpanel\\zonecontrolpanel.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79BA659-56A7-4687-8F23-B6A06A666FC8}|ZoneControlPanel.Tests\\ZoneControlPanel.Tests.csproj|solutionrelative:zonecontrolpanel.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890C89AF-8A25-40A4-9BAE-271926C973B3}|ZoneControlPanel\\ZoneControlPanel.csproj|c:\\users\\admin\\desktop\\zonecontrolpanel\\zonecontrolpanel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890C89AF-8A25-40A4-9BAE-271926C973B3}|ZoneControlPanel\\ZoneControlPanel.csproj|solutionrelative:zonecontrolpanel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890C89AF-8A25-40A4-9BAE-271926C973B3}|ZoneControlPanel\\ZoneControlPanel.csproj|c:\\users\\admin\\desktop\\zonecontrolpanel\\zonecontrolpanel\\controlpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890C89AF-8A25-40A4-9BAE-271926C973B3}|ZoneControlPanel\\ZoneControlPanel.csproj|solutionrelative:zonecontrolpanel\\controlpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890C89AF-8A25-40A4-9BAE-271926C973B3}|ZoneControlPanel\\ZoneControlPanel.csproj|c:\\users\\admin\\desktop\\zonecontrolpanel\\zonecontrolpanel\\securezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890C89AF-8A25-40A4-9BAE-271926C973B3}|ZoneControlPanel\\ZoneControlPanel.csproj|solutionrelative:zonecontrolpanel\\securezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ControlPanel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ZoneControlPanel\\ZoneControlPanel\\ControlPanel.cs",
+              "RelativeDocumentMoniker": "ZoneControlPanel\\ControlPanel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ZoneControlPanel\\ZoneControlPanel\\ControlPanel.cs",
+              "RelativeToolTip": "ZoneControlPanel\\ControlPanel.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwEUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T07:00:42.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ZoneControlPanel\\ZoneControlPanel\\Program.cs",
+              "RelativeDocumentMoniker": "ZoneControlPanel\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ZoneControlPanel\\ZoneControlPanel\\Program.cs",
+              "RelativeToolTip": "ZoneControlPanel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:58:05.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SecureZone.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ZoneControlPanel\\ZoneControlPanel\\SecureZone.cs",
+              "RelativeDocumentMoniker": "ZoneControlPanel\\SecureZone.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ZoneControlPanel\\ZoneControlPanel\\SecureZone.cs",
+              "RelativeToolTip": "ZoneControlPanel\\SecureZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:25:39.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ZoneControlPanel\\ZoneControlPanel.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ZoneControlPanel.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ZoneControlPanel\\ZoneControlPanel.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "ZoneControlPanel.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAuwGUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:23:35.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

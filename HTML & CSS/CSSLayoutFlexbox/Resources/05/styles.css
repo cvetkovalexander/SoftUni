@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 2em;
+}
+
+h1 {
+    margin-bottom: 1.2em;
+    font-weight: lighter;
+}
+
+[class*="align"] {
+    border: 2px solid blue;
+    display: flex;
+    width: 80%;
+    padding: 1.5em;
+    height: 200px;
+}
+
+.flex-item {
+    border: 3px solid black;
+    padding: 1.5em;
+    background-color: #CCC;
+}
+
+.align-start {
+    align-items: flex-start;
+}
+
+.align-end {
+    align-items: flex-end;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.align-baseline {
+    align-items: baseline;
+}

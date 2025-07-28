@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# Advanced\\Generics\\Exercise\\CustomLinkedList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F90B7BF-EA7C-4E95-B139-5DC85702EA5B}|CustomLinkedList\\CustomLinkedList.csproj|c:\\users\\admin\\desktop\\c# advanced\\generics\\exercise\\customlinkedlist\\customlinkedlist\\customgenericlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F90B7BF-EA7C-4E95-B139-5DC85702EA5B}|CustomLinkedList\\CustomLinkedList.csproj|solutionrelative:customlinkedlist\\customgenericlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F90B7BF-EA7C-4E95-B139-5DC85702EA5B}|CustomLinkedList\\CustomLinkedList.csproj|c:\\users\\admin\\desktop\\c# advanced\\generics\\exercise\\customlinkedlist\\customlinkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F90B7BF-EA7C-4E95-B139-5DC85702EA5B}|CustomLinkedList\\CustomLinkedList.csproj|solutionrelative:customlinkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F90B7BF-EA7C-4E95-B139-5DC85702EA5B}|CustomLinkedList\\CustomLinkedList.csproj|c:\\users\\admin\\desktop\\c# advanced\\generics\\exercise\\customlinkedlist\\customlinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F90B7BF-EA7C-4E95-B139-5DC85702EA5B}|CustomLinkedList\\CustomLinkedList.csproj|solutionrelative:customlinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1217,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomGenericLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\Generics\\Exercise\\CustomLinkedList\\CustomLinkedList\\CustomGenericLinkedList.cs",
+              "RelativeDocumentMoniker": "CustomLinkedList\\CustomGenericLinkedList.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\Generics\\Exercise\\CustomLinkedList\\CustomLinkedList\\CustomGenericLinkedList.cs",
+              "RelativeToolTip": "CustomLinkedList\\CustomGenericLinkedList.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAuwF0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T20:00:24.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\Generics\\Exercise\\CustomLinkedList\\CustomLinkedList\\Node.cs",
+              "RelativeDocumentMoniker": "CustomLinkedList\\Node.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\Generics\\Exercise\\CustomLinkedList\\CustomLinkedList\\Node.cs",
+              "RelativeToolTip": "CustomLinkedList\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T19:59:46.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\Generics\\Exercise\\CustomLinkedList\\CustomLinkedList\\Program.cs",
+              "RelativeDocumentMoniker": "CustomLinkedList\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\Generics\\Exercise\\CustomLinkedList\\CustomLinkedList\\Program.cs",
+              "RelativeToolTip": "CustomLinkedList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T19:59:34.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

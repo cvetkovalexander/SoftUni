@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\09.SoftUniExamResults\09.SoftUniExamResults\bin\Debug\net8.0\09.SoftUniExamResults.exe
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\09.SoftUniExamResults\09.SoftUniExamResults\bin\Debug\net8.0\09.SoftUniExamResults.deps.json
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\09.SoftUniExamResults\09.SoftUniExamResults\bin\Debug\net8.0\09.SoftUniExamResults.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\09.SoftUniExamResults\09.SoftUniExamResults\bin\Debug\net8.0\09.SoftUniExamResults.dll
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\09.SoftUniExamResults\09.SoftUniExamResults\bin\Debug\net8.0\09.SoftUniExamResults.pdb
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\09.SoftUniExamResults\09.SoftUniExamResults\obj\Debug\net8.0\09.SoftUniExamResults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\09.SoftUniExamResults\09.SoftUniExamResults\obj\Debug\net8.0\09.SoftUniExamResults.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\09.SoftUniExamResults\09.SoftUniExamResults\obj\Debug\net8.0\09.SoftUniExamResults.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\09.SoftUniExamResults\09.SoftUniExamResults\obj\Debug\net8.0\09.SoftUniExamResults.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\09.SoftUniExamResults\09.SoftUniExamResults\obj\Debug\net8.0\09.SoftUniExamResults.dll
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\09.SoftUniExamResults\09.SoftUniExamResults\obj\Debug\net8.0\refint\09.SoftUniExamResults.dll
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\09.SoftUniExamResults\09.SoftUniExamResults\obj\Debug\net8.0\09.SoftUniExamResults.pdb
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\09.SoftUniExamResults\09.SoftUniExamResults\obj\Debug\net8.0\09.SoftUniExamResults.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\09.SoftUniExamResults\09.SoftUniExamResults\obj\Debug\net8.0\ref\09.SoftUniExamResults.dll

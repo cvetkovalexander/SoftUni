@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\1.ReverseAString\bin\Debug\net8.0\1.ReverseAString.exe
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\1.ReverseAString\bin\Debug\net8.0\1.ReverseAString.deps.json
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\1.ReverseAString\bin\Debug\net8.0\1.ReverseAString.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\1.ReverseAString\bin\Debug\net8.0\1.ReverseAString.dll
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\1.ReverseAString\bin\Debug\net8.0\1.ReverseAString.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\1.ReverseAString\obj\Debug\net8.0\1.ReverseAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\1.ReverseAString\obj\Debug\net8.0\1.ReverseAString.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\1.ReverseAString\obj\Debug\net8.0\1.ReverseAString.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\1.ReverseAString\obj\Debug\net8.0\1.ReverseAString.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\1.ReverseAString\obj\Debug\net8.0\1.ReverseAString.dll
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\1.ReverseAString\obj\Debug\net8.0\refint\1.ReverseAString.dll
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\1.ReverseAString\obj\Debug\net8.0\1.ReverseAString.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\1.ReverseAString\obj\Debug\net8.0\1.ReverseAString.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\1.ReverseAString\obj\Debug\net8.0\ref\1.ReverseAString.dll

@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\02.SetsOfElements\bin\Debug\net8.0\02.SetsOfElements.exe
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\02.SetsOfElements\bin\Debug\net8.0\02.SetsOfElements.deps.json
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\02.SetsOfElements\bin\Debug\net8.0\02.SetsOfElements.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\02.SetsOfElements\bin\Debug\net8.0\02.SetsOfElements.dll
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\02.SetsOfElements\bin\Debug\net8.0\02.SetsOfElements.pdb
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\02.SetsOfElements\obj\Debug\net8.0\02.SetsOfElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\02.SetsOfElements\obj\Debug\net8.0\02.SetsOfElements.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\02.SetsOfElements\obj\Debug\net8.0\02.SetsOfElements.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\02.SetsOfElements\obj\Debug\net8.0\02.SetsOfElements.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\02.SetsOfElements\obj\Debug\net8.0\02.SetsOfElements.dll
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\02.SetsOfElements\obj\Debug\net8.0\refint\02.SetsOfElements.dll
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\02.SetsOfElements\obj\Debug\net8.0\02.SetsOfElements.pdb
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\02.SetsOfElements\obj\Debug\net8.0\02.SetsOfElements.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\5.SetsAndDictionariesAdvanced-Lab\Exercise\02.SetsOfElements\obj\Debug\net8.0\ref\02.SetsOfElements.dll

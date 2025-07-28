@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\CyberSecurityDS-Skeleton\SecureOpsSystem-Skeleton\SecureOpsSystem\bin\Debug\net6.0\SecureOpsSystem.exe
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\CyberSecurityDS-Skeleton\SecureOpsSystem-Skeleton\SecureOpsSystem\bin\Debug\net6.0\SecureOpsSystem.deps.json
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\CyberSecurityDS-Skeleton\SecureOpsSystem-Skeleton\SecureOpsSystem\bin\Debug\net6.0\SecureOpsSystem.runtimeconfig.json
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\CyberSecurityDS-Skeleton\SecureOpsSystem-Skeleton\SecureOpsSystem\bin\Debug\net6.0\SecureOpsSystem.dll
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\CyberSecurityDS-Skeleton\SecureOpsSystem-Skeleton\SecureOpsSystem\bin\Debug\net6.0\SecureOpsSystem.pdb
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\CyberSecurityDS-Skeleton\SecureOpsSystem-Skeleton\SecureOpsSystem\obj\Debug\net6.0\SecureOpsSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\CyberSecurityDS-Skeleton\SecureOpsSystem-Skeleton\SecureOpsSystem\obj\Debug\net6.0\SecureOpsSystem.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\CyberSecurityDS-Skeleton\SecureOpsSystem-Skeleton\SecureOpsSystem\obj\Debug\net6.0\SecureOpsSystem.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\CyberSecurityDS-Skeleton\SecureOpsSystem-Skeleton\SecureOpsSystem\obj\Debug\net6.0\SecureOpsSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\CyberSecurityDS-Skeleton\SecureOpsSystem-Skeleton\SecureOpsSystem\obj\Debug\net6.0\SecureOpsSystem.dll
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\CyberSecurityDS-Skeleton\SecureOpsSystem-Skeleton\SecureOpsSystem\obj\Debug\net6.0\refint\SecureOpsSystem.dll
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\CyberSecurityDS-Skeleton\SecureOpsSystem-Skeleton\SecureOpsSystem\obj\Debug\net6.0\SecureOpsSystem.pdb
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\CyberSecurityDS-Skeleton\SecureOpsSystem-Skeleton\SecureOpsSystem\obj\Debug\net6.0\SecureOpsSystem.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# OOP\ExamPreparation\CyberSecurityDS-Skeleton\SecureOpsSystem-Skeleton\SecureOpsSystem\obj\Debug\net6.0\ref\SecureOpsSystem.dll

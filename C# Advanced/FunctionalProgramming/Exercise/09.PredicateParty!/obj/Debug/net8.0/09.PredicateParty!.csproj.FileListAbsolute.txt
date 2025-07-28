@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\09.PredicateParty!\bin\Debug\net8.0\09.PredicateParty!.exe
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\09.PredicateParty!\bin\Debug\net8.0\09.PredicateParty!.deps.json
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\09.PredicateParty!\bin\Debug\net8.0\09.PredicateParty!.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\09.PredicateParty!\bin\Debug\net8.0\09.PredicateParty!.dll
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\09.PredicateParty!\bin\Debug\net8.0\09.PredicateParty!.pdb
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\09.PredicateParty!\obj\Debug\net8.0\09.PredicateParty!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\09.PredicateParty!\obj\Debug\net8.0\09.PredicateParty!.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\09.PredicateParty!\obj\Debug\net8.0\09.PredicateParty!.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\09.PredicateParty!\obj\Debug\net8.0\09.PredicateParty!.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\09.PredicateParty!\obj\Debug\net8.0\09.PredicateParty!.dll
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\09.PredicateParty!\obj\Debug\net8.0\refint\09.PredicateParty!.dll
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\09.PredicateParty!\obj\Debug\net8.0\09.PredicateParty!.pdb
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\09.PredicateParty!\obj\Debug\net8.0\09.PredicateParty!.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\09.PredicateParty!\obj\Debug\net8.0\ref\09.PredicateParty!.dll

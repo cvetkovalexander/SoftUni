@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# OOP\\SOLID\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC94D6F-F21D-4FAA-8B99-28135207C240}|Logger\\Logging.csproj|c:\\users\\admin\\desktop\\c# oop\\solid\\logger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC94D6F-F21D-4FAA-8B99-28135207C240}|Logger\\Logging.csproj|solutionrelative:logger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC94D6F-F21D-4FAA-8B99-28135207C240}|Logger\\Logging.csproj|c:\\users\\admin\\desktop\\c# oop\\solid\\logger\\models\\consoleappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC94D6F-F21D-4FAA-8B99-28135207C240}|Logger\\Logging.csproj|solutionrelative:logger\\models\\consoleappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC94D6F-F21D-4FAA-8B99-28135207C240}|Logger\\Logging.csproj|c:\\users\\admin\\desktop\\c# oop\\solid\\logger\\models\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC94D6F-F21D-4FAA-8B99-28135207C240}|Logger\\Logging.csproj|solutionrelative:logger\\models\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC94D6F-F21D-4FAA-8B99-28135207C240}|Logger\\Logging.csproj|c:\\users\\admin\\desktop\\c# oop\\solid\\logger\\models\\fileappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC94D6F-F21D-4FAA-8B99-28135207C240}|Logger\\Logging.csproj|solutionrelative:logger\\models\\fileappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC94D6F-F21D-4FAA-8B99-28135207C240}|Logger\\Logging.csproj|c:\\users\\admin\\desktop\\c# oop\\solid\\logger\\abstraction\\baseappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC94D6F-F21D-4FAA-8B99-28135207C240}|Logger\\Logging.csproj|solutionrelative:logger\\abstraction\\baseappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC94D6F-F21D-4FAA-8B99-28135207C240}|Logger\\Logging.csproj|c:\\users\\admin\\desktop\\c# oop\\solid\\logger\\abstraction\\iinitializable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC94D6F-F21D-4FAA-8B99-28135207C240}|Logger\\Logging.csproj|solutionrelative:logger\\abstraction\\iinitializable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC94D6F-F21D-4FAA-8B99-28135207C240}|Logger\\Logging.csproj|c:\\users\\admin\\desktop\\c# oop\\solid\\logger\\abstraction\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC94D6F-F21D-4FAA-8B99-28135207C240}|Logger\\Logging.csproj|solutionrelative:logger\\abstraction\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC94D6F-F21D-4FAA-8B99-28135207C240}|Logger\\Logging.csproj|c:\\users\\admin\\desktop\\c# oop\\solid\\logger\\abstraction\\iappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC94D6F-F21D-4FAA-8B99-28135207C240}|Logger\\Logging.csproj|solutionrelative:logger\\abstraction\\iappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC94D6F-F21D-4FAA-8B99-28135207C240}|Logger\\Logging.csproj|c:\\users\\admin\\desktop\\c# oop\\solid\\logger\\models\\logmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC94D6F-F21D-4FAA-8B99-28135207C240}|Logger\\Logging.csproj|solutionrelative:logger\\models\\logmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC94D6F-F21D-4FAA-8B99-28135207C240}|Logger\\Logging.csproj|c:\\users\\admin\\desktop\\c# oop\\solid\\logger\\models\\simplelogmessageformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC94D6F-F21D-4FAA-8B99-28135207C240}|Logger\\Logging.csproj|solutionrelative:logger\\models\\simplelogmessageformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC94D6F-F21D-4FAA-8B99-28135207C240}|Logger\\Logging.csproj|c:\\users\\admin\\desktop\\c# oop\\solid\\logger\\models\\jsonlogmessageformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC94D6F-F21D-4FAA-8B99-28135207C240}|Logger\\Logging.csproj|solutionrelative:logger\\models\\jsonlogmessageformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC94D6F-F21D-4FAA-8B99-28135207C240}|Logger\\Logging.csproj|c:\\users\\admin\\desktop\\c# oop\\solid\\logger\\abstraction\\iformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC94D6F-F21D-4FAA-8B99-28135207C240}|Logger\\Logging.csproj|solutionrelative:logger\\abstraction\\iformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D58BF1-EDC5-46F4-82DF-A47D27CF8F5D}|Demo\\Demo.csproj|c:\\users\\admin\\desktop\\c# oop\\solid\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D58BF1-EDC5-46F4-82DF-A47D27CF8F5D}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC94D6F-F21D-4FAA-8B99-28135207C240}|Logger\\Logging.csproj|c:\\users\\admin\\desktop\\c# oop\\solid\\logger\\models\\xmllogmessageformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC94D6F-F21D-4FAA-8B99-28135207C240}|Logger\\Logging.csproj|solutionrelative:logger\\models\\xmllogmessageformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC94D6F-F21D-4FAA-8B99-28135207C240}|Logger\\Logging.csproj|c:\\users\\admin\\desktop\\c# oop\\solid\\logger\\enums\\reportlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC94D6F-F21D-4FAA-8B99-28135207C240}|Logger\\Logging.csproj|solutionrelative:logger\\enums\\reportlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1217,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IInitializable.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\SOLID\\Logger\\Abstraction\\IInitializable.cs",
+              "RelativeDocumentMoniker": "Logger\\Abstraction\\IInitializable.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\SOLID\\Logger\\Abstraction\\IInitializable.cs",
+              "RelativeToolTip": "Logger\\Abstraction\\IInitializable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:36:55.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileAppender.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\SOLID\\Logger\\Models\\FileAppender.cs",
+              "RelativeDocumentMoniker": "Logger\\Models\\FileAppender.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\SOLID\\Logger\\Models\\FileAppender.cs",
+              "RelativeToolTip": "Logger\\Models\\FileAppender.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:48:42.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\SOLID\\Logger\\Models\\Logger.cs",
+              "RelativeDocumentMoniker": "Logger\\Models\\Logger.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\SOLID\\Logger\\Models\\Logger.cs",
+              "RelativeToolTip": "Logger\\Models\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:33:52.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseAppender.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\SOLID\\Logger\\Abstraction\\BaseAppender.cs",
+              "RelativeDocumentMoniker": "Logger\\Abstraction\\BaseAppender.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\SOLID\\Logger\\Abstraction\\BaseAppender.cs",
+              "RelativeToolTip": "Logger\\Abstraction\\BaseAppender.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:27:35.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAppender.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\SOLID\\Logger\\Abstraction\\IAppender.cs",
+              "RelativeDocumentMoniker": "Logger\\Abstraction\\IAppender.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\SOLID\\Logger\\Abstraction\\IAppender.cs",
+              "RelativeToolTip": "Logger\\Abstraction\\IAppender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:22:11.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\SOLID\\Logger\\Abstraction\\IFormatter.cs",
+              "RelativeDocumentMoniker": "Logger\\Abstraction\\IFormatter.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\SOLID\\Logger\\Abstraction\\IFormatter.cs",
+              "RelativeToolTip": "Logger\\Abstraction\\IFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:05:32.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\SOLID\\Logger\\Program.cs",
+              "RelativeDocumentMoniker": "Logger\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\SOLID\\Logger\\Program.cs",
+              "RelativeToolTip": "Logger\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAIAwwDUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:03:52.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleAppender.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\SOLID\\Logger\\Models\\ConsoleAppender.cs",
+              "RelativeDocumentMoniker": "Logger\\Models\\ConsoleAppender.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\SOLID\\Logger\\Models\\ConsoleAppender.cs",
+              "RelativeToolTip": "Logger\\Models\\ConsoleAppender.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAewBgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:31:22.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JsonLogMessageFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\SOLID\\Logger\\Models\\JsonLogMessageFormatter.cs",
+              "RelativeDocumentMoniker": "Logger\\Models\\JsonLogMessageFormatter.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\SOLID\\Logger\\Models\\JsonLogMessageFormatter.cs",
+              "RelativeToolTip": "Logger\\Models\\JsonLogMessageFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:57:47.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SimpleLogMessageFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\SOLID\\Logger\\Models\\SimpleLogMessageFormatter.cs",
+              "RelativeDocumentMoniker": "Logger\\Models\\SimpleLogMessageFormatter.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\SOLID\\Logger\\Models\\SimpleLogMessageFormatter.cs",
+              "RelativeToolTip": "Logger\\Models\\SimpleLogMessageFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:25:04.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\SOLID\\Logger\\Abstraction\\ILogger.cs",
+              "RelativeDocumentMoniker": "Logger\\Abstraction\\ILogger.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\SOLID\\Logger\\Abstraction\\ILogger.cs",
+              "RelativeToolTip": "Logger\\Abstraction\\ILogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:22:52.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LogMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\SOLID\\Logger\\Models\\LogMessage.cs",
+              "RelativeDocumentMoniker": "Logger\\Models\\LogMessage.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\SOLID\\Logger\\Models\\LogMessage.cs",
+              "RelativeToolTip": "Logger\\Models\\LogMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:06:57.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\SOLID\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\SOLID\\Demo\\Program.cs",
+              "RelativeToolTip": "Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:22:49.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReportLevel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\SOLID\\Logger\\Enums\\ReportLevel.cs",
+              "RelativeDocumentMoniker": "Logger\\Enums\\ReportLevel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\SOLID\\Logger\\Enums\\ReportLevel.cs",
+              "RelativeToolTip": "Logger\\Enums\\ReportLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:08:46.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "XmlLogMessageFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\SOLID\\Logger\\Models\\XmlLogMessageFormatter.cs",
+              "RelativeDocumentMoniker": "Logger\\Models\\XmlLogMessageFormatter.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\SOLID\\Logger\\Models\\XmlLogMessageFormatter.cs",
+              "RelativeToolTip": "Logger\\Models\\XmlLogMessageFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAhwAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:52:49.756Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

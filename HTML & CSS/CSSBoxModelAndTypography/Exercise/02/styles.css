@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 3px solid rgb(85, 205, 85);
+    padding: 2em;
+}
+
+.site {
+    max-width: 66ch;
+    margin: 0em auto;
+    border: 3px solid blue;
+}
+
+.site > * {
+    padding: 2em;
+    margin: 1.5em;
+    border: 3px solid black;
+    font-weight: bold;
+    text-align: center;
+}

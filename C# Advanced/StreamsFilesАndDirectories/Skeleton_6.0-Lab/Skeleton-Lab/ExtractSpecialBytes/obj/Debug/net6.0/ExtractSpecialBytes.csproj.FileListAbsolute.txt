@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Skeleton_6.0-Lab\Skeleton-Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.exe
+C:\Users\Admin\Desktop\Skeleton_6.0-Lab\Skeleton-Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.deps.json
+C:\Users\Admin\Desktop\Skeleton_6.0-Lab\Skeleton-Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.runtimeconfig.json
+C:\Users\Admin\Desktop\Skeleton_6.0-Lab\Skeleton-Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.dll
+C:\Users\Admin\Desktop\Skeleton_6.0-Lab\Skeleton-Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.pdb
+C:\Users\Admin\Desktop\Skeleton_6.0-Lab\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Skeleton_6.0-Lab\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Skeleton_6.0-Lab\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Skeleton_6.0-Lab\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Skeleton_6.0-Lab\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.dll
+C:\Users\Admin\Desktop\Skeleton_6.0-Lab\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\refint\ExtractSpecialBytes.dll
+C:\Users\Admin\Desktop\Skeleton_6.0-Lab\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.pdb
+C:\Users\Admin\Desktop\Skeleton_6.0-Lab\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Skeleton_6.0-Lab\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ref\ExtractSpecialBytes.dll

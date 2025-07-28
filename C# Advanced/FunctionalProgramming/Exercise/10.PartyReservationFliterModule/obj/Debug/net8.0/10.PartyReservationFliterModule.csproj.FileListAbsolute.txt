@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\10.PartyReservationFliterModule\bin\Debug\net8.0\10.PartyReservationFliterModule.exe
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\10.PartyReservationFliterModule\bin\Debug\net8.0\10.PartyReservationFliterModule.deps.json
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\10.PartyReservationFliterModule\bin\Debug\net8.0\10.PartyReservationFliterModule.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\10.PartyReservationFliterModule\bin\Debug\net8.0\10.PartyReservationFliterModule.dll
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\10.PartyReservationFliterModule\bin\Debug\net8.0\10.PartyReservationFliterModule.pdb
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\10.PartyReservationFliterModule\obj\Debug\net8.0\10.PartyReservationFliterModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\10.PartyReservationFliterModule\obj\Debug\net8.0\10.PartyReservationFliterModule.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\10.PartyReservationFliterModule\obj\Debug\net8.0\10.PartyReservationFliterModule.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\10.PartyReservationFliterModule\obj\Debug\net8.0\10.PartyReservationFliterModule.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\10.PartyReservationFliterModule\obj\Debug\net8.0\10.PartyReservationFliterModule.dll
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\10.PartyReservationFliterModule\obj\Debug\net8.0\refint\10.PartyReservationFliterModule.dll
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\10.PartyReservationFliterModule\obj\Debug\net8.0\10.PartyReservationFliterModule.pdb
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\10.PartyReservationFliterModule\obj\Debug\net8.0\10.PartyReservationFliterModule.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\10.PartyReservationFliterModule\obj\Debug\net8.0\ref\10.PartyReservationFliterModule.dll

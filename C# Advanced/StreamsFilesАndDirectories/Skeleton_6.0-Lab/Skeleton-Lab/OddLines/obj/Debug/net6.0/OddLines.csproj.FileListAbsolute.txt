@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Skeleton_6.0-Lab\Skeleton-Lab\OddLines\bin\Debug\net6.0\OddLines.exe
+C:\Users\Admin\Desktop\Skeleton_6.0-Lab\Skeleton-Lab\OddLines\bin\Debug\net6.0\OddLines.deps.json
+C:\Users\Admin\Desktop\Skeleton_6.0-Lab\Skeleton-Lab\OddLines\bin\Debug\net6.0\OddLines.runtimeconfig.json
+C:\Users\Admin\Desktop\Skeleton_6.0-Lab\Skeleton-Lab\OddLines\bin\Debug\net6.0\OddLines.dll
+C:\Users\Admin\Desktop\Skeleton_6.0-Lab\Skeleton-Lab\OddLines\bin\Debug\net6.0\OddLines.pdb
+C:\Users\Admin\Desktop\Skeleton_6.0-Lab\Skeleton-Lab\OddLines\obj\Debug\net6.0\OddLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Skeleton_6.0-Lab\Skeleton-Lab\OddLines\obj\Debug\net6.0\OddLines.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Skeleton_6.0-Lab\Skeleton-Lab\OddLines\obj\Debug\net6.0\OddLines.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Skeleton_6.0-Lab\Skeleton-Lab\OddLines\obj\Debug\net6.0\OddLines.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Skeleton_6.0-Lab\Skeleton-Lab\OddLines\obj\Debug\net6.0\OddLines.dll
+C:\Users\Admin\Desktop\Skeleton_6.0-Lab\Skeleton-Lab\OddLines\obj\Debug\net6.0\refint\OddLines.dll
+C:\Users\Admin\Desktop\Skeleton_6.0-Lab\Skeleton-Lab\OddLines\obj\Debug\net6.0\OddLines.pdb
+C:\Users\Admin\Desktop\Skeleton_6.0-Lab\Skeleton-Lab\OddLines\obj\Debug\net6.0\OddLines.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Skeleton_6.0-Lab\Skeleton-Lab\OddLines\obj\Debug\net6.0\ref\OddLines.dll

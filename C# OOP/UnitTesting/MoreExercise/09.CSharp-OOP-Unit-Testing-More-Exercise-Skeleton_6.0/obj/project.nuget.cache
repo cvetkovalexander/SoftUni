@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "elqOwP7rBtA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\C# OOP\\UnitTesting\\MoreExercise\\09.CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\\Collections.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

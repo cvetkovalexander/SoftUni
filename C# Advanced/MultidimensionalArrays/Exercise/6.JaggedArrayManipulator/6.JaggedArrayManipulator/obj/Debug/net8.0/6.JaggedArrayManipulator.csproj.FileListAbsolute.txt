@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\6.JaggedArrayManipulator\6.JaggedArrayManipulator\bin\Debug\net8.0\6.JaggedArrayManipulator.exe
+C:\Users\Admin\Desktop\C# Advanced\6.JaggedArrayManipulator\6.JaggedArrayManipulator\bin\Debug\net8.0\6.JaggedArrayManipulator.deps.json
+C:\Users\Admin\Desktop\C# Advanced\6.JaggedArrayManipulator\6.JaggedArrayManipulator\bin\Debug\net8.0\6.JaggedArrayManipulator.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\6.JaggedArrayManipulator\6.JaggedArrayManipulator\bin\Debug\net8.0\6.JaggedArrayManipulator.dll
+C:\Users\Admin\Desktop\C# Advanced\6.JaggedArrayManipulator\6.JaggedArrayManipulator\bin\Debug\net8.0\6.JaggedArrayManipulator.pdb
+C:\Users\Admin\Desktop\C# Advanced\6.JaggedArrayManipulator\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\6.JaggedArrayManipulator\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\6.JaggedArrayManipulator\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\6.JaggedArrayManipulator\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\6.JaggedArrayManipulator\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.dll
+C:\Users\Admin\Desktop\C# Advanced\6.JaggedArrayManipulator\6.JaggedArrayManipulator\obj\Debug\net8.0\refint\6.JaggedArrayManipulator.dll
+C:\Users\Admin\Desktop\C# Advanced\6.JaggedArrayManipulator\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.pdb
+C:\Users\Admin\Desktop\C# Advanced\6.JaggedArrayManipulator\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\6.JaggedArrayManipulator\6.JaggedArrayManipulator\obj\Debug\net8.0\ref\6.JaggedArrayManipulator.dll

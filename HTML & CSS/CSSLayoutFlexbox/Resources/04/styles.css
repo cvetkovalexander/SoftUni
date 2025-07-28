@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 2em;
+}
+
+h1 {
+    margin-bottom: 1.2em;
+    font-weight: lighter;
+}
+
+[class^="justify"] {
+    border: 2px solid blue;
+    display: flex;
+    width: 80%;
+    padding: 1.5em;
+}
+
+.flex-item {
+    border: 3px solid black;
+    padding: 1.5em;
+    background-color: #CCC;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.justify-content-end {
+    justify-content: end;
+}
+
+.justify-content-space-between {
+    justify-content: space-between;
+}
+
+.justify-content-space-around {
+    justify-content: space-around;
+}
+
+.justify-content-space-evenly {
+    justify-content: space-evenly;
+}

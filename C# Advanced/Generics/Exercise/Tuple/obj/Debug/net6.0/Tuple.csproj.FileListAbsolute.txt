@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\Generics\Exercise\Tuple\bin\Debug\net6.0\Tuple.exe
+C:\Users\Admin\Desktop\C# Advanced\Generics\Exercise\Tuple\bin\Debug\net6.0\Tuple.deps.json
+C:\Users\Admin\Desktop\C# Advanced\Generics\Exercise\Tuple\bin\Debug\net6.0\Tuple.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\Generics\Exercise\Tuple\bin\Debug\net6.0\Tuple.dll
+C:\Users\Admin\Desktop\C# Advanced\Generics\Exercise\Tuple\bin\Debug\net6.0\Tuple.pdb
+C:\Users\Admin\Desktop\C# Advanced\Generics\Exercise\Tuple\obj\Debug\net6.0\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\Generics\Exercise\Tuple\obj\Debug\net6.0\Tuple.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\Generics\Exercise\Tuple\obj\Debug\net6.0\Tuple.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\Generics\Exercise\Tuple\obj\Debug\net6.0\Tuple.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\Generics\Exercise\Tuple\obj\Debug\net6.0\Tuple.dll
+C:\Users\Admin\Desktop\C# Advanced\Generics\Exercise\Tuple\obj\Debug\net6.0\refint\Tuple.dll
+C:\Users\Admin\Desktop\C# Advanced\Generics\Exercise\Tuple\obj\Debug\net6.0\Tuple.pdb
+C:\Users\Admin\Desktop\C# Advanced\Generics\Exercise\Tuple\obj\Debug\net6.0\Tuple.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\Generics\Exercise\Tuple\obj\Debug\net6.0\ref\Tuple.dll

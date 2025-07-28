@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# Advanced\\DefiningClasses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83049925-B141-4182-94E9-9B564F9DC0FC}|CarManufacturer\\CarManufacturer.csproj|c:\\users\\admin\\desktop\\c# advanced\\definingclasses\\carmanufacturer\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83049925-B141-4182-94E9-9B564F9DC0FC}|CarManufacturer\\CarManufacturer.csproj|solutionrelative:carmanufacturer\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83049925-B141-4182-94E9-9B564F9DC0FC}|CarManufacturer\\CarManufacturer.csproj|c:\\users\\admin\\desktop\\c# advanced\\definingclasses\\carmanufacturer\\tire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83049925-B141-4182-94E9-9B564F9DC0FC}|CarManufacturer\\CarManufacturer.csproj|solutionrelative:carmanufacturer\\tire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83049925-B141-4182-94E9-9B564F9DC0FC}|CarManufacturer\\CarManufacturer.csproj|c:\\users\\admin\\desktop\\c# advanced\\definingclasses\\carmanufacturer\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83049925-B141-4182-94E9-9B564F9DC0FC}|CarManufacturer\\CarManufacturer.csproj|solutionrelative:carmanufacturer\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83049925-B141-4182-94E9-9B564F9DC0FC}|CarManufacturer\\CarManufacturer.csproj|c:\\users\\admin\\desktop\\c# advanced\\definingclasses\\carmanufacturer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83049925-B141-4182-94E9-9B564F9DC0FC}|CarManufacturer\\CarManufacturer.csproj|solutionrelative:carmanufacturer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1217,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tire.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\DefiningClasses\\CarManufacturer\\Tire.cs",
+              "RelativeDocumentMoniker": "CarManufacturer\\Tire.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\DefiningClasses\\CarManufacturer\\Tire.cs",
+              "RelativeToolTip": "CarManufacturer\\Tire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:25:32.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\DefiningClasses\\CarManufacturer\\Engine.cs",
+              "RelativeDocumentMoniker": "CarManufacturer\\Engine.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\DefiningClasses\\CarManufacturer\\Engine.cs",
+              "RelativeToolTip": "CarManufacturer\\Engine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:23:53.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\DefiningClasses\\CarManufacturer\\Car.cs",
+              "RelativeDocumentMoniker": "CarManufacturer\\Car.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\DefiningClasses\\CarManufacturer\\Car.cs",
+              "RelativeToolTip": "CarManufacturer\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T13:58:17.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\DefiningClasses\\CarManufacturer\\Program.cs",
+              "RelativeDocumentMoniker": "CarManufacturer\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\DefiningClasses\\CarManufacturer\\Program.cs",
+              "RelativeToolTip": "CarManufacturer\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T13:57:02.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

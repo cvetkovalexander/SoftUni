@@ -1,0 +1,48 @@
+.button {
+    display: inline-block;
+    border: none;
+    background-color: purple;
+    color: #FFF;
+    text-decoration: none;
+    outline: none;
+    padding: 0.5em 1.4em;
+    border-radius: 0.3em;
+    position: relative;
+}
+
+button {
+    cursor: pointer;
+}
+
+.button + .button {
+    margin-left: 1em;
+}
+
+.button:hover {
+    background-color: orange;
+}
+
+.button:focus-visible {
+    outline: 2px solid #000;
+    outline-offset: 2px;
+}
+
+.button.secondary {
+    background-color: #DDD;
+    color: #666;
+}
+
+.button.secondary:hover {
+    background-color: orange;
+    color: #FFF;
+}
+
+.button:active,
+.button.secondary:active {
+    background-color: #000;
+    top: 1px;
+}
+
+body:has(.button:focus-visible) .button:not(:focus-visible) {
+    opacity: 0.4;
+}

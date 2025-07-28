@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\03.Largest3Numbers\bin\Debug\net8.0\03.Largest3Numbers.exe
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\03.Largest3Numbers\bin\Debug\net8.0\03.Largest3Numbers.deps.json
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\03.Largest3Numbers\bin\Debug\net8.0\03.Largest3Numbers.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\03.Largest3Numbers\bin\Debug\net8.0\03.Largest3Numbers.dll
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\03.Largest3Numbers\bin\Debug\net8.0\03.Largest3Numbers.pdb
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\03.Largest3Numbers\obj\Debug\net8.0\03.Largest3Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\03.Largest3Numbers\obj\Debug\net8.0\03.Largest3Numbers.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\03.Largest3Numbers\obj\Debug\net8.0\03.Largest3Numbers.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\03.Largest3Numbers\obj\Debug\net8.0\03.Largest3Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\03.Largest3Numbers\obj\Debug\net8.0\03.Largest3Numbers.dll
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\03.Largest3Numbers\obj\Debug\net8.0\refint\03.Largest3Numbers.dll
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\03.Largest3Numbers\obj\Debug\net8.0\03.Largest3Numbers.pdb
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\03.Largest3Numbers\obj\Debug\net8.0\03.Largest3Numbers.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\SetsAndDictionariesAdvanced-Lab\03.Largest3Numbers\obj\Debug\net8.0\ref\03.Largest3Numbers.dll

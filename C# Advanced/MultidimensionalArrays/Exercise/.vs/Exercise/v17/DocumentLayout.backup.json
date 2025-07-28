@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# Advanced\\4.MultidimensionalArrays-Lab\\Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D380FA4D-CF8E-4EA7-9AF9-0BBBD5F41D24}|0.Demo\\0.Demo.csproj|c:\\users\\admin\\desktop\\c# advanced\\4.multidimensionalarrays-lab\\exercise\\0.demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D380FA4D-CF8E-4EA7-9AF9-0BBBD5F41D24}|0.Demo\\0.Demo.csproj|solutionrelative:0.demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE78AAB-358A-4379-A044-FBCC1ACAEFB5}|10.RadioactiveMutantVampireBunnies\\10.RadioactiveMutantVampireBunnies.csproj|c:\\users\\admin\\desktop\\c# advanced\\4.multidimensionalarrays-lab\\exercise\\10.radioactivemutantvampirebunnies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE78AAB-358A-4379-A044-FBCC1ACAEFB5}|10.RadioactiveMutantVampireBunnies\\10.RadioactiveMutantVampireBunnies.csproj|solutionrelative:10.radioactivemutantvampirebunnies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74990BCD-160A-4A25-9576-3D6123CED32B}|9.Miner\\9.Miner.csproj|c:\\users\\admin\\desktop\\c# advanced\\4.multidimensionalarrays-lab\\exercise\\9.miner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74990BCD-160A-4A25-9576-3D6123CED32B}|9.Miner\\9.Miner.csproj|solutionrelative:9.miner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F94FD8-E2AD-4CED-B923-33AD52187918}|8.Bombs\\8.Bombs.csproj|c:\\users\\admin\\desktop\\c# advanced\\4.multidimensionalarrays-lab\\exercise\\8.bombs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F94FD8-E2AD-4CED-B923-33AD52187918}|8.Bombs\\8.Bombs.csproj|solutionrelative:8.bombs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9060F10D-A200-4A2E-8F8F-4F97E44054F4}|7.KnightGame\\7.KnightGame.csproj|c:\\users\\admin\\desktop\\c# advanced\\4.multidimensionalarrays-lab\\exercise\\7.knightgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9060F10D-A200-4A2E-8F8F-4F97E44054F4}|7.KnightGame\\7.KnightGame.csproj|solutionrelative:7.knightgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C9B28B-EE7F-4AAD-8C3D-2DDA92BF4FE9}|5.SnakeMoves\\5.SnakeMoves.csproj|c:\\users\\admin\\desktop\\c# advanced\\4.multidimensionalarrays-lab\\exercise\\5.snakemoves\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C9B28B-EE7F-4AAD-8C3D-2DDA92BF4FE9}|5.SnakeMoves\\5.SnakeMoves.csproj|solutionrelative:5.snakemoves\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\4.MultidimensionalArrays-Lab\\Exercise\\10.RadioactiveMutantVampireBunnies\\Program.cs",
+              "RelativeDocumentMoniker": "10.RadioactiveMutantVampireBunnies\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\4.MultidimensionalArrays-Lab\\Exercise\\10.RadioactiveMutantVampireBunnies\\Program.cs",
+              "RelativeToolTip": "10.RadioactiveMutantVampireBunnies\\Program.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAwwHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T18:25:08.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\4.MultidimensionalArrays-Lab\\Exercise\\9.Miner\\Program.cs",
+              "RelativeDocumentMoniker": "9.Miner\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\4.MultidimensionalArrays-Lab\\Exercise\\9.Miner\\Program.cs",
+              "RelativeToolTip": "9.Miner\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T17:43:23.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\4.MultidimensionalArrays-Lab\\Exercise\\8.Bombs\\Program.cs",
+              "RelativeDocumentMoniker": "8.Bombs\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\4.MultidimensionalArrays-Lab\\Exercise\\8.Bombs\\Program.cs",
+              "RelativeToolTip": "8.Bombs\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T17:01:57.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\4.MultidimensionalArrays-Lab\\Exercise\\7.KnightGame\\Program.cs",
+              "RelativeDocumentMoniker": "7.KnightGame\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\4.MultidimensionalArrays-Lab\\Exercise\\7.KnightGame\\Program.cs",
+              "RelativeToolTip": "7.KnightGame\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwBAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T16:33:50.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\4.MultidimensionalArrays-Lab\\Exercise\\0.Demo\\Program.cs",
+              "RelativeDocumentMoniker": "0.Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\4.MultidimensionalArrays-Lab\\Exercise\\0.Demo\\Program.cs",
+              "RelativeToolTip": "0.Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T18:26:31.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\4.MultidimensionalArrays-Lab\\Exercise\\5.SnakeMoves\\Program.cs",
+              "RelativeDocumentMoniker": "5.SnakeMoves\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\4.MultidimensionalArrays-Lab\\Exercise\\5.SnakeMoves\\Program.cs",
+              "RelativeToolTip": "5.SnakeMoves\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:43:45.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

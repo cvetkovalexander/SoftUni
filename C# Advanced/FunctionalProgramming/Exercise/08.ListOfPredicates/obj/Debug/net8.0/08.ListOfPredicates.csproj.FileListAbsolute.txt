@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\08.ListOfPredicates\bin\Debug\net8.0\08.ListOfPredicates.exe
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\08.ListOfPredicates\bin\Debug\net8.0\08.ListOfPredicates.deps.json
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\08.ListOfPredicates\bin\Debug\net8.0\08.ListOfPredicates.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\08.ListOfPredicates\bin\Debug\net8.0\08.ListOfPredicates.dll
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\08.ListOfPredicates\bin\Debug\net8.0\08.ListOfPredicates.pdb
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\08.ListOfPredicates\obj\Debug\net8.0\08.ListOfPredicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\08.ListOfPredicates\obj\Debug\net8.0\08.ListOfPredicates.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\08.ListOfPredicates\obj\Debug\net8.0\08.ListOfPredicates.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\08.ListOfPredicates\obj\Debug\net8.0\08.ListOfPredicates.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\08.ListOfPredicates\obj\Debug\net8.0\08.ListOfPredicates.dll
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\08.ListOfPredicates\obj\Debug\net8.0\refint\08.ListOfPredicates.dll
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\08.ListOfPredicates\obj\Debug\net8.0\08.ListOfPredicates.pdb
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\08.ListOfPredicates\obj\Debug\net8.0\08.ListOfPredicates.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\FunctionalProgramming\Exercise\08.ListOfPredicates\obj\Debug\net8.0\ref\08.ListOfPredicates.dll

@@ -1,0 +1,73 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 2em;
+    background-color: #EEE;
+}
+
+table {
+    width: 100%;
+    border: 1px solid #CCC;
+    margin-bottom: 2em;
+    border-collapse: collapse;
+}
+
+table :is(td, th) {
+    border: 1px solid #CCC;
+    padding: 0.5em 0.8em;
+}
+
+table th {
+    background: #999;
+    color: #FFF;
+}
+
+table td {
+    background: #FFF;
+}
+
+table tr:nth-child(odd) td {
+    background: #000;
+    color: #FFF;
+}
+
+@media (width < 600px) {
+    table, thead, tbody, tr, td, th {
+        display: block;
+    }
+
+    table {
+        border: none;
+    }
+
+    table thead {
+        display: none;
+    }
+
+    table tr {
+        margin-bottom: 1em;
+        border: 1px solid #CCC;
+        padding: 0.5em 0.8em;
+        background-color: #FFF;
+        border-radius: 0.3em;
+    }
+
+    table :is(th, td) {
+        border: none;
+        padding: 0.2em;
+        background: #FFF !important;
+        color: #000 !important;
+    }
+
+    table td:before {
+        display: block;
+        content: attr(data-title) ':';
+        padding-bottom: 0.5em;
+        font-weight: bold;
+        font-size: 20px;
+    }
+}

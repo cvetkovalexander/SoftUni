@@ -1,0 +1,28 @@
+header a {
+    text-decoration: none;
+}
+
+header .site-title a {
+    color: green;
+}
+
+header nav a {
+    color: orange;
+}
+
+main.site-content > .service {
+    background: lightblue;
+}
+
+.service + .service {
+    color: red;
+}
+
+.site-content h2 ~ section {
+    background: #EEE;
+}
+
+.service:first-of-type {
+    font-size: 2em;
+    color: red;
+}

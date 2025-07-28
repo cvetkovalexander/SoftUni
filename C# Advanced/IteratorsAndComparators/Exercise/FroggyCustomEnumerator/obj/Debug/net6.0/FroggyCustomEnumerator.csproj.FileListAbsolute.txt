@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\IteratorsAndComparators\Exercise\FroggyCustomEnumerator\bin\Debug\net6.0\FroggyCustomEnumerator.exe
+C:\Users\Admin\Desktop\C# Advanced\IteratorsAndComparators\Exercise\FroggyCustomEnumerator\bin\Debug\net6.0\FroggyCustomEnumerator.deps.json
+C:\Users\Admin\Desktop\C# Advanced\IteratorsAndComparators\Exercise\FroggyCustomEnumerator\bin\Debug\net6.0\FroggyCustomEnumerator.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\IteratorsAndComparators\Exercise\FroggyCustomEnumerator\bin\Debug\net6.0\FroggyCustomEnumerator.dll
+C:\Users\Admin\Desktop\C# Advanced\IteratorsAndComparators\Exercise\FroggyCustomEnumerator\bin\Debug\net6.0\FroggyCustomEnumerator.pdb
+C:\Users\Admin\Desktop\C# Advanced\IteratorsAndComparators\Exercise\FroggyCustomEnumerator\obj\Debug\net6.0\FroggyCustomEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\IteratorsAndComparators\Exercise\FroggyCustomEnumerator\obj\Debug\net6.0\FroggyCustomEnumerator.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\IteratorsAndComparators\Exercise\FroggyCustomEnumerator\obj\Debug\net6.0\FroggyCustomEnumerator.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\IteratorsAndComparators\Exercise\FroggyCustomEnumerator\obj\Debug\net6.0\FroggyCustomEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\IteratorsAndComparators\Exercise\FroggyCustomEnumerator\obj\Debug\net6.0\FroggyCustomEnumerator.dll
+C:\Users\Admin\Desktop\C# Advanced\IteratorsAndComparators\Exercise\FroggyCustomEnumerator\obj\Debug\net6.0\refint\FroggyCustomEnumerator.dll
+C:\Users\Admin\Desktop\C# Advanced\IteratorsAndComparators\Exercise\FroggyCustomEnumerator\obj\Debug\net6.0\FroggyCustomEnumerator.pdb
+C:\Users\Admin\Desktop\C# Advanced\IteratorsAndComparators\Exercise\FroggyCustomEnumerator\obj\Debug\net6.0\FroggyCustomEnumerator.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\IteratorsAndComparators\Exercise\FroggyCustomEnumerator\obj\Debug\net6.0\ref\FroggyCustomEnumerator.dll

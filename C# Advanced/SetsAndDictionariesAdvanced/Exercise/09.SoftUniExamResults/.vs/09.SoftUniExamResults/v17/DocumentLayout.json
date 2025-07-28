@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# Advanced\\5.SetsAndDictionariesAdvanced-Lab\\Exercise\\09.SoftUniExamResults\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF14350-CD8C-4E81-A999-749248C3EB42}|10.ForceBook\\10.ForceBook.csproj|c:\\users\\admin\\desktop\\c# advanced\\5.setsanddictionariesadvanced-lab\\exercise\\09.softuniexamresults\\10.forcebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF14350-CD8C-4E81-A999-749248C3EB42}|10.ForceBook\\10.ForceBook.csproj|solutionrelative:10.forcebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D3845B-30BA-4F85-9F68-C4D1A6AC6E29}|test\\test.csproj|c:\\users\\admin\\desktop\\c# advanced\\5.setsanddictionariesadvanced-lab\\exercise\\09.softuniexamresults\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D3845B-30BA-4F85-9F68-C4D1A6AC6E29}|test\\test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8627850A-40F5-44DE-9278-77F0B191F9A7}|09.SoftUniExamResults\\09.SoftUniExamResults.csproj|c:\\users\\admin\\desktop\\c# advanced\\5.setsanddictionariesadvanced-lab\\exercise\\09.softuniexamresults\\09.softuniexamresults\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8627850A-40F5-44DE-9278-77F0B191F9A7}|09.SoftUniExamResults\\09.SoftUniExamResults.csproj|solutionrelative:09.softuniexamresults\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\5.SetsAndDictionariesAdvanced-Lab\\Exercise\\09.SoftUniExamResults\\test\\Program.cs",
+              "RelativeDocumentMoniker": "test\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\5.SetsAndDictionariesAdvanced-Lab\\Exercise\\09.SoftUniExamResults\\test\\Program.cs",
+              "RelativeToolTip": "test\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwCMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T18:13:29.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\5.SetsAndDictionariesAdvanced-Lab\\Exercise\\09.SoftUniExamResults\\09.SoftUniExamResults\\Program.cs",
+              "RelativeDocumentMoniker": "09.SoftUniExamResults\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\5.SetsAndDictionariesAdvanced-Lab\\Exercise\\09.SoftUniExamResults\\09.SoftUniExamResults\\Program.cs",
+              "RelativeToolTip": "09.SoftUniExamResults\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T17:13:30.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\5.SetsAndDictionariesAdvanced-Lab\\Exercise\\09.SoftUniExamResults\\10.ForceBook\\Program.cs",
+              "RelativeDocumentMoniker": "10.ForceBook\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\5.SetsAndDictionariesAdvanced-Lab\\Exercise\\09.SoftUniExamResults\\10.ForceBook\\Program.cs",
+              "RelativeToolTip": "10.ForceBook\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T17:10:17.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

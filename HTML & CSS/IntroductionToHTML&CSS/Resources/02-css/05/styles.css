@@ -1,0 +1,36 @@
+p {
+    color: cyan;
+    font-size: 22px;
+}
+
+section p {
+    color: darkgray;
+    font-size: 18px;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+ul > li {
+    color: lightcoral;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+article + article {
+    background-color: aquamarine;
+}
+
+div ~ p {
+    color: red;
+}
+
+ul > li.normal-list + li.link-list a {
+    color: darkorchid;
+    background-color: cornflowerblue;
+}
+
+div h2 {
+    font-weight: lighter;
+}
+

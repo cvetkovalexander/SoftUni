@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# Advanced\\DataStructures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A6E460-9EF4-4834-9D1E-3ADDA2EF9B69}|DoublyLinkedList\\DoublyLinkedList.csproj|c:\\users\\admin\\desktop\\c# advanced\\datastructures\\doublylinkedlist\\customlinkedstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7A6E460-9EF4-4834-9D1E-3ADDA2EF9B69}|DoublyLinkedList\\DoublyLinkedList.csproj|solutionrelative:doublylinkedlist\\customlinkedstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A6E460-9EF4-4834-9D1E-3ADDA2EF9B69}|DoublyLinkedList\\DoublyLinkedList.csproj|c:\\users\\admin\\desktop\\c# advanced\\datastructures\\doublylinkedlist\\customstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7A6E460-9EF4-4834-9D1E-3ADDA2EF9B69}|DoublyLinkedList\\DoublyLinkedList.csproj|solutionrelative:doublylinkedlist\\customstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A6E460-9EF4-4834-9D1E-3ADDA2EF9B69}|DoublyLinkedList\\DoublyLinkedList.csproj|c:\\users\\admin\\desktop\\c# advanced\\datastructures\\doublylinkedlist\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7A6E460-9EF4-4834-9D1E-3ADDA2EF9B69}|DoublyLinkedList\\DoublyLinkedList.csproj|solutionrelative:doublylinkedlist\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A6E460-9EF4-4834-9D1E-3ADDA2EF9B69}|DoublyLinkedList\\DoublyLinkedList.csproj|c:\\users\\admin\\desktop\\c# advanced\\datastructures\\doublylinkedlist\\customlinkedqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7A6E460-9EF4-4834-9D1E-3ADDA2EF9B69}|DoublyLinkedList\\DoublyLinkedList.csproj|solutionrelative:doublylinkedlist\\customlinkedqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A6E460-9EF4-4834-9D1E-3ADDA2EF9B69}|DoublyLinkedList\\DoublyLinkedList.csproj|c:\\users\\admin\\desktop\\c# advanced\\datastructures\\doublylinkedlist\\customlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7A6E460-9EF4-4834-9D1E-3ADDA2EF9B69}|DoublyLinkedList\\DoublyLinkedList.csproj|solutionrelative:doublylinkedlist\\customlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A6E460-9EF4-4834-9D1E-3ADDA2EF9B69}|DoublyLinkedList\\DoublyLinkedList.csproj|c:\\users\\admin\\desktop\\c# advanced\\datastructures\\doublylinkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7A6E460-9EF4-4834-9D1E-3ADDA2EF9B69}|DoublyLinkedList\\DoublyLinkedList.csproj|solutionrelative:doublylinkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A6E460-9EF4-4834-9D1E-3ADDA2EF9B69}|DoublyLinkedList\\DoublyLinkedList.csproj|c:\\users\\admin\\desktop\\c# advanced\\datastructures\\doublylinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7A6E460-9EF4-4834-9D1E-3ADDA2EF9B69}|DoublyLinkedList\\DoublyLinkedList.csproj|solutionrelative:doublylinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1217,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomLinkedQueue.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\DataStructures\\DoublyLinkedList\\CustomLinkedQueue.cs",
+              "RelativeDocumentMoniker": "DoublyLinkedList\\CustomLinkedQueue.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\DataStructures\\DoublyLinkedList\\CustomLinkedQueue.cs",
+              "RelativeToolTip": "DoublyLinkedList\\CustomLinkedQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T22:16:44.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomLinkedStack.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\DataStructures\\DoublyLinkedList\\CustomLinkedStack.cs",
+              "RelativeDocumentMoniker": "DoublyLinkedList\\CustomLinkedStack.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\DataStructures\\DoublyLinkedList\\CustomLinkedStack.cs",
+              "RelativeToolTip": "DoublyLinkedList\\CustomLinkedStack.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAADwv1cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T21:53:55.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomStack.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\DataStructures\\DoublyLinkedList\\CustomStack.cs",
+              "RelativeDocumentMoniker": "DoublyLinkedList\\CustomStack.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\DataStructures\\DoublyLinkedList\\CustomStack.cs",
+              "RelativeToolTip": "DoublyLinkedList\\CustomStack.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T21:17:01.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomList.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\DataStructures\\DoublyLinkedList\\CustomList.cs",
+              "RelativeDocumentMoniker": "DoublyLinkedList\\CustomList.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\DataStructures\\DoublyLinkedList\\CustomList.cs",
+              "RelativeToolTip": "DoublyLinkedList\\CustomList.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAlwGEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T16:15:12.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\DataStructures\\DoublyLinkedList\\Node.cs",
+              "RelativeDocumentMoniker": "DoublyLinkedList\\Node.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\DataStructures\\DoublyLinkedList\\Node.cs",
+              "RelativeToolTip": "DoublyLinkedList\\Node.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:05:00.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\DataStructures\\DoublyLinkedList\\CustomLinkedList.cs",
+              "RelativeDocumentMoniker": "DoublyLinkedList\\CustomLinkedList.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\DataStructures\\DoublyLinkedList\\CustomLinkedList.cs",
+              "RelativeToolTip": "DoublyLinkedList\\CustomLinkedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:44:47.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\DataStructures\\DoublyLinkedList\\Program.cs",
+              "RelativeDocumentMoniker": "DoublyLinkedList\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\DataStructures\\DoublyLinkedList\\Program.cs",
+              "RelativeToolTip": "DoublyLinkedList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:32:14.128Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

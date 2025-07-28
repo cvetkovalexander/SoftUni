@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# OOP\\Exam\\AccessControlSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|c:\\users\\admin\\desktop\\c# oop\\exam\\accesscontrolsystem\\accesscontrolsystem\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|c:\\users\\admin\\desktop\\c# oop\\exam\\accesscontrolsystem\\accesscontrolsystem\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|c:\\users\\admin\\desktop\\c# oop\\exam\\accesscontrolsystem\\accesscontrolsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|c:\\users\\admin\\desktop\\c# oop\\exam\\accesscontrolsystem\\accesscontrolsystem\\repositories\\contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\repositories\\contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|c:\\users\\admin\\desktop\\c# oop\\exam\\accesscontrolsystem\\accesscontrolsystem\\models\\contracts\\idepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\models\\contracts\\idepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|c:\\users\\admin\\desktop\\c# oop\\exam\\accesscontrolsystem\\accesscontrolsystem\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|c:\\users\\admin\\desktop\\c# oop\\exam\\accesscontrolsystem\\accesscontrolsystem\\models\\hrdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\models\\hrdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|c:\\users\\admin\\desktop\\c# oop\\exam\\accesscontrolsystem\\accesscontrolsystem\\models\\securityzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\models\\securityzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|c:\\users\\admin\\desktop\\c# oop\\exam\\accesscontrolsystem\\accesscontrolsystem\\core\\contracts\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\core\\contracts\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|c:\\users\\admin\\desktop\\c# oop\\exam\\accesscontrolsystem\\accesscontrolsystem\\repositories\\securityzonerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\repositories\\securityzonerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|c:\\users\\admin\\desktop\\c# oop\\exam\\accesscontrolsystem\\accesscontrolsystem\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|c:\\users\\admin\\desktop\\c# oop\\exam\\accesscontrolsystem\\accesscontrolsystem\\models\\financedepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\models\\financedepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|c:\\users\\admin\\desktop\\c# oop\\exam\\accesscontrolsystem\\accesscontrolsystem\\models\\itdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\models\\itdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|c:\\users\\admin\\desktop\\c# oop\\exam\\accesscontrolsystem\\accesscontrolsystem\\models\\itspecialist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\models\\itspecialist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|c:\\users\\admin\\desktop\\c# oop\\exam\\accesscontrolsystem\\accesscontrolsystem\\models\\generalemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\models\\generalemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Exam\\AccessControlSystem\\AccessControlSystem\\Repositories\\Contracts\\IRepository.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Repositories\\Contracts\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Exam\\AccessControlSystem\\AccessControlSystem\\Repositories\\Contracts\\IRepository.cs",
+              "RelativeToolTip": "AccessControlSystem\\Repositories\\Contracts\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T08:43:16.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDepartment.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Exam\\AccessControlSystem\\AccessControlSystem\\Models\\Contracts\\IDepartment.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Models\\Contracts\\IDepartment.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Exam\\AccessControlSystem\\AccessControlSystem\\Models\\Contracts\\IDepartment.cs",
+              "RelativeToolTip": "AccessControlSystem\\Models\\Contracts\\IDepartment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T08:41:54.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Exam\\AccessControlSystem\\AccessControlSystem\\Core\\Controller.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Core\\Controller.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Exam\\AccessControlSystem\\AccessControlSystem\\Core\\Controller.cs",
+              "RelativeToolTip": "AccessControlSystem\\Core\\Controller.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAwwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T07:20:18.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SecurityZoneRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Exam\\AccessControlSystem\\AccessControlSystem\\Repositories\\SecurityZoneRepository.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Repositories\\SecurityZoneRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Exam\\AccessControlSystem\\AccessControlSystem\\Repositories\\SecurityZoneRepository.cs",
+              "RelativeToolTip": "AccessControlSystem\\Repositories\\SecurityZoneRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:20:01.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SecurityZone.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Exam\\AccessControlSystem\\AccessControlSystem\\Models\\SecurityZone.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Models\\SecurityZone.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Exam\\AccessControlSystem\\AccessControlSystem\\Models\\SecurityZone.cs",
+              "RelativeToolTip": "AccessControlSystem\\Models\\SecurityZone.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:13:47.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Exam\\AccessControlSystem\\AccessControlSystem\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Exam\\AccessControlSystem\\AccessControlSystem\\Models\\Employee.cs",
+              "RelativeToolTip": "AccessControlSystem\\Models\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:02:13.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Exam\\AccessControlSystem\\AccessControlSystem\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Exam\\AccessControlSystem\\AccessControlSystem\\Models\\Department.cs",
+              "RelativeToolTip": "AccessControlSystem\\Models\\Department.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:07:58.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEngine.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Exam\\AccessControlSystem\\AccessControlSystem\\Core\\Contracts\\IEngine.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Core\\Contracts\\IEngine.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Exam\\AccessControlSystem\\AccessControlSystem\\Core\\Contracts\\IEngine.cs",
+              "RelativeToolTip": "AccessControlSystem\\Core\\Contracts\\IEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T07:57:06.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Exam\\AccessControlSystem\\AccessControlSystem\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Core\\Engine.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Exam\\AccessControlSystem\\AccessControlSystem\\Core\\Engine.cs",
+              "RelativeToolTip": "AccessControlSystem\\Core\\Engine.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowEsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T07:57:07.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FinanceDepartment.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Exam\\AccessControlSystem\\AccessControlSystem\\Models\\FinanceDepartment.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Models\\FinanceDepartment.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Exam\\AccessControlSystem\\AccessControlSystem\\Models\\FinanceDepartment.cs",
+              "RelativeToolTip": "AccessControlSystem\\Models\\FinanceDepartment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:13:17.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HRDepartment.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Exam\\AccessControlSystem\\AccessControlSystem\\Models\\HRDepartment.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Models\\HRDepartment.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Exam\\AccessControlSystem\\AccessControlSystem\\Models\\HRDepartment.cs",
+              "RelativeToolTip": "AccessControlSystem\\Models\\HRDepartment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:12:24.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITDepartment.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Exam\\AccessControlSystem\\AccessControlSystem\\Models\\ITDepartment.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Models\\ITDepartment.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Exam\\AccessControlSystem\\AccessControlSystem\\Models\\ITDepartment.cs",
+              "RelativeToolTip": "AccessControlSystem\\Models\\ITDepartment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:11:23.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITSpecialist.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Exam\\AccessControlSystem\\AccessControlSystem\\Models\\ITSpecialist.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Models\\ITSpecialist.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Exam\\AccessControlSystem\\AccessControlSystem\\Models\\ITSpecialist.cs",
+              "RelativeToolTip": "AccessControlSystem\\Models\\ITSpecialist.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:06:46.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Exam\\AccessControlSystem\\AccessControlSystem\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Exam\\AccessControlSystem\\AccessControlSystem\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "AccessControlSystem\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:17:10.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GeneralEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# OOP\\Exam\\AccessControlSystem\\AccessControlSystem\\Models\\GeneralEmployee.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Models\\GeneralEmployee.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# OOP\\Exam\\AccessControlSystem\\AccessControlSystem\\Models\\GeneralEmployee.cs",
+              "RelativeToolTip": "AccessControlSystem\\Models\\GeneralEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:06:07.425Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

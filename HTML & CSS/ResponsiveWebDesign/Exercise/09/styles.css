@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #EEE;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding: 2em;
+    font: 14px/1.5 Lato, sans-serif;
+}
+
+body > * {
+    width: 100%;
+}
+
+.timeline {
+    border: 2px solid #CCC;
+    border-radius: 0.4em;
+    padding: 2em;
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    position: relative;
+}
+
+.timeline::before {
+   display: block;
+   content: '';
+   width: 2px;
+   background-color: #CCC;
+   position: absolute;
+   left: 3.1em;
+   top: 2em;
+   bottom: 0;
+}
+
+.timeline > h2 {
+    background-color: #FFF;
+    color: #000;
+    border-radius: 0.4rem;
+    padding: 0.5rem 0.8rem;
+    box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.2);
+    margin-bottom: 2rem;
+    position: relative;
+}
+
+.timeline > article {
+    display: flex;
+    align-items: start;
+    gap: 1.5em;
+}
+
+.timeline > article::before {
+    flex: 0 0 2em;
+    display: block;
+    content: '';
+    aspect-ratio: 1;
+    background-color: limegreen;
+    border-radius: 50%;
+    border: 2px solid #FFF;
+    box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.2);
+    position: relative;
+}
+
+.timeline > article:nth-of-type(odd)::before {
+    background-color: orange;
+}
+
+.timeline > article .inner {
+    flex: 0 1 auto;
+    background-color: #FFF;
+    border-radius: 0.4rem;
+    padding: 0.8rem 1rem;
+    box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.2);
+}
+
+@media (width > 90ch) {
+    
+    .timeline h2 {
+        text-align: center;
+    }
+
+    .timeline::before{
+        left: 50%;
+    }
+
+    .timeline article {
+        width: calc(50% + 1.1em)
+    }
+
+    .timeline > article:nth-of-type(odd) {
+        margin-left: auto;
+    }
+
+    .timeline > article:nth-of-type(even)::before {
+        order: 999;
+    }
+
+    .timeline > article:nth-of-type(even) .inner {
+        text-align: right;
+    }
+}

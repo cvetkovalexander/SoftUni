@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# Advanced\\7.FunctionalProgramming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0019D250-7EDB-44D9-BAB0-0DA57AA913CC}|05.FilterByAge\\05.FilterByAge.csproj|c:\\users\\admin\\desktop\\c# advanced\\7.functionalprogramming\\05.filterbyage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0019D250-7EDB-44D9-BAB0-0DA57AA913CC}|05.FilterByAge\\05.FilterByAge.csproj|solutionrelative:05.filterbyage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C40BD3-35C9-4385-9DC1-6E5A878E17FA}|04.AddVAT\\04.AddVAT.csproj|c:\\users\\admin\\desktop\\c# advanced\\7.functionalprogramming\\04.addvat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C40BD3-35C9-4385-9DC1-6E5A878E17FA}|04.AddVAT\\04.AddVAT.csproj|solutionrelative:04.addvat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5AA617-258D-48C3-9564-45DEADC62F85}|03.CountUppercaseWords\\03.CountUppercaseWords.csproj|c:\\users\\admin\\desktop\\c# advanced\\7.functionalprogramming\\03.countuppercasewords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF5AA617-258D-48C3-9564-45DEADC62F85}|03.CountUppercaseWords\\03.CountUppercaseWords.csproj|solutionrelative:03.countuppercasewords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2ED2AF-BC34-42DC-B368-A2945449F681}|01.SortEvenNumbers\\01.SortEvenNumbers.csproj|c:\\users\\admin\\desktop\\c# advanced\\7.functionalprogramming\\01.sortevennumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2ED2AF-BC34-42DC-B368-A2945449F681}|01.SortEvenNumbers\\01.SortEvenNumbers.csproj|solutionrelative:01.sortevennumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4886645-BDD6-44E8-8450-FBEEC2689C76}|2.SumNumbers\\02.SumNumbers.csproj|c:\\users\\admin\\desktop\\c# advanced\\7.functionalprogramming\\2.sumnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4886645-BDD6-44E8-8450-FBEEC2689C76}|2.SumNumbers\\02.SumNumbers.csproj|solutionrelative:2.sumnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1217,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\7.FunctionalProgramming\\05.FilterByAge\\Program.cs",
+              "RelativeDocumentMoniker": "05.FilterByAge\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\7.FunctionalProgramming\\05.FilterByAge\\Program.cs",
+              "RelativeToolTip": "05.FilterByAge\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAUwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T20:11:45.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\7.FunctionalProgramming\\04.AddVAT\\Program.cs",
+              "RelativeDocumentMoniker": "04.AddVAT\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\7.FunctionalProgramming\\04.AddVAT\\Program.cs",
+              "RelativeToolTip": "04.AddVAT\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T19:58:29.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\7.FunctionalProgramming\\03.CountUppercaseWords\\Program.cs",
+              "RelativeDocumentMoniker": "03.CountUppercaseWords\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\7.FunctionalProgramming\\03.CountUppercaseWords\\Program.cs",
+              "RelativeToolTip": "03.CountUppercaseWords\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T19:48:16.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\7.FunctionalProgramming\\2.SumNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "2.SumNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\7.FunctionalProgramming\\2.SumNumbers\\Program.cs",
+              "RelativeToolTip": "2.SumNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:46:35.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# Advanced\\7.FunctionalProgramming\\01.SortEvenNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "01.SortEvenNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# Advanced\\7.FunctionalProgramming\\01.SortEvenNumbers\\Program.cs",
+              "RelativeToolTip": "01.SortEvenNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:42:02.298Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

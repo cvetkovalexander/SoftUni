@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\5.PrintEvenNumbers\bin\Debug\net8.0\5.PrintEvenNumbers.exe
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\5.PrintEvenNumbers\bin\Debug\net8.0\5.PrintEvenNumbers.deps.json
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\5.PrintEvenNumbers\bin\Debug\net8.0\5.PrintEvenNumbers.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\5.PrintEvenNumbers\bin\Debug\net8.0\5.PrintEvenNumbers.dll
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\5.PrintEvenNumbers\bin\Debug\net8.0\5.PrintEvenNumbers.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\net8.0\5.PrintEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\net8.0\5.PrintEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\net8.0\5.PrintEvenNumbers.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\net8.0\5.PrintEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\net8.0\5.PrintEvenNumbers.dll
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\net8.0\refint\5.PrintEvenNumbers.dll
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\net8.0\5.PrintEvenNumbers.pdb
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\net8.0\5.PrintEvenNumbers.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Fundamentals\3.StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\net8.0\ref\5.PrintEvenNumbers.dll

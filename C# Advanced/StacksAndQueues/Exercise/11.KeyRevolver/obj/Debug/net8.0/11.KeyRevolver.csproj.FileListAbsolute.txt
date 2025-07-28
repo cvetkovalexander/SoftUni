@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\11.KeyRevolver\bin\Debug\net8.0\11.KeyRevolver.exe
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\11.KeyRevolver\bin\Debug\net8.0\11.KeyRevolver.deps.json
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\11.KeyRevolver\bin\Debug\net8.0\11.KeyRevolver.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\11.KeyRevolver\bin\Debug\net8.0\11.KeyRevolver.dll
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\11.KeyRevolver\bin\Debug\net8.0\11.KeyRevolver.pdb
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\11.KeyRevolver\obj\Debug\net8.0\11.KeyRevolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\11.KeyRevolver\obj\Debug\net8.0\11.KeyRevolver.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\11.KeyRevolver\obj\Debug\net8.0\11.KeyRevolver.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\11.KeyRevolver\obj\Debug\net8.0\11.KeyRevolver.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\11.KeyRevolver\obj\Debug\net8.0\11.KeyRevolver.dll
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\11.KeyRevolver\obj\Debug\net8.0\refint\11.KeyRevolver.dll
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\11.KeyRevolver\obj\Debug\net8.0\11.KeyRevolver.pdb
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\11.KeyRevolver\obj\Debug\net8.0\11.KeyRevolver.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\3.StacksAndQueues-Lab\Exercise\11.KeyRevolver\obj\Debug\net8.0\ref\11.KeyRevolver.dll

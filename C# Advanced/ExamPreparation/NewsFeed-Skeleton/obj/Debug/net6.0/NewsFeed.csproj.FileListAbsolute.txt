@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\NewsFeed-Skeleton\obj\Debug\net6.0\NewsFeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\NewsFeed-Skeleton\obj\Debug\net6.0\NewsFeed.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\NewsFeed-Skeleton\obj\Debug\net6.0\NewsFeed.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\NewsFeed-Skeleton\obj\Debug\net6.0\NewsFeed.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\NewsFeed-Skeleton\bin\Debug\net6.0\NewsFeed.exe
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\NewsFeed-Skeleton\bin\Debug\net6.0\NewsFeed.deps.json
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\NewsFeed-Skeleton\bin\Debug\net6.0\NewsFeed.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\NewsFeed-Skeleton\bin\Debug\net6.0\NewsFeed.dll
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\NewsFeed-Skeleton\bin\Debug\net6.0\NewsFeed.pdb
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\NewsFeed-Skeleton\obj\Debug\net6.0\NewsFeed.dll
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\NewsFeed-Skeleton\obj\Debug\net6.0\refint\NewsFeed.dll
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\NewsFeed-Skeleton\obj\Debug\net6.0\NewsFeed.pdb
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\NewsFeed-Skeleton\obj\Debug\net6.0\NewsFeed.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\ExamPreparation\NewsFeed-Skeleton\obj\Debug\net6.0\ref\NewsFeed.dll

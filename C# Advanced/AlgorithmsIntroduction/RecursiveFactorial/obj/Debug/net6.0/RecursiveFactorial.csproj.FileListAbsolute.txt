@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# Advanced\AlgorithmsIntroduction\RecursiveFactorial\bin\Debug\net6.0\RecursiveFactorial.exe
+C:\Users\Admin\Desktop\C# Advanced\AlgorithmsIntroduction\RecursiveFactorial\bin\Debug\net6.0\RecursiveFactorial.deps.json
+C:\Users\Admin\Desktop\C# Advanced\AlgorithmsIntroduction\RecursiveFactorial\bin\Debug\net6.0\RecursiveFactorial.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Advanced\AlgorithmsIntroduction\RecursiveFactorial\bin\Debug\net6.0\RecursiveFactorial.dll
+C:\Users\Admin\Desktop\C# Advanced\AlgorithmsIntroduction\RecursiveFactorial\bin\Debug\net6.0\RecursiveFactorial.pdb
+C:\Users\Admin\Desktop\C# Advanced\AlgorithmsIntroduction\RecursiveFactorial\obj\Debug\net6.0\RecursiveFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Advanced\AlgorithmsIntroduction\RecursiveFactorial\obj\Debug\net6.0\RecursiveFactorial.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\AlgorithmsIntroduction\RecursiveFactorial\obj\Debug\net6.0\RecursiveFactorial.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Advanced\AlgorithmsIntroduction\RecursiveFactorial\obj\Debug\net6.0\RecursiveFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Advanced\AlgorithmsIntroduction\RecursiveFactorial\obj\Debug\net6.0\RecursiveFactorial.dll
+C:\Users\Admin\Desktop\C# Advanced\AlgorithmsIntroduction\RecursiveFactorial\obj\Debug\net6.0\refint\RecursiveFactorial.dll
+C:\Users\Admin\Desktop\C# Advanced\AlgorithmsIntroduction\RecursiveFactorial\obj\Debug\net6.0\RecursiveFactorial.pdb
+C:\Users\Admin\Desktop\C# Advanced\AlgorithmsIntroduction\RecursiveFactorial\obj\Debug\net6.0\RecursiveFactorial.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Advanced\AlgorithmsIntroduction\RecursiveFactorial\obj\Debug\net6.0\ref\RecursiveFactorial.dll

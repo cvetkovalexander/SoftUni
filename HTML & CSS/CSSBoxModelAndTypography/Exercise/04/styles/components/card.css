@@ -1,0 +1,55 @@
+.card {
+    display: block;
+    max-width: 350px;
+    margin: 0 auto;
+    color: #000;
+    text-decoration: none;
+    background-color: #fff;
+    box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.2);
+    border-radius: 0.3em;
+    overflow: hidden;
+}
+
+.card span, .card strong {
+    display: block;
+}
+
+.card .media {
+    margin-bottom: 1.5em;
+    aspect-ratio: 1/1;
+    overflow: hidden;
+    position: relative;
+}
+
+.card .media img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    translate: -50% -50%;
+}
+
+.card .media img.landscape {
+    width: auto;
+    height: 100%;
+}
+
+.card .main,
+.card .footer {
+    padding-inline: 1.5em;
+}
+
+.card .footer {
+    padding-block: 2em 1.2em;
+}
+
+.card .footer > span:first-child {
+    font-weight: bold;
+}
+
+.card .footer > span[title] {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-style: italic;
+    opacity: 0.6;
+}
