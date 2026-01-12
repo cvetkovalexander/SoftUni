@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\EFInversionOfControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6897C38C-83F5-41FF-A3F0-63DF09073449}|EFInversionOfControl\\EFInversionOfControl.csproj|c:\\users\\admin\\desktop\\efinversionofcontrol\\efinversionofcontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6897C38C-83F5-41FF-A3F0-63DF09073449}|EFInversionOfControl\\EFInversionOfControl.csproj|solutionrelative:efinversionofcontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6897C38C-83F5-41FF-A3F0-63DF09073449}|EFInversionOfControl\\EFInversionOfControl.csproj|c:\\users\\admin\\desktop\\efinversionofcontrol\\efinversionofcontrol\\data\\softunidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6897C38C-83F5-41FF-A3F0-63DF09073449}|EFInversionOfControl\\EFInversionOfControl.csproj|solutionrelative:efinversionofcontrol\\data\\softunidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6897C38C-83F5-41FF-A3F0-63DF09073449}|EFInversionOfControl\\EFInversionOfControl.csproj|c:\\users\\admin\\desktop\\efinversionofcontrol\\efinversionofcontrol\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6897C38C-83F5-41FF-A3F0-63DF09073449}|EFInversionOfControl\\EFInversionOfControl.csproj|solutionrelative:efinversionofcontrol\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6897C38C-83F5-41FF-A3F0-63DF09073449}|EFInversionOfControl\\EFInversionOfControl.csproj|c:\\users\\admin\\desktop\\efinversionofcontrol\\efinversionofcontrol\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6897C38C-83F5-41FF-A3F0-63DF09073449}|EFInversionOfControl\\EFInversionOfControl.csproj|solutionrelative:efinversionofcontrol\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6897C38C-83F5-41FF-A3F0-63DF09073449}|EFInversionOfControl\\EFInversionOfControl.csproj|c:\\users\\admin\\desktop\\efinversionofcontrol\\efinversionofcontrol\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6897C38C-83F5-41FF-A3F0-63DF09073449}|EFInversionOfControl\\EFInversionOfControl.csproj|solutionrelative:efinversionofcontrol\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6897C38C-83F5-41FF-A3F0-63DF09073449}|EFInversionOfControl\\EFInversionOfControl.csproj|c:\\users\\admin\\desktop\\efinversionofcontrol\\efinversionofcontrol\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6897C38C-83F5-41FF-A3F0-63DF09073449}|EFInversionOfControl\\EFInversionOfControl.csproj|solutionrelative:efinversionofcontrol\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\EFInversionOfControl\\EFInversionOfControl\\Models\\SoftUniDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EFInversionOfControl\\Models\\SoftUniDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EFInversionOfControl\\EFInversionOfControl\\appsettings.json",
+              "RelativeDocumentMoniker": "EFInversionOfControl\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\EFInversionOfControl\\EFInversionOfControl\\appsettings.json",
+              "RelativeToolTip": "EFInversionOfControl\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-29T12:05:22.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EFInversionOfControl\\EFInversionOfControl\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "EFInversionOfControl\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\EFInversionOfControl\\EFInversionOfControl\\Models\\Address.cs",
+              "RelativeToolTip": "EFInversionOfControl\\Models\\Address.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T12:03:08.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoftUniDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EFInversionOfControl\\EFInversionOfControl\\Data\\SoftUniDbContext.cs",
+              "RelativeDocumentMoniker": "EFInversionOfControl\\Data\\SoftUniDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\EFInversionOfControl\\EFInversionOfControl\\Data\\SoftUniDbContext.cs",
+              "RelativeToolTip": "EFInversionOfControl\\Data\\SoftUniDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T12:03:05.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SoftUniDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EFInversionOfControl\\EFInversionOfControl\\Models\\SoftUniDbContext.cs",
+              "RelativeDocumentMoniker": "EFInversionOfControl\\Models\\SoftUniDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\EFInversionOfControl\\EFInversionOfControl\\Models\\SoftUniDbContext.cs",
+              "RelativeToolTip": "EFInversionOfControl\\Models\\SoftUniDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T12:02:34.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EFInversionOfControl\\EFInversionOfControl\\Repository.cs",
+              "RelativeDocumentMoniker": "EFInversionOfControl\\Repository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\EFInversionOfControl\\EFInversionOfControl\\Repository.cs",
+              "RelativeToolTip": "EFInversionOfControl\\Repository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T14:48:20.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EFInversionOfControl\\EFInversionOfControl\\IRepository.cs",
+              "RelativeDocumentMoniker": "EFInversionOfControl\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\EFInversionOfControl\\EFInversionOfControl\\IRepository.cs",
+              "RelativeToolTip": "EFInversionOfControl\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T14:42:33.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EFInversionOfControl\\EFInversionOfControl\\Program.cs",
+              "RelativeDocumentMoniker": "EFInversionOfControl\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\EFInversionOfControl\\EFInversionOfControl\\Program.cs",
+              "RelativeToolTip": "EFInversionOfControl\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T14:38:12.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

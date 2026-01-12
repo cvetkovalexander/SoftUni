@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\NetPay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|c:\\users\\admin\\desktop\\netpay\\netpay\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|solutionrelative:netpay\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|c:\\users\\admin\\desktop\\netpay\\netpay\\exportresults\\expected-result-exporthouseholds.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|solutionrelative:netpay\\exportresults\\expected-result-exporthouseholds.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|c:\\users\\admin\\desktop\\netpay\\netpay\\exportresults\\actual-result-exporthouseholds.xml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|solutionrelative:netpay\\exportresults\\actual-result-exporthouseholds.xml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|c:\\users\\admin\\desktop\\netpay\\netpay\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|solutionrelative:netpay\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|c:\\users\\admin\\desktop\\netpay\\netpay\\dataprocessor\\exportdtos\\exporthouseholdexpensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|solutionrelative:netpay\\dataprocessor\\exportdtos\\exporthouseholdexpensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|c:\\users\\admin\\desktop\\netpay\\netpay\\dataprocessor\\exportdtos\\exporthouseholddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|solutionrelative:netpay\\dataprocessor\\exportdtos\\exporthouseholddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Actual-Result-ExportHouseholds.xml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\NetPay\\NetPay\\ExportResults\\Actual-Result-ExportHouseholds.xml",
+              "RelativeDocumentMoniker": "NetPay\\ExportResults\\Actual-Result-ExportHouseholds.xml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\NetPay\\NetPay\\ExportResults\\Actual-Result-ExportHouseholds.xml",
+              "RelativeToolTip": "NetPay\\ExportResults\\Actual-Result-ExportHouseholds.xml",
+              "ViewState": "AgIAADkCAAAAAAAAAAAqwFMCAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-11-29T16:30:37.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Expected-Result-ExportHouseholds.xml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\NetPay\\NetPay\\ExportResults\\Expected-Result-ExportHouseholds.xml",
+              "RelativeDocumentMoniker": "NetPay\\ExportResults\\Expected-Result-ExportHouseholds.xml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\NetPay\\NetPay\\ExportResults\\Expected-Result-ExportHouseholds.xml",
+              "RelativeToolTip": "NetPay\\ExportResults\\Expected-Result-ExportHouseholds.xml",
+              "ViewState": "AgIAACcCAAAAAAAAAAAqwFMCAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-11-29T16:30:24.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\NetPay\\NetPay\\StartUp.cs",
+              "RelativeDocumentMoniker": "NetPay\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\NetPay\\NetPay\\StartUp.cs",
+              "RelativeToolTip": "NetPay\\StartUp.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T16:27:38.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExportHouseholdExpenseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\NetPay\\NetPay\\DataProcessor\\ExportDtos\\ExportHouseholdExpenseDto.cs",
+              "RelativeDocumentMoniker": "NetPay\\DataProcessor\\ExportDtos\\ExportHouseholdExpenseDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\NetPay\\NetPay\\DataProcessor\\ExportDtos\\ExportHouseholdExpenseDto.cs",
+              "RelativeToolTip": "NetPay\\DataProcessor\\ExportDtos\\ExportHouseholdExpenseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T16:07:17.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExportHouseholdDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\NetPay\\NetPay\\DataProcessor\\ExportDtos\\ExportHouseholdDto.cs",
+              "RelativeDocumentMoniker": "NetPay\\DataProcessor\\ExportDtos\\ExportHouseholdDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\NetPay\\NetPay\\DataProcessor\\ExportDtos\\ExportHouseholdDto.cs",
+              "RelativeToolTip": "NetPay\\DataProcessor\\ExportDtos\\ExportHouseholdDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T16:05:34.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\NetPay\\NetPay\\DataProcessor\\Serializer.cs",
+              "RelativeDocumentMoniker": "NetPay\\DataProcessor\\Serializer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\NetPay\\NetPay\\DataProcessor\\Serializer.cs",
+              "RelativeToolTip": "NetPay\\DataProcessor\\Serializer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:01:57.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

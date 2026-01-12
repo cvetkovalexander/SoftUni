@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\01.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4E30F1-AEEA-446B-8A14-4E619B2923CD}|MiniORM\\MiniORM.csproj|c:\\users\\admin\\desktop\\01.orm-fundamentals-exercise-miniorm-skeleton-6.0\\miniorm\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4E30F1-AEEA-446B-8A14-4E619B2923CD}|MiniORM\\MiniORM.csproj|solutionrelative:miniorm\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4E30F1-AEEA-446B-8A14-4E619B2923CD}|MiniORM\\MiniORM.csproj|c:\\users\\admin\\desktop\\01.orm-fundamentals-exercise-miniorm-skeleton-6.0\\miniorm\\dbset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4E30F1-AEEA-446B-8A14-4E619B2923CD}|MiniORM\\MiniORM.csproj|solutionrelative:miniorm\\dbset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4E30F1-AEEA-446B-8A14-4E619B2923CD}|MiniORM\\MiniORM.csproj|c:\\users\\admin\\desktop\\01.orm-fundamentals-exercise-miniorm-skeleton-6.0\\miniorm\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4E30F1-AEEA-446B-8A14-4E619B2923CD}|MiniORM\\MiniORM.csproj|solutionrelative:miniorm\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4E30F1-AEEA-446B-8A14-4E619B2923CD}|MiniORM\\MiniORM.csproj|c:\\users\\admin\\desktop\\01.orm-fundamentals-exercise-miniorm-skeleton-6.0\\miniorm\\changetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4E30F1-AEEA-446B-8A14-4E619B2923CD}|MiniORM\\MiniORM.csproj|solutionrelative:miniorm\\changetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionMessages.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\01.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\\MiniORM\\ExceptionMessages.cs",
+              "RelativeDocumentMoniker": "MiniORM\\ExceptionMessages.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\01.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\\MiniORM\\ExceptionMessages.cs",
+              "RelativeToolTip": "MiniORM\\ExceptionMessages.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBIAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T10:21:21.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbSet.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\01.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\\MiniORM\\DbSet.cs",
+              "RelativeDocumentMoniker": "MiniORM\\DbSet.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\01.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\\MiniORM\\DbSet.cs",
+              "RelativeToolTip": "MiniORM\\DbSet.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA9wEYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T09:47:09.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\01.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\\MiniORM\\DbContext.cs",
+              "RelativeDocumentMoniker": "MiniORM\\DbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\01.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\\MiniORM\\DbContext.cs",
+              "RelativeToolTip": "MiniORM\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T09:25:33.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangeTracker.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\01.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\\MiniORM\\ChangeTracker.cs",
+              "RelativeDocumentMoniker": "MiniORM\\ChangeTracker.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\01.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\\MiniORM\\ChangeTracker.cs",
+              "RelativeToolTip": "MiniORM\\ChangeTracker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T09:11:40.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

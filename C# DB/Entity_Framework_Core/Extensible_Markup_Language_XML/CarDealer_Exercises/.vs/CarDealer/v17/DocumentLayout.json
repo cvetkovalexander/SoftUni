@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Extensible_Markup_Language_XML\\CarDealer_Exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\extensible_markup_language_xml\\cardealer_exercises\\cardealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\extensible_markup_language_xml\\cardealer_exercises\\cardealer\\dtos\\export\\problem_18\\exportcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\export\\problem_18\\exportcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\extensible_markup_language_xml\\cardealer_exercises\\cardealer\\models\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\models\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\extensible_markup_language_xml\\cardealer_exercises\\cardealer\\dtos\\export\\problem_19\\exportsaleswithdiscountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\export\\problem_19\\exportsaleswithdiscountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\extensible_markup_language_xml\\cardealer_exercises\\cardealer\\dtos\\export\\problem_19\\exportsaledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\export\\problem_19\\exportsaledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\extensible_markup_language_xml\\cardealer_exercises\\cardealer\\dtos\\export\\problem_19\\exportcardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\export\\problem_19\\exportcardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\extensible_markup_language_xml\\cardealer_exercises\\cardealer\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\extensible_markup_language_xml\\cardealer_exercises\\cardealer\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\extensible_markup_language_xml\\cardealer_exercises\\cardealer\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Part.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Extensible_Markup_Language_XML\\CarDealer_Exercises\\CarDealer\\Models\\Part.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Models\\Part.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Extensible_Markup_Language_XML\\CarDealer_Exercises\\CarDealer\\Models\\Part.cs",
+              "RelativeToolTip": "CarDealer\\Models\\Part.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:02:32.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExportCustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Extensible_Markup_Language_XML\\CarDealer_Exercises\\CarDealer\\DTOs\\Export\\Problem_18\\ExportCustomerDto.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Export\\Problem_18\\ExportCustomerDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Extensible_Markup_Language_XML\\CarDealer_Exercises\\CarDealer\\DTOs\\Export\\Problem_18\\ExportCustomerDto.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Export\\Problem_18\\ExportCustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:59:46.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExportCarDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Extensible_Markup_Language_XML\\CarDealer_Exercises\\CarDealer\\DTOs\\Export\\Problem_19\\ExportCarDto.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Export\\Problem_19\\ExportCarDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Extensible_Markup_Language_XML\\CarDealer_Exercises\\CarDealer\\DTOs\\Export\\Problem_19\\ExportCarDto.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Export\\Problem_19\\ExportCarDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:38:25.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExportSaleDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Extensible_Markup_Language_XML\\CarDealer_Exercises\\CarDealer\\DTOs\\Export\\Problem_19\\ExportSaleDto.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Export\\Problem_19\\ExportSaleDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Extensible_Markup_Language_XML\\CarDealer_Exercises\\CarDealer\\DTOs\\Export\\Problem_19\\ExportSaleDto.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Export\\Problem_19\\ExportSaleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:38:01.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExportSalesWithDiscountDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Extensible_Markup_Language_XML\\CarDealer_Exercises\\CarDealer\\DTOs\\Export\\Problem_19\\ExportSalesWithDiscountDto.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Export\\Problem_19\\ExportSalesWithDiscountDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Extensible_Markup_Language_XML\\CarDealer_Exercises\\CarDealer\\DTOs\\Export\\Problem_19\\ExportSalesWithDiscountDto.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Export\\Problem_19\\ExportSalesWithDiscountDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:37:25.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Extensible_Markup_Language_XML\\CarDealer_Exercises\\CarDealer\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Models\\Sale.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Extensible_Markup_Language_XML\\CarDealer_Exercises\\CarDealer\\Models\\Sale.cs",
+              "RelativeToolTip": "CarDealer\\Models\\Sale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T15:28:13.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Extensible_Markup_Language_XML\\CarDealer_Exercises\\CarDealer\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Extensible_Markup_Language_XML\\CarDealer_Exercises\\CarDealer\\Models\\Customer.cs",
+              "RelativeToolTip": "CarDealer\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T15:25:57.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Extensible_Markup_Language_XML\\CarDealer_Exercises\\CarDealer\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Extensible_Markup_Language_XML\\CarDealer_Exercises\\CarDealer\\Models\\Car.cs",
+              "RelativeToolTip": "CarDealer\\Models\\Car.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:48:50.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Extensible_Markup_Language_XML\\CarDealer_Exercises\\CarDealer\\StartUp.cs",
+              "RelativeDocumentMoniker": "CarDealer\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Extensible_Markup_Language_XML\\CarDealer_Exercises\\CarDealer\\StartUp.cs",
+              "RelativeToolTip": "CarDealer\\StartUp.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAGAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:29:06.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

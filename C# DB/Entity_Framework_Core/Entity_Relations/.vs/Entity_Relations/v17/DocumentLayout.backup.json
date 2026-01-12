@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Relations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2A1CA0-3086-4FC0-A635-BB6223D6A26F}|P01_StudentSystem\\P01_StudentSystem.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\entity_relations\\p01_studentsystem\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2A1CA0-3086-4FC0-A635-BB6223D6A26F}|P01_StudentSystem\\P01_StudentSystem.csproj|solutionrelative:p01_studentsystem\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF12742-3497-4861-AE83-4EEC2B62605E}|P01_StudentSystem.Data\\P01_StudentSystem.Data.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\entity_relations\\p01_studentsystem.data\\studentsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF12742-3497-4861-AE83-4EEC2B62605E}|P01_StudentSystem.Data\\P01_StudentSystem.Data.csproj|solutionrelative:p01_studentsystem.data\\studentsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA532F00-369E-4969-9A84-3F5E0A9A942C}|P01_StudentSystem.Common\\P01_StudentSystem.Common.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\entity_relations\\p01_studentsystem.common\\applicationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA532F00-369E-4969-9A84-3F5E0A9A942C}|P01_StudentSystem.Common\\P01_StudentSystem.Common.csproj|solutionrelative:p01_studentsystem.common\\applicationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22291EF2-4ADB-4F40-B22F-D1BA335255B7}|P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\entity_relations\\p01_studentsystem.data.models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22291EF2-4ADB-4F40-B22F-D1BA335255B7}|P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj|solutionrelative:p01_studentsystem.data.models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22291EF2-4ADB-4F40-B22F-D1BA335255B7}|P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\entity_relations\\p01_studentsystem.data.models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22291EF2-4ADB-4F40-B22F-D1BA335255B7}|P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj|solutionrelative:p01_studentsystem.data.models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22291EF2-4ADB-4F40-B22F-D1BA335255B7}|P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\entity_relations\\p01_studentsystem.data.models\\resourcetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22291EF2-4ADB-4F40-B22F-D1BA335255B7}|P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj|solutionrelative:p01_studentsystem.data.models\\resourcetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22291EF2-4ADB-4F40-B22F-D1BA335255B7}|P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\entity_relations\\p01_studentsystem.data.models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22291EF2-4ADB-4F40-B22F-D1BA335255B7}|P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj|solutionrelative:p01_studentsystem.data.models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22291EF2-4ADB-4F40-B22F-D1BA335255B7}|P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\entity_relations\\p01_studentsystem.data.models\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22291EF2-4ADB-4F40-B22F-D1BA335255B7}|P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj|solutionrelative:p01_studentsystem.data.models\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22291EF2-4ADB-4F40-B22F-D1BA335255B7}|P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\entity_relations\\p01_studentsystem.data.models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22291EF2-4ADB-4F40-B22F-D1BA335255B7}|P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj|solutionrelative:p01_studentsystem.data.models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22291EF2-4ADB-4F40-B22F-D1BA335255B7}|P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\entity_relations\\p01_studentsystem.data.models\\contenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22291EF2-4ADB-4F40-B22F-D1BA335255B7}|P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj|solutionrelative:p01_studentsystem.data.models\\contenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA532F00-369E-4969-9A84-3F5E0A9A942C}|P01_StudentSystem.Common\\P01_StudentSystem.Common.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\entity_relations\\p01_studentsystem.common\\entityvalidations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA532F00-369E-4969-9A84-3F5E0A9A942C}|P01_StudentSystem.Common\\P01_StudentSystem.Common.csproj|solutionrelative:p01_studentsystem.common\\entityvalidations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1217,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationConstants.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Relations\\P01_StudentSystem.Common\\ApplicationConstants.cs",
+              "RelativeDocumentMoniker": "P01_StudentSystem.Common\\ApplicationConstants.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Relations\\P01_StudentSystem.Common\\ApplicationConstants.cs",
+              "RelativeToolTip": "P01_StudentSystem.Common\\ApplicationConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T14:27:52.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Relations\\P01_StudentSystem.Data.Models\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "P01_StudentSystem.Data.Models\\StudentCourse.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Relations\\P01_StudentSystem.Data.Models\\StudentCourse.cs",
+              "RelativeToolTip": "P01_StudentSystem.Data.Models\\StudentCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T14:20:31.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContentType.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Relations\\P01_StudentSystem.Data.Models\\ContentType.cs",
+              "RelativeDocumentMoniker": "P01_StudentSystem.Data.Models\\ContentType.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Relations\\P01_StudentSystem.Data.Models\\ContentType.cs",
+              "RelativeToolTip": "P01_StudentSystem.Data.Models\\ContentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T14:19:07.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Homework.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Relations\\P01_StudentSystem.Data.Models\\Homework.cs",
+              "RelativeDocumentMoniker": "P01_StudentSystem.Data.Models\\Homework.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Relations\\P01_StudentSystem.Data.Models\\Homework.cs",
+              "RelativeToolTip": "P01_StudentSystem.Data.Models\\Homework.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T14:17:08.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResourceType.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Relations\\P01_StudentSystem.Data.Models\\ResourceType.cs",
+              "RelativeDocumentMoniker": "P01_StudentSystem.Data.Models\\ResourceType.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Relations\\P01_StudentSystem.Data.Models\\ResourceType.cs",
+              "RelativeToolTip": "P01_StudentSystem.Data.Models\\ResourceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T14:12:13.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Resource.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Relations\\P01_StudentSystem.Data.Models\\Resource.cs",
+              "RelativeDocumentMoniker": "P01_StudentSystem.Data.Models\\Resource.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Relations\\P01_StudentSystem.Data.Models\\Resource.cs",
+              "RelativeToolTip": "P01_StudentSystem.Data.Models\\Resource.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T14:06:03.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Relations\\P01_StudentSystem.Data.Models\\Course.cs",
+              "RelativeDocumentMoniker": "P01_StudentSystem.Data.Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Relations\\P01_StudentSystem.Data.Models\\Course.cs",
+              "RelativeToolTip": "P01_StudentSystem.Data.Models\\Course.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T14:00:44.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EntityValidations.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Relations\\P01_StudentSystem.Common\\EntityValidations.cs",
+              "RelativeDocumentMoniker": "P01_StudentSystem.Common\\EntityValidations.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Relations\\P01_StudentSystem.Common\\EntityValidations.cs",
+              "RelativeToolTip": "P01_StudentSystem.Common\\EntityValidations.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T13:53:18.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Relations\\P01_StudentSystem.Data.Models\\Student.cs",
+              "RelativeDocumentMoniker": "P01_StudentSystem.Data.Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Relations\\P01_StudentSystem.Data.Models\\Student.cs",
+              "RelativeToolTip": "P01_StudentSystem.Data.Models\\Student.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T13:52:10.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentSystemContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Relations\\P01_StudentSystem.Data\\StudentSystemContext.cs",
+              "RelativeDocumentMoniker": "P01_StudentSystem.Data\\StudentSystemContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Relations\\P01_StudentSystem.Data\\StudentSystemContext.cs",
+              "RelativeToolTip": "P01_StudentSystem.Data\\StudentSystemContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T13:51:36.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Relations\\P01_StudentSystem\\StartUp.cs",
+              "RelativeDocumentMoniker": "P01_StudentSystem\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Relations\\P01_StudentSystem\\StartUp.cs",
+              "RelativeToolTip": "P01_StudentSystem\\StartUp.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T13:43:51.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

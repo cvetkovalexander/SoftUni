@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\JavaScript_Object_Notation_JSON\\CarDealer_Exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\javascript_object_notation_json\\cardealer_exercises\\cardealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\javascript_object_notation_json\\cardealer_exercises\\cardealer\\dtos\\import\\importcardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\import\\importcardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\javascript_object_notation_json\\cardealer_exercises\\cardealer\\datasets\\cars.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\datasets\\cars.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\javascript_object_notation_json\\cardealer_exercises\\cardealer\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\javascript_object_notation_json\\cardealer_exercises\\cardealer\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\javascript_object_notation_json\\cardealer_exercises\\cardealer\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\javascript_object_notation_json\\cardealer_exercises\\cardealer\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\javascript_object_notation_json\\cardealer_exercises\\cardealer\\dtos\\import\\importsaledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\import\\importsaledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\javascript_object_notation_json\\cardealer_exercises\\cardealer\\datasets\\sales.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\datasets\\sales.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\JavaScript_Object_Notation_JSON\\CarDealer_Exercises\\CarDealer\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Models\\Sale.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\JavaScript_Object_Notation_JSON\\CarDealer_Exercises\\CarDealer\\Models\\Sale.cs",
+              "RelativeToolTip": "CarDealer\\Models\\Sale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T18:47:49.457Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cars.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\JavaScript_Object_Notation_JSON\\CarDealer_Exercises\\CarDealer\\Datasets\\cars.json",
+              "RelativeDocumentMoniker": "CarDealer\\Datasets\\cars.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\JavaScript_Object_Notation_JSON\\CarDealer_Exercises\\CarDealer\\Datasets\\cars.json",
+              "RelativeToolTip": "CarDealer\\Datasets\\cars.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-23T14:31:02.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImportCarDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\JavaScript_Object_Notation_JSON\\CarDealer_Exercises\\CarDealer\\DTOs\\Import\\ImportCarDto.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Import\\ImportCarDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\JavaScript_Object_Notation_JSON\\CarDealer_Exercises\\CarDealer\\DTOs\\Import\\ImportCarDto.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Import\\ImportCarDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T14:29:04.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\JavaScript_Object_Notation_JSON\\CarDealer_Exercises\\CarDealer\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\JavaScript_Object_Notation_JSON\\CarDealer_Exercises\\CarDealer\\Models\\Supplier.cs",
+              "RelativeToolTip": "CarDealer\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:46:37.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\JavaScript_Object_Notation_JSON\\CarDealer_Exercises\\CarDealer\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\JavaScript_Object_Notation_JSON\\CarDealer_Exercises\\CarDealer\\Models\\Customer.cs",
+              "RelativeToolTip": "CarDealer\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:13:42.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\JavaScript_Object_Notation_JSON\\CarDealer_Exercises\\CarDealer\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\JavaScript_Object_Notation_JSON\\CarDealer_Exercises\\CarDealer\\Models\\Car.cs",
+              "RelativeToolTip": "CarDealer\\Models\\Car.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:13:36.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImportSaleDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\JavaScript_Object_Notation_JSON\\CarDealer_Exercises\\CarDealer\\DTOs\\Import\\ImportSaleDto.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Import\\ImportSaleDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\JavaScript_Object_Notation_JSON\\CarDealer_Exercises\\CarDealer\\DTOs\\Import\\ImportSaleDto.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Import\\ImportSaleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T18:48:11.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "sales.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\JavaScript_Object_Notation_JSON\\CarDealer_Exercises\\CarDealer\\Datasets\\sales.json",
+              "RelativeDocumentMoniker": "CarDealer\\Datasets\\sales.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\JavaScript_Object_Notation_JSON\\CarDealer_Exercises\\CarDealer\\Datasets\\sales.json",
+              "RelativeToolTip": "CarDealer\\Datasets\\sales.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-16T18:47:44.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\JavaScript_Object_Notation_JSON\\CarDealer_Exercises\\CarDealer\\StartUp.cs",
+              "RelativeDocumentMoniker": "CarDealer\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\JavaScript_Object_Notation_JSON\\CarDealer_Exercises\\CarDealer\\StartUp.cs",
+              "RelativeToolTip": "CarDealer\\StartUp.cs",
+              "ViewState": "AgIAAFsBAAAAAAAAAAAUwHIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T18:44:02.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05ABA8C7-E9FF-4DD2-9FA7-C17A37174890}|BookShop\\BookShop.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\advanced_querying\\bookshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ABA8C7-E9FF-4DD2-9FA7-C17A37174890}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00A6964-65AB-4584-AFAD-1AEA5EFD878F}|BookShop.Models\\BookShop.Models.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\advanced_querying\\bookshop.models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00A6964-65AB-4584-AFAD-1AEA5EFD878F}|BookShop.Models\\BookShop.Models.csproj|solutionrelative:bookshop.models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00A6964-65AB-4584-AFAD-1AEA5EFD878F}|BookShop.Models\\BookShop.Models.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\advanced_querying\\bookshop.models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00A6964-65AB-4584-AFAD-1AEA5EFD878F}|BookShop.Models\\BookShop.Models.csproj|solutionrelative:bookshop.models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00A6964-65AB-4584-AFAD-1AEA5EFD878F}|BookShop.Models\\BookShop.Models.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\advanced_querying\\bookshop.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00A6964-65AB-4584-AFAD-1AEA5EFD878F}|BookShop.Models\\BookShop.Models.csproj|solutionrelative:bookshop.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF00240-FCE5-4DD9-ABF2-A6CD8D667353}|BookShop.Data\\BookShop.Data.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\advanced_querying\\bookshop.data\\bookshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF00240-FCE5-4DD9-ABF2-A6CD8D667353}|BookShop.Data\\BookShop.Data.csproj|solutionrelative:bookshop.data\\bookshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00A6964-65AB-4584-AFAD-1AEA5EFD878F}|BookShop.Models\\BookShop.Models.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\advanced_querying\\bookshop.models\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00A6964-65AB-4584-AFAD-1AEA5EFD878F}|BookShop.Models\\BookShop.Models.csproj|solutionrelative:bookshop.models\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF00240-FCE5-4DD9-ABF2-A6CD8D667353}|BookShop.Data\\BookShop.Data.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\advanced_querying\\bookshop.data\\entityconfiguration\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF00240-FCE5-4DD9-ABF2-A6CD8D667353}|BookShop.Data\\BookShop.Data.csproj|solutionrelative:bookshop.data\\entityconfiguration\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00A6964-65AB-4584-AFAD-1AEA5EFD878F}|BookShop.Models\\BookShop.Models.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\advanced_querying\\bookshop.models\\enums\\agerestriction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00A6964-65AB-4584-AFAD-1AEA5EFD878F}|BookShop.Models\\BookShop.Models.csproj|solutionrelative:bookshop.models\\enums\\agerestriction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF00240-FCE5-4DD9-ABF2-A6CD8D667353}|BookShop.Data\\BookShop.Data.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\advanced_querying\\bookshop.data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF00240-FCE5-4DD9-ABF2-A6CD8D667353}|BookShop.Data\\BookShop.Data.csproj|solutionrelative:bookshop.data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02AC7E2-76E4-4DDD-B151-98DB73F8DBAB}|BookShop.Initializer\\BookShop.Initializer.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\advanced_querying\\bookshop.initializer\\generators\\categorygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02AC7E2-76E4-4DDD-B151-98DB73F8DBAB}|BookShop.Initializer\\BookShop.Initializer.csproj|solutionrelative:bookshop.initializer\\generators\\categorygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02AC7E2-76E4-4DDD-B151-98DB73F8DBAB}|BookShop.Initializer\\BookShop.Initializer.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\advanced_querying\\bookshop.initializer\\generators\\bookgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02AC7E2-76E4-4DDD-B151-98DB73F8DBAB}|BookShop.Initializer\\BookShop.Initializer.csproj|solutionrelative:bookshop.initializer\\generators\\bookgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02AC7E2-76E4-4DDD-B151-98DB73F8DBAB}|BookShop.Initializer\\BookShop.Initializer.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\advanced_querying\\bookshop.initializer\\generators\\authorgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02AC7E2-76E4-4DDD-B151-98DB73F8DBAB}|BookShop.Initializer\\BookShop.Initializer.csproj|solutionrelative:bookshop.initializer\\generators\\authorgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02AC7E2-76E4-4DDD-B151-98DB73F8DBAB}|BookShop.Initializer\\BookShop.Initializer.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\advanced_querying\\bookshop.initializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02AC7E2-76E4-4DDD-B151-98DB73F8DBAB}|BookShop.Initializer\\BookShop.Initializer.csproj|solutionrelative:bookshop.initializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF00240-FCE5-4DD9-ABF2-A6CD8D667353}|BookShop.Data\\BookShop.Data.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\advanced_querying\\bookshop.data\\entityconfiguration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF00240-FCE5-4DD9-ABF2-A6CD8D667353}|BookShop.Data\\BookShop.Data.csproj|solutionrelative:bookshop.data\\entityconfiguration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF00240-FCE5-4DD9-ABF2-A6CD8D667353}|BookShop.Data\\BookShop.Data.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\advanced_querying\\bookshop.data\\entityconfiguration\\bookcategoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF00240-FCE5-4DD9-ABF2-A6CD8D667353}|BookShop.Data\\BookShop.Data.csproj|solutionrelative:bookshop.data\\entityconfiguration\\bookcategoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF00240-FCE5-4DD9-ABF2-A6CD8D667353}|BookShop.Data\\BookShop.Data.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\advanced_querying\\bookshop.data\\entityconfiguration\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF00240-FCE5-4DD9-ABF2-A6CD8D667353}|BookShop.Data\\BookShop.Data.csproj|solutionrelative:bookshop.data\\entityconfiguration\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\BookShop.Models\\Category.cs",
+              "RelativeDocumentMoniker": "BookShop.Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\BookShop.Models\\Category.cs",
+              "RelativeToolTip": "BookShop.Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:36:10.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\BookShop.Models\\BookCategory.cs",
+              "RelativeDocumentMoniker": "BookShop.Models\\BookCategory.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\BookShop.Models\\BookCategory.cs",
+              "RelativeToolTip": "BookShop.Models\\BookCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:36:09.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\BookShop.Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookShop.Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\BookShop.Models\\Book.cs",
+              "RelativeToolTip": "BookShop.Models\\Book.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwBwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:36:08.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\BookShop.Models\\Author.cs",
+              "RelativeDocumentMoniker": "BookShop.Models\\Author.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\BookShop.Models\\Author.cs",
+              "RelativeToolTip": "BookShop.Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:36:07.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\BookShop.Initializer\\Generators\\CategoryGenerator.cs",
+              "RelativeDocumentMoniker": "BookShop.Initializer\\Generators\\CategoryGenerator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\BookShop.Initializer\\Generators\\CategoryGenerator.cs",
+              "RelativeToolTip": "BookShop.Initializer\\Generators\\CategoryGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:36:05.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\BookShop.Initializer\\Generators\\BookGenerator.cs",
+              "RelativeDocumentMoniker": "BookShop.Initializer\\Generators\\BookGenerator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\BookShop.Initializer\\Generators\\BookGenerator.cs",
+              "RelativeToolTip": "BookShop.Initializer\\Generators\\BookGenerator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:35:59.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthorGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\BookShop.Initializer\\Generators\\AuthorGenerator.cs",
+              "RelativeDocumentMoniker": "BookShop.Initializer\\Generators\\AuthorGenerator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\BookShop.Initializer\\Generators\\AuthorGenerator.cs",
+              "RelativeToolTip": "BookShop.Initializer\\Generators\\AuthorGenerator.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:35:55.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\BookShop.Data\\BookShopContext.cs",
+              "RelativeDocumentMoniker": "BookShop.Data\\BookShopContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\BookShop.Data\\BookShopContext.cs",
+              "RelativeToolTip": "BookShop.Data\\BookShopContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:35:44.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\BookShop\\StartUp.cs",
+              "RelativeDocumentMoniker": "BookShop\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\BookShop\\StartUp.cs*",
+              "RelativeToolTip": "BookShop\\StartUp.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:35:21.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\BookShop.Data\\Configuration.cs",
+              "RelativeDocumentMoniker": "BookShop.Data\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\BookShop.Data\\Configuration.cs",
+              "RelativeToolTip": "BookShop.Data\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:36:46.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AgeRestriction.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\BookShop.Models\\Enums\\AgeRestriction.cs",
+              "RelativeDocumentMoniker": "BookShop.Models\\Enums\\AgeRestriction.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\BookShop.Models\\Enums\\AgeRestriction.cs",
+              "RelativeToolTip": "BookShop.Models\\Enums\\AgeRestriction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T10:27:20.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\BookShop.Initializer\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "BookShop.Initializer\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\BookShop.Initializer\\DbInitializer.cs",
+              "RelativeToolTip": "BookShop.Initializer\\DbInitializer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:35:49.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\BookShop.Data\\EntityConfiguration\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "BookShop.Data\\EntityConfiguration\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\BookShop.Data\\EntityConfiguration\\CategoryConfiguration.cs",
+              "RelativeToolTip": "BookShop.Data\\EntityConfiguration\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:35:41.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\BookShop.Data\\EntityConfiguration\\BookConfiguration.cs",
+              "RelativeDocumentMoniker": "BookShop.Data\\EntityConfiguration\\BookConfiguration.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\BookShop.Data\\EntityConfiguration\\BookConfiguration.cs",
+              "RelativeToolTip": "BookShop.Data\\EntityConfiguration\\BookConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:35:40.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookCategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\BookShop.Data\\EntityConfiguration\\BookCategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "BookShop.Data\\EntityConfiguration\\BookCategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\BookShop.Data\\EntityConfiguration\\BookCategoryConfiguration.cs",
+              "RelativeToolTip": "BookShop.Data\\EntityConfiguration\\BookCategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:35:39.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\BookShop.Data\\EntityConfiguration\\AuthorConfiguration.cs",
+              "RelativeDocumentMoniker": "BookShop.Data\\EntityConfiguration\\AuthorConfiguration.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Advanced_Querying\\BookShop.Data\\EntityConfiguration\\AuthorConfiguration.cs",
+              "RelativeToolTip": "BookShop.Data\\EntityConfiguration\\AuthorConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:35:34.652Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

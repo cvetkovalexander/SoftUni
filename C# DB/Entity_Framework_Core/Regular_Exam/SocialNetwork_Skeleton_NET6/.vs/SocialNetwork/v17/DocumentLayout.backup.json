@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Regular_Exam\\SocialNetwork_Skeleton_NET6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\regular_exam\\socialnetwork_skeleton_net6\\socialnetwork\\datasets\\messages.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\datasets\\messages.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\regular_exam\\socialnetwork_skeleton_net6\\socialnetwork\\dataprocessor\\importdtos\\importmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\dataprocessor\\importdtos\\importmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\regular_exam\\socialnetwork_skeleton_net6\\socialnetwork\\dataprocessor\\importdtos\\importpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\dataprocessor\\importdtos\\importpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\regular_exam\\socialnetwork_skeleton_net6\\socialnetwork\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "messages.xml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Regular_Exam\\SocialNetwork_Skeleton_NET6\\SocialNetwork\\Datasets\\messages.xml",
+              "RelativeDocumentMoniker": "SocialNetwork\\Datasets\\messages.xml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Regular_Exam\\SocialNetwork_Skeleton_NET6\\SocialNetwork\\Datasets\\messages.xml",
+              "RelativeToolTip": "SocialNetwork\\Datasets\\messages.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-11-30T09:54:52.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImportMessageDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Regular_Exam\\SocialNetwork_Skeleton_NET6\\SocialNetwork\\DataProcessor\\ImportDTOs\\ImportMessageDto.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\DataProcessor\\ImportDTOs\\ImportMessageDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Regular_Exam\\SocialNetwork_Skeleton_NET6\\SocialNetwork\\DataProcessor\\ImportDTOs\\ImportMessageDto.cs",
+              "RelativeToolTip": "SocialNetwork\\DataProcessor\\ImportDTOs\\ImportMessageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T09:54:19.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImportPostDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Regular_Exam\\SocialNetwork_Skeleton_NET6\\SocialNetwork\\DataProcessor\\ImportDTOs\\ImportPostDto.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\DataProcessor\\ImportDTOs\\ImportPostDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Regular_Exam\\SocialNetwork_Skeleton_NET6\\SocialNetwork\\DataProcessor\\ImportDTOs\\ImportPostDto.cs",
+              "RelativeToolTip": "SocialNetwork\\DataProcessor\\ImportDTOs\\ImportPostDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T09:54:14.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Deserializer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Regular_Exam\\SocialNetwork_Skeleton_NET6\\SocialNetwork\\DataProcessor\\Deserializer.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\DataProcessor\\Deserializer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Regular_Exam\\SocialNetwork_Skeleton_NET6\\SocialNetwork\\DataProcessor\\Deserializer.cs",
+              "RelativeToolTip": "SocialNetwork\\DataProcessor\\Deserializer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T09:46:01.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

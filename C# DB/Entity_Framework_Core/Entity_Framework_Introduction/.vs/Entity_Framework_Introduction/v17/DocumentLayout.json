@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Framework_Introduction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBE9807-3B86-44A4-B179-DF35259D05B9}|Entity_Framework_Introduction\\Entity_Framework_Introduction.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\entity_framework_introduction\\entity_framework_introduction\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBE9807-3B86-44A4-B179-DF35259D05B9}|Entity_Framework_Introduction\\Entity_Framework_Introduction.csproj|solutionrelative:entity_framework_introduction\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBE9807-3B86-44A4-B179-DF35259D05B9}|Entity_Framework_Introduction\\Entity_Framework_Introduction.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\entity_framework_introduction\\entity_framework_introduction\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBE9807-3B86-44A4-B179-DF35259D05B9}|Entity_Framework_Introduction\\Entity_Framework_Introduction.csproj|solutionrelative:entity_framework_introduction\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBE9807-3B86-44A4-B179-DF35259D05B9}|Entity_Framework_Introduction\\Entity_Framework_Introduction.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\entity_framework_introduction\\entity_framework_introduction\\entity_framework_introduction.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0EBE9807-3B86-44A4-B179-DF35259D05B9}|Entity_Framework_Introduction\\Entity_Framework_Introduction.csproj|solutionrelative:entity_framework_introduction\\entity_framework_introduction.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBE9807-3B86-44A4-B179-DF35259D05B9}|Entity_Framework_Introduction\\Entity_Framework_Introduction.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\entity_framework_introduction\\entity_framework_introduction\\data\\softunicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBE9807-3B86-44A4-B179-DF35259D05B9}|Entity_Framework_Introduction\\Entity_Framework_Introduction.csproj|solutionrelative:entity_framework_introduction\\data\\softunicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBE9807-3B86-44A4-B179-DF35259D05B9}|Entity_Framework_Introduction\\Entity_Framework_Introduction.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\entity_framework_introduction\\entity_framework_introduction\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBE9807-3B86-44A4-B179-DF35259D05B9}|Entity_Framework_Introduction\\Entity_Framework_Introduction.csproj|solutionrelative:entity_framework_introduction\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBE9807-3B86-44A4-B179-DF35259D05B9}|Entity_Framework_Introduction\\Entity_Framework_Introduction.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\entity_framework_introduction\\entity_framework_introduction\\models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBE9807-3B86-44A4-B179-DF35259D05B9}|Entity_Framework_Introduction\\Entity_Framework_Introduction.csproj|solutionrelative:entity_framework_introduction\\models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBE9807-3B86-44A4-B179-DF35259D05B9}|Entity_Framework_Introduction\\Entity_Framework_Introduction.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\entity_framework_introduction\\entity_framework_introduction\\models\\town.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBE9807-3B86-44A4-B179-DF35259D05B9}|Entity_Framework_Introduction\\Entity_Framework_Introduction.csproj|solutionrelative:entity_framework_introduction\\models\\town.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBE9807-3B86-44A4-B179-DF35259D05B9}|Entity_Framework_Introduction\\Entity_Framework_Introduction.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\entity_framework_introduction\\entity_framework_introduction\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBE9807-3B86-44A4-B179-DF35259D05B9}|Entity_Framework_Introduction\\Entity_Framework_Introduction.csproj|solutionrelative:entity_framework_introduction\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBE9807-3B86-44A4-B179-DF35259D05B9}|Entity_Framework_Introduction\\Entity_Framework_Introduction.csproj|c:\\users\\admin\\desktop\\c# db\\entity_framework_core\\entity_framework_introduction\\entity_framework_introduction\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBE9807-3B86-44A4-B179-DF35259D05B9}|Entity_Framework_Introduction\\Entity_Framework_Introduction.csproj|solutionrelative:entity_framework_introduction\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Framework_Introduction\\Entity_Framework_Introduction\\Data\\Models\\SoftUniContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entity_Framework_Introduction\\Data\\Models\\SoftUniContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Entity_Framework_Introduction",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Framework_Introduction\\Entity_Framework_Introduction\\Entity_Framework_Introduction.csproj",
+              "RelativeDocumentMoniker": "Entity_Framework_Introduction\\Entity_Framework_Introduction.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Framework_Introduction\\Entity_Framework_Introduction\\Entity_Framework_Introduction.csproj",
+              "RelativeToolTip": "Entity_Framework_Introduction\\Entity_Framework_Introduction.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-25T10:29:23.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeProject.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Framework_Introduction\\Entity_Framework_Introduction\\Models\\EmployeeProject.cs",
+              "RelativeDocumentMoniker": "Entity_Framework_Introduction\\Models\\EmployeeProject.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Framework_Introduction\\Entity_Framework_Introduction\\Models\\EmployeeProject.cs",
+              "RelativeToolTip": "Entity_Framework_Introduction\\Models\\EmployeeProject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T14:04:15.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SoftUniContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Framework_Introduction\\Entity_Framework_Introduction\\Data\\SoftUniContext.cs",
+              "RelativeDocumentMoniker": "Entity_Framework_Introduction\\Data\\SoftUniContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Framework_Introduction\\Entity_Framework_Introduction\\Data\\SoftUniContext.cs",
+              "RelativeToolTip": "Entity_Framework_Introduction\\Data\\SoftUniContext.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAUwCsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:43:04.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Town.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Framework_Introduction\\Entity_Framework_Introduction\\Models\\Town.cs",
+              "RelativeDocumentMoniker": "Entity_Framework_Introduction\\Models\\Town.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Framework_Introduction\\Entity_Framework_Introduction\\Models\\Town.cs",
+              "RelativeToolTip": "Entity_Framework_Introduction\\Models\\Town.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:42:36.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Framework_Introduction\\Entity_Framework_Introduction\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Entity_Framework_Introduction\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Framework_Introduction\\Entity_Framework_Introduction\\Models\\Project.cs",
+              "RelativeToolTip": "Entity_Framework_Introduction\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:42:09.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Framework_Introduction\\Entity_Framework_Introduction\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Entity_Framework_Introduction\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Framework_Introduction\\Entity_Framework_Introduction\\Models\\Employee.cs",
+              "RelativeToolTip": "Entity_Framework_Introduction\\Models\\Employee.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:38:40.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Framework_Introduction\\Entity_Framework_Introduction\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Entity_Framework_Introduction\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Framework_Introduction\\Entity_Framework_Introduction\\Models\\Department.cs",
+              "RelativeToolTip": "Entity_Framework_Introduction\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:37:28.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Framework_Introduction\\Entity_Framework_Introduction\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "Entity_Framework_Introduction\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Framework_Introduction\\Entity_Framework_Introduction\\Models\\Address.cs",
+              "RelativeToolTip": "Entity_Framework_Introduction\\Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:29:06.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SoftUniContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Framework_Introduction\\Entity_Framework_Introduction\\Data\\Models\\SoftUniContext.cs",
+              "RelativeDocumentMoniker": "Entity_Framework_Introduction\\Data\\Models\\SoftUniContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Framework_Introduction\\Entity_Framework_Introduction\\Data\\Models\\SoftUniContext.cs",
+              "RelativeToolTip": "Entity_Framework_Introduction\\Data\\Models\\SoftUniContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:27:53.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Framework_Introduction\\Entity_Framework_Introduction\\StartUp.cs",
+              "RelativeDocumentMoniker": "Entity_Framework_Introduction\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# DB\\Entity_Framework_Core\\Entity_Framework_Introduction\\Entity_Framework_Introduction\\StartUp.cs",
+              "RelativeToolTip": "Entity_Framework_Introduction\\StartUp.cs",
+              "ViewState": "AgIAAGcBAAAAAAAAAAAmwM0BAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:03:55.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

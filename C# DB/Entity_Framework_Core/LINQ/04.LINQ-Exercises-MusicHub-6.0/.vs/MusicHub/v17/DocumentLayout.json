@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\04.LINQ-Exercises-MusicHub-6.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|c:\\users\\admin\\desktop\\04.linq-exercises-musichub-6.0\\musichub\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|solutionrelative:musichub\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|c:\\users\\admin\\desktop\\04.linq-exercises-musichub-6.0\\musichub\\data\\models\\performer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|solutionrelative:musichub\\data\\models\\performer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|c:\\users\\admin\\desktop\\04.linq-exercises-musichub-6.0\\musichub\\data\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|solutionrelative:musichub\\data\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|c:\\users\\admin\\desktop\\04.linq-exercises-musichub-6.0\\musichub\\data\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|solutionrelative:musichub\\data\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|c:\\users\\admin\\desktop\\04.linq-exercises-musichub-6.0\\musichub\\data\\models\\writer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|solutionrelative:musichub\\data\\models\\writer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|c:\\users\\admin\\desktop\\04.linq-exercises-musichub-6.0\\musichub\\data\\models\\songperformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|solutionrelative:musichub\\data\\models\\songperformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|c:\\users\\admin\\desktop\\04.linq-exercises-musichub-6.0\\musichub\\data\\models\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|solutionrelative:musichub\\data\\models\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|c:\\users\\admin\\desktop\\04.linq-exercises-musichub-6.0\\musichub\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|solutionrelative:musichub\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|c:\\users\\admin\\desktop\\04.linq-exercises-musichub-6.0\\musichub\\data\\musichubdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|solutionrelative:musichub\\data\\musichubdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|c:\\users\\admin\\desktop\\04.linq-exercises-musichub-6.0\\musichub\\data\\models\\enums\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|solutionrelative:musichub\\data\\models\\enums\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|c:\\users\\admin\\desktop\\04.linq-exercises-musichub-6.0\\musichub\\initializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|solutionrelative:musichub\\initializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Writer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\04.LINQ-Exercises-MusicHub-6.0\\MusicHub\\Data\\Models\\Writer.cs",
+              "RelativeDocumentMoniker": "MusicHub\\Data\\Models\\Writer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\04.LINQ-Exercises-MusicHub-6.0\\MusicHub\\Data\\Models\\Writer.cs",
+              "RelativeToolTip": "MusicHub\\Data\\Models\\Writer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:35:55.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SongPerformer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\04.LINQ-Exercises-MusicHub-6.0\\MusicHub\\Data\\Models\\SongPerformer.cs",
+              "RelativeDocumentMoniker": "MusicHub\\Data\\Models\\SongPerformer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\04.LINQ-Exercises-MusicHub-6.0\\MusicHub\\Data\\Models\\SongPerformer.cs",
+              "RelativeToolTip": "MusicHub\\Data\\Models\\SongPerformer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:35:53.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Producer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\04.LINQ-Exercises-MusicHub-6.0\\MusicHub\\Data\\Models\\Producer.cs",
+              "RelativeDocumentMoniker": "MusicHub\\Data\\Models\\Producer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\04.LINQ-Exercises-MusicHub-6.0\\MusicHub\\Data\\Models\\Producer.cs",
+              "RelativeToolTip": "MusicHub\\Data\\Models\\Producer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:35:21.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\04.LINQ-Exercises-MusicHub-6.0\\MusicHub\\Data\\Models\\Song.cs",
+              "RelativeDocumentMoniker": "MusicHub\\Data\\Models\\Song.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\04.LINQ-Exercises-MusicHub-6.0\\MusicHub\\Data\\Models\\Song.cs",
+              "RelativeToolTip": "MusicHub\\Data\\Models\\Song.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:34:31.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Performer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\04.LINQ-Exercises-MusicHub-6.0\\MusicHub\\Data\\Models\\Performer.cs",
+              "RelativeDocumentMoniker": "MusicHub\\Data\\Models\\Performer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\04.LINQ-Exercises-MusicHub-6.0\\MusicHub\\Data\\Models\\Performer.cs",
+              "RelativeToolTip": "MusicHub\\Data\\Models\\Performer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:34:14.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\04.LINQ-Exercises-MusicHub-6.0\\MusicHub\\Data\\Models\\Album.cs",
+              "RelativeDocumentMoniker": "MusicHub\\Data\\Models\\Album.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\04.LINQ-Exercises-MusicHub-6.0\\MusicHub\\Data\\Models\\Album.cs",
+              "RelativeToolTip": "MusicHub\\Data\\Models\\Album.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:23:30.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\04.LINQ-Exercises-MusicHub-6.0\\MusicHub\\Data\\Models\\Enums\\Genre.cs",
+              "RelativeDocumentMoniker": "MusicHub\\Data\\Models\\Enums\\Genre.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\04.LINQ-Exercises-MusicHub-6.0\\MusicHub\\Data\\Models\\Enums\\Genre.cs",
+              "RelativeToolTip": "MusicHub\\Data\\Models\\Enums\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:21:48.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MusicHubDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\04.LINQ-Exercises-MusicHub-6.0\\MusicHub\\Data\\MusicHubDbContext.cs",
+              "RelativeDocumentMoniker": "MusicHub\\Data\\MusicHubDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\04.LINQ-Exercises-MusicHub-6.0\\MusicHub\\Data\\MusicHubDbContext.cs",
+              "RelativeToolTip": "MusicHub\\Data\\MusicHubDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:20:36.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\04.LINQ-Exercises-MusicHub-6.0\\MusicHub\\Data\\Configuration.cs",
+              "RelativeDocumentMoniker": "MusicHub\\Data\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\04.LINQ-Exercises-MusicHub-6.0\\MusicHub\\Data\\Configuration.cs",
+              "RelativeToolTip": "MusicHub\\Data\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:18:59.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\04.LINQ-Exercises-MusicHub-6.0\\MusicHub\\Initializer\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "MusicHub\\Initializer\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\04.LINQ-Exercises-MusicHub-6.0\\MusicHub\\Initializer\\DbInitializer.cs",
+              "RelativeToolTip": "MusicHub\\Initializer\\DbInitializer.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:18:49.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\04.LINQ-Exercises-MusicHub-6.0\\MusicHub\\StartUp.cs",
+              "RelativeDocumentMoniker": "MusicHub\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\04.LINQ-Exercises-MusicHub-6.0\\MusicHub\\StartUp.cs",
+              "RelativeToolTip": "MusicHub\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:18:36.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
